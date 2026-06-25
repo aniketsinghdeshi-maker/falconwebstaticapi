@@ -6,9 +6,9 @@
   "mirrorUrl": "https://falconcastapp.link",
   "footerSignature": "Made with love by 🇷🇺.",
   "footerDmca": "Novo-Ogaryovo, Odintsovsky District, Moscow Oblast, Russia",
-  "adsEnabled": false,
+  "adsEnabled": true,
   "showBannerAd": true,
   "showPopunderAd": true,
-  "showSocialBarAd": false,
+  "showSocialBarAd": true,
   "showDirectAd": true
 }
