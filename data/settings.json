@@ -10,5 +10,5 @@
   "showBannerAd": true,
   "showPopunderAd": true,
   "showSocialBarAd": true,
-  "showDirectAd": true
+  "showDirectAd": false
 }
