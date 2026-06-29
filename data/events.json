@@ -67,7 +67,7 @@
     "slug": "mlb-2026-06-29-chw-bal-24214",
     "title": "Chicago White Sox vs. Baltimore Orioles",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-06-29T22:35:00.000Z",
     "endsAt": "2026-06-30T02:05:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a16b400d7482aa1db960faef28b1a518-thumbnail.jpg",
@@ -116,6 +116,25 @@
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-06-29/tex-cle"
+      }
+    ]
+  },
+  {
+    "id": "fe6199b5-1d97-44de-ab08-132dd1702f4e",
+    "slug": "mlb-2026-06-29-det-nyy-24217",
+    "title": "Detroit Tigers vs. New York Yankees",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-06-29T23:05:00.000Z",
+    "endsAt": "2026-06-30T02:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/1912f3970e5cb1895f1c74c03adf9198-thumbnail.jpg",
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-06-29/det-nyy",
+    "feeds": [
+      {
+        "id": "76041700-8b00-47dc-99dd-1aeaecdfae26",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-06-29/det-nyy"
       }
     ]
   },
@@ -245,10 +264,52 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar",
     "feeds": [
       {
-        "id": "de7b7b14-cbcf-4bcf-99b2-7719f681bc15",
+        "id": "1f6e8f07-9927-4382-9e70-953131ad2409",
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar"
+      },
+      {
+        "id": "3eb3d1c3-f371-4891-aabb-f2e9a3e57588",
+        "sourceId": null,
+        "label": "All Devices (S2)",
+        "embedUrl": "https://embedindia.st/embed/wc/2026-06-29/ned-mar"
+      },
+      {
+        "id": "2ab0d238-be7f-4458-85dd-3d120e55e7ad",
+        "sourceId": null,
+        "label": "Fox Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar/fox"
+      },
+      {
+        "id": "d257f0a6-761e-46d0-a902-107e4ff43b92",
+        "sourceId": null,
+        "label": "Fox Sports (4k) HEVC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar/fox-4k"
+      },
+      {
+        "id": "3b61c76e-24f4-4a39-98b2-1811df302ec7",
+        "sourceId": null,
+        "label": "ITV1 (UK)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar/uk"
+      },
+      {
+        "id": "d0637c4c-5ce8-43d5-a19e-52618e105396",
+        "sourceId": null,
+        "label": "beIN SPORTS (Arabic)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar/bein"
+      },
+      {
+        "id": "2b2a77fc-6ac9-4518-8418-cd46719a2775",
+        "sourceId": null,
+        "label": "Dazn Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar/dazn-spain"
+      },
+      {
+        "id": "4e33fbe9-a672-412c-9b0d-f6269e0f81ca",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-29/ned-mar/telemundo"
       }
     ]
   },
