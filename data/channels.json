@@ -5,7 +5,15 @@
     "title": "Willow",
     "category": "24/7",
     "thumbnailUrl": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ2C4+cBjYAUwRQFYxi8xg61rLoATdMFSCiUME-YAE5gFbLnrlGUGtB5lBFRvPqVgSWMEJ58fBJCGlxo+BP5zgEIA.webp",
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1"
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1"
+      }
+    ]
   },
   {
     "id": "c0a94e81-7e0b-451b-95ec-4b209d74a92f",
@@ -13,6 +21,14 @@
     "title": "The Cow",
     "category": "24/7",
     "thumbnailUrl": "https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-cows"
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-cows",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-cows"
+      }
+    ]
   }
 ]
