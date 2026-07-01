@@ -21,95 +21,11 @@
     ]
   },
   {
-    "id": "5d2aa6f0-d43d-4a75-be42-c69abdd6aa22",
-    "slug": "wimbledon-2026-07-01-tiafoe-atmane-24569",
-    "title": "Frances Tiafoe vs. Terence Atmane",
-    "category": "Tennis",
-    "status": "live",
-    "startsAt": "2026-07-01T11:30:00.000Z",
-    "endsAt": "2026-07-01T16:30:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/5c096c712eed7a7da338e972ceef1e86-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-01/tiafoe-atmane",
-    "feeds": [
-      {
-        "id": "316dd627-0566-45d0-a14a-8a493957dda1",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-01/tiafoe-atmane"
-      }
-    ]
-  },
-  {
-    "id": "52babba8-7bfd-4085-b73c-0f56ef36fbb5",
-    "slug": "wc-2026-07-01-eng-cod-24467",
-    "title": "England vs. Congo DR",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-01T16:00:00.000Z",
-    "endsAt": "2026-07-01T18:30:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/de0bd3fd7979b9e0b66e19c66decd906-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod",
-    "feeds": [
-      {
-        "id": "56876114-73eb-49d1-8cfe-546549d86744",
-        "sourceId": null,
-        "label": "TSN S2",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod"
-      },
-      {
-        "id": "245cd200-c6c2-4f86-831d-0756eda9510b",
-        "sourceId": null,
-        "label": "TSN 4",
-        "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/eng-cod"
-      },
-      {
-        "id": "156fb6de-172c-45bc-a594-c98d3695b894",
-        "sourceId": null,
-        "label": "FOX Sports",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/fox"
-      },
-      {
-        "id": "172b9dde-55e5-4e4c-8a46-72fcb38280a2",
-        "sourceId": null,
-        "label": "Fox Sports 4K (HEVC)",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/fox-4k"
-      },
-      {
-        "id": "6da799b1-3ebe-47f6-b01f-57c7f84e501b",
-        "sourceId": null,
-        "label": "iTV",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/uk"
-      },
-      {
-        "id": "852c5bb6-11e4-4c83-b298-29f1a10f4560",
-        "sourceId": null,
-        "label": "DAZN Esp",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/dazn-spain"
-      },
-      {
-        "id": "932b322d-8ac8-4638-81f4-8107d30d6254",
-        "sourceId": null,
-        "label": "TELEMUNDO",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/telemundo"
-      },
-      {
-        "id": "6873c315-ae0f-40ef-8b67-77c0fcba5f16",
-        "sourceId": null,
-        "label": "PEACOCK",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/peacock-4k"
-      }
-    ]
-  },
-  {
     "id": "c2020a58-327d-403b-89c4-2cbccec60562",
     "slug": "mlb-2026-07-01-chw-bal-24544",
     "title": "Chicago White Sox vs. Baltimore Orioles",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T16:35:00.000Z",
     "endsAt": "2026-07-01T20:05:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a16b400d7482aa1db960faef28b1a518-thumbnail.jpg",
@@ -130,7 +46,7 @@
     "slug": "mlb-2026-07-01-tex-cle-24545",
     "title": "Texas Rangers vs. Cleveland Guardians",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T17:10:00.000Z",
     "endsAt": "2026-07-01T20:40:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/f8c70f6b4a0442d3c13b4cb635d203d4-thumbnail.jpg",
@@ -151,7 +67,7 @@
     "slug": "mlb-2026-07-01-det-nyy-24546",
     "title": "Detroit Tigers vs. New York Yankees",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T17:35:00.000Z",
     "endsAt": "2026-07-01T21:05:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/1912f3970e5cb1895f1c74c03adf9198-thumbnail.jpg",
@@ -172,7 +88,7 @@
     "slug": "mlb-2026-07-01-wsh-bos-24547",
     "title": "Washington Nationals vs. Boston Red Sox",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T17:35:00.000Z",
     "endsAt": "2026-07-01T21:05:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4768cc5bef446f6e8375ec5f93a6d937-thumbnail.jpg",
@@ -193,7 +109,7 @@
     "slug": "mlb-2026-07-01-sd-chc-24548",
     "title": "San Diego Padres vs. Chicago Cubs",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T18:20:00.000Z",
     "endsAt": "2026-07-01T21:50:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/cd2ed934fd7a6514273357d1f85801cb-thumbnail.jpg",
@@ -214,7 +130,7 @@
     "slug": "mlb-2026-07-01-nym-tor-24549",
     "title": "New York Mets vs. Toronto Blue Jays",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T19:07:00.000Z",
     "endsAt": "2026-07-01T22:37:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/5563d77e82c017422465dc06c7ba36c5-thumbnail.jpg",
@@ -239,15 +155,69 @@
     "startsAt": "2026-07-01T20:00:00.000Z",
     "endsAt": "2026-07-01T22:30:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43f19f1f4c19276b025627b36b0558a1-thumbnail.jpg",
-    "isPopular": false,
+    "isPopular": true,
     "sortOrder": 0,
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen",
     "feeds": [
       {
-        "id": "728e3a28-64d0-4e93-ac54-26f159dca61a",
+        "id": "57d55545-2ec5-42aa-90f1-af3ff5c7d16c",
         "sourceId": null,
-        "label": "All Devices",
+        "label": "TSN S1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen"
+      },
+      {
+        "id": "bd2788d2-ad16-4662-9dd9-bbdd2a3c7660",
+        "sourceId": null,
+        "label": "TSN S2",
+        "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/bel-sen"
+      },
+      {
+        "id": "d521238c-4116-4848-8886-dfb23cac5e57",
+        "sourceId": null,
+        "label": "FS 1 FHD",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/fox"
+      },
+      {
+        "id": "c2d5daec-40df-4ce5-9c3e-ec54b0a55e93",
+        "sourceId": null,
+        "label": "FS 1 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/fox-4k"
+      },
+      {
+        "id": "d7ffd318-8839-46c7-b7a8-272877fbdd46",
+        "sourceId": null,
+        "label": "ITV1 UK",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/uk"
+      },
+      {
+        "id": "12d5bcc8-d072-4670-b562-ba4a3cbff86c",
+        "sourceId": null,
+        "label": "DAZN ESP",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/dazn-spain"
+      },
+      {
+        "id": "d04b5533-c640-4825-9906-5e54e3bebec9",
+        "sourceId": null,
+        "label": "TELEMUNDO",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/telemundo"
+      },
+      {
+        "id": "3315141c-2bf6-4f3d-b568-b21649e89ac7",
+        "sourceId": null,
+        "label": "DAS ERSTE",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/das-erste"
+      },
+      {
+        "id": "e307ffdf-84c6-415a-b96f-c233fc6a7418",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/orf-1"
+      },
+      {
+        "id": "5d1787fd-788d-4e6d-ba7a-6e51b1a28200",
+        "sourceId": null,
+        "label": "FUSSBALLTV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/bel-sen/fussballtv-uhd-hevc"
       }
     ]
   },
