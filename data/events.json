@@ -25,7 +25,7 @@
     "slug": "wimbledon-2026-07-01-tiafoe-atmane-24569",
     "title": "Frances Tiafoe vs. Terence Atmane",
     "category": "Tennis",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-01T11:30:00.000Z",
     "endsAt": "2026-07-01T16:30:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/5c096c712eed7a7da338e972ceef1e86-thumbnail.jpg",
@@ -52,13 +52,55 @@
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/de0bd3fd7979b9e0b66e19c66decd906-thumbnail.jpg",
     "isPopular": false,
     "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod",
+    "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/eng-cod",
     "feeds": [
       {
-        "id": "717c7013-5c35-49b8-8827-01a4fab75224",
+        "id": "61d2c9f2-a429-443d-80e8-768b1dd7b25e",
         "sourceId": null,
         "label": "All Devices",
+        "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/eng-cod"
+      },
+      {
+        "id": "d054dfdd-a1f8-492e-9600-cc22584917e7",
+        "sourceId": null,
+        "label": "TSN S2",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod"
+      },
+      {
+        "id": "2404bb69-1a65-4747-868e-13d0bfb13652",
+        "sourceId": null,
+        "label": "FOX Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/fox"
+      },
+      {
+        "id": "e65a875f-c66a-4086-adb0-4d039a5bd5b2",
+        "sourceId": null,
+        "label": "Fox Sports 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/fox-4k"
+      },
+      {
+        "id": "df1af98c-0b0c-46fc-a172-9bd9886e02fb",
+        "sourceId": null,
+        "label": "iTV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/uk"
+      },
+      {
+        "id": "62a71965-d09c-4a73-abdd-dc7f0a29587a",
+        "sourceId": null,
+        "label": "DAZN Esp",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/dazn-spain"
+      },
+      {
+        "id": "c58cd8bd-a14c-4b8f-83be-a3d498779869",
+        "sourceId": null,
+        "label": "TELEMUNDO",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/telemundo"
+      },
+      {
+        "id": "7c1095ac-eacf-4295-b191-a0bef5ef79ff",
+        "sourceId": null,
+        "label": "PEACOCK",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/peacock-4k"
       }
     ]
   },
