@@ -42,6 +42,48 @@
     ]
   },
   {
+    "id": "107a93dd-c8a9-428d-9806-fa6e1ec8a708",
+    "slug": "wimbledon-2026-07-02-fery-virtanen-24678",
+    "title": "Arthur Fery vs. Otto Virtanen",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:05:00.000Z",
+    "endsAt": "2026-07-02T15:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/99a222a76c3a67ce6c79008fd729a5fd-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fery-virtanen",
+    "feeds": [
+      {
+        "id": "9459fa83-49b1-4222-9594-3cae2aeda732",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fery-virtanen"
+      }
+    ]
+  },
+  {
+    "id": "1e6f5e6f-3e4c-486c-b921-7795f6374233",
+    "slug": "wimbledon-2026-07-02-diallo-sonego-24679",
+    "title": "Gabriel Diallo vs. Lorenzo Sonego",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:10:00.000Z",
+    "endsAt": "2026-07-02T15:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fd3507556e5d4d65329daa5c749913c5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/diallo-sonego",
+    "feeds": [
+      {
+        "id": "86654f95-d175-4beb-ab99-4ea676044158",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/diallo-sonego"
+      }
+    ]
+  },
+  {
     "id": "49244d66-4642-4cee-a841-243b32689c21",
     "slug": "mlb-2026-07-02-pit-phi-24620",
     "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
