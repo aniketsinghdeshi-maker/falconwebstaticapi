@@ -525,6 +525,69 @@
     ]
   },
   {
+    "id": "057a89bb-5d13-47ef-907c-462dc4cb79b3",
+    "slug": "wc-2026-07-03-aus-egy-24593",
+    "title": "Australia vs. Egypt",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T18:00:00.000Z",
+    "endsAt": "2026-07-03T20:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/62dc70cfed4f740037418ac9bf48ac85-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy",
+    "feeds": [
+      {
+        "id": "5d58af7b-5c7c-40fd-94d9-c640128e8a2f",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy"
+      },
+      {
+        "id": "e9fb138f-c216-4866-8939-1f843e773a9a",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox"
+      },
+      {
+        "id": "a1ee0ba9-3211-4410-a8b6-0d4d3d8ca619",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox-4k"
+      },
+      {
+        "id": "78713e25-cd80-4f11-b02f-dc4714ced32c",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/uk"
+      },
+      {
+        "id": "b7f60b0c-2614-4e66-9524-11f9a3cab255",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/bein"
+      },
+      {
+        "id": "90414d63-1dc3-4960-84db-2993de39e4ec",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/dazn-spain"
+      },
+      {
+        "id": "168bbc8b-605e-4de4-a019-d0bb875b38ae",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/telemundo"
+      },
+      {
+        "id": "acafce6c-4dcd-4626-8cdf-864d6e416359",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/peacock-4k"
+      }
+    ]
+  },
+  {
     "id": "e6c47286-f1b1-40a8-9e2a-88eb57b63483",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
