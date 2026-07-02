@@ -189,6 +189,48 @@
     ]
   },
   {
+    "id": "3c0bce14-a4b4-46c3-80e9-335d6b2fcab2",
+    "slug": "mlb-2026-07-02-laa-sea-24627",
+    "title": "Los Angeles Angels vs. Seattle Mariners",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T01:40:00.000Z",
+    "endsAt": "2026-07-03T05:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/8ddcf89612d9c52b63766b241cce0eed-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/laa-sea",
+    "feeds": [
+      {
+        "id": "f112641b-4224-4d0f-9fcc-3f6e3d70cec4",
+        "sourceId": null,
+        "label": "Mariners.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/laa-sea"
+      }
+    ]
+  },
+  {
+    "id": "b490b22d-57da-4d5b-b651-09695872b2f9",
+    "slug": "mlb-2026-07-02-sd-lad-24628",
+    "title": "San Diego Padres vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T02:10:00.000Z",
+    "endsAt": "2026-07-03T05:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/34b57d2427814c46588425181c718049-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/sd-lad",
+    "feeds": [
+      {
+        "id": "1eb30283-586a-4d8a-a19e-b9056b2fd509",
+        "sourceId": null,
+        "label": "Sportsnet LA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/sd-lad"
+      }
+    ]
+  },
+  {
     "id": "77b52892-9573-4f8f-8c4c-b85255942238",
     "slug": "afl-2026-07-03-syd-wb-24228",
     "title": "Sydney Swans vs. Western Bulldogs",
