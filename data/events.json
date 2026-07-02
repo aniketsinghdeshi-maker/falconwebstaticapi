@@ -672,6 +672,69 @@
     ]
   },
   {
+    "id": "369f540e-94a6-45b4-a6e8-5b5c34df3c03",
+    "slug": "wc-2026-07-03-col-gha-24609",
+    "title": "Colombia vs. Ghana",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:30:00.000Z",
+    "endsAt": "2026-07-04T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9a7d054f359a94229381c294646c5d32-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha",
+    "feeds": [
+      {
+        "id": "6cfbbf51-a961-41bd-8cee-ba3bdfaa5bbc",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha"
+      },
+      {
+        "id": "5f129cc0-0e6a-4090-a24f-57b90ac98a9c",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox"
+      },
+      {
+        "id": "a1521fdd-77be-439a-bc90-51781b28c8a3",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox-4k"
+      },
+      {
+        "id": "a478fb42-dc77-470b-8988-34ed5c8d603d",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/uk"
+      },
+      {
+        "id": "8afa9e3d-478a-4910-9299-2f5d1c9c296c",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/bein"
+      },
+      {
+        "id": "8155d1e1-6cc6-4554-a24b-495e3d36dc29",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/dazn-spain"
+      },
+      {
+        "id": "12ae33d7-7b57-4c27-8e5e-2cffc16a0402",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/telemundo"
+      },
+      {
+        "id": "4ac49ac9-83d4-46e2-a3c0-cc36c2c8e592",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/peacock-4k"
+      }
+    ]
+  },
+  {
     "id": "d32e67e2-f521-4457-825c-57c171e4cbc7",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
