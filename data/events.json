@@ -1,5 +1,26 @@
 [
   {
+    "id": "0d5e20b4-3955-47b1-9bea-b0229fe2302c",
+    "slug": "afl-2026-07-02-geel-bl-24227",
+    "title": "Geelong Cats vs. Brisbane Lions",
+    "category": "Australian Football",
+    "status": "live",
+    "startsAt": "2026-07-02T09:30:00.000Z",
+    "endsAt": "2026-07-02T12:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6c834eb2f07e23b2f573847fd763fb9c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-02/geel-bl",
+    "feeds": [
+      {
+        "id": "bf3cb97b-7d43-42b1-8f26-e408d1af81fb",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-02/geel-bl"
+      }
+    ]
+  },
+  {
     "id": "67d2c7ea-6e56-4c49-b215-18b3e3541cf1",
     "slug": "cfl-2026-07-02-tor-cgy-24194",
     "title": "Toronto Argonauts vs. Calgary Stampeders",
