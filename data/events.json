@@ -126,6 +126,48 @@
     ]
   },
   {
+    "id": "744909a6-f725-48ab-9cd6-e666bd49458a",
+    "slug": "mlb-2026-07-02-tb-kc-24625",
+    "title": "Tampa Bay Rays vs. Kansas City Royals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T23:40:00.000Z",
+    "endsAt": "2026-07-03T03:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/588cca21b2f981756fc71651b67d9327-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/tb-kc",
+    "feeds": [
+      {
+        "id": "00937917-bac0-4fef-82df-a2b087a2515d",
+        "sourceId": null,
+        "label": "Royals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/tb-kc"
+      }
+    ]
+  },
+  {
+    "id": "0ddafc59-f23e-442e-8290-9199394dadb6",
+    "slug": "mlb-2026-07-02-det-tex-24626",
+    "title": "Detroit Tigers vs. Texas Rangers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T00:05:00.000Z",
+    "endsAt": "2026-07-03T03:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/56c7a03380aa587c216d6d68931dd4f5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/det-tex",
+    "feeds": [
+      {
+        "id": "cf240583-714a-4a79-81bb-8110675109a6",
+        "sourceId": null,
+        "label": "Rangers Sports Network",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/det-tex"
+      }
+    ]
+  },
+  {
     "id": "4cd5baab-5876-4e30-bad5-43a4b0b89580",
     "slug": "cfl-2026-07-02-tor-cgy-24194",
     "title": "Toronto Argonauts vs. Calgary Stampeders",
