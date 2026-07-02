@@ -963,6 +963,27 @@
     ]
   },
   {
+    "id": "75713a43-db23-43d6-bc2b-d7a70676a63b",
+    "slug": "nrl-2026-07-04-bri-cro-24238",
+    "title": "Broncos vs. Sharks",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T09:35:00.000Z",
+    "endsAt": "2026-07-04T12:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/dbff9857f3f493cb7fac9528c08ecdd7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/bri-cro",
+    "feeds": [
+      {
+        "id": "c08fc86d-192a-4548-ae66-1fe7eadd0e5e",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/bri-cro"
+      }
+    ]
+  },
+  {
     "id": "c5f569a8-0803-4912-8579-38bcf1a8cd48",
     "slug": "f1-2026-great-britain-sprint-24348",
     "title": "British Grand Prix - Sprint",
@@ -1124,6 +1145,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
+      }
+    ]
+  },
+  {
+    "id": "c011ccbc-f9aa-46c9-a739-735a068586ba",
+    "slug": "nrl-2026-07-05-par-man-24239",
+    "title": "Eels vs. Sea Eagles",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T04:00:00.000Z",
+    "endsAt": "2026-07-05T06:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/75c24fe5e7cef8e078200a31578d339b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/par-man",
+    "feeds": [
+      {
+        "id": "25e58f4b-7ce9-4f69-965a-8c1ad74ac046",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/par-man"
       }
     ]
   },
