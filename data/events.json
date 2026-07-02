@@ -1,5 +1,26 @@
 [
   {
+    "id": "e5a3742b-f5ec-434c-a2e1-667144086ab4",
+    "slug": "afl-2026-07-02-geel-bl-24227",
+    "title": "Geelong Cats vs. Brisbane Lions",
+    "category": "Australian Football",
+    "status": "live",
+    "startsAt": "2026-07-02T09:30:00.000Z",
+    "endsAt": "2026-07-02T12:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6c834eb2f07e23b2f573847fd763fb9c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-02/geel-bl",
+    "feeds": [
+      {
+        "id": "349af955-6d2a-4694-bbc1-b4f0495bbb1e",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-02/geel-bl"
+      }
+    ]
+  },
+  {
     "id": "4cd5baab-5876-4e30-bad5-43a4b0b89580",
     "slug": "cfl-2026-07-02-tor-cgy-24194",
     "title": "Toronto Argonauts vs. Calgary Stampeders",
@@ -17,6 +38,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-02/tor-cgy"
+      }
+    ]
+  },
+  {
+    "id": "69e6217b-067e-48f6-8642-3d474d5a5213",
+    "slug": "afl-2026-07-03-syd-wb-24228",
+    "title": "Sydney Swans vs. Western Bulldogs",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T09:40:00.000Z",
+    "endsAt": "2026-07-03T12:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2954cfc480d6add439eb85fd4a47e282-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/syd-wb",
+    "feeds": [
+      {
+        "id": "3dee2cfb-1060-44de-a3c0-e328d7c74003",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/syd-wb"
       }
     ]
   },
