@@ -576,6 +576,57 @@
     ]
   },
   {
+    "id": "a0db5350-8e14-4c35-ba5c-0b7bc17f9b66",
+    "slug": "f1-2026-great-britain-sprint-q-24341",
+    "title": "British Grand Prix - Sprint Qualifying",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T15:30:00.000Z",
+    "endsAt": "2026-07-03T17:14:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/f5dec658d1e95e5da2f1a8ca02808642-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q",
+    "feeds": [
+      {
+        "id": "ae1c2f4d-d9f2-451e-b626-3e41e08bbc7a",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q"
+      },
+      {
+        "id": "b516a38d-3809-4122-ad9b-cff2e053aca0",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/f1tv"
+      },
+      {
+        "id": "97c60fcc-c630-428d-9ecf-0ecc86d3f56a",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/dazn-es"
+      },
+      {
+        "id": "9d676adb-54a8-4758-b0f8-8a0c804a0dd4",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/sky-sport-f1-de"
+      },
+      {
+        "id": "1dee845c-774d-4076-81d1-03e58a922d16",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/v-sport-motor-sv"
+      },
+      {
+        "id": "984993cb-2d64-4c46-aa17-9f372f87b81f",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "057a89bb-5d13-47ef-907c-462dc4cb79b3",
     "slug": "wc-2026-07-03-aus-egy-24593",
     "title": "Australia vs. Egypt",
