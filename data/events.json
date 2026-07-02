@@ -105,6 +105,69 @@
     ]
   },
   {
+    "id": "3d576c29-5098-47a2-8bc7-33032e02ec75",
+    "slug": "afl-2026-07-04-haw-melb-24230",
+    "title": "Hawthorn vs. Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:15:00.000Z",
+    "endsAt": "2026-07-04T06:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43713fb2868801670255a034ac4cbb2d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
+    "feeds": [
+      {
+        "id": "21b3f09c-eb87-4723-bc38-ec3acc075027",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
+      }
+    ]
+  },
+  {
+    "id": "6d7724f2-3c47-4d7c-88df-e0b03ad0ca6d",
+    "slug": "afl-2026-07-04-gws-fre-24231",
+    "title": "GWS GIANTS vs. Fremantle",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:35:00.000Z",
+    "endsAt": "2026-07-04T06:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/480b200cfcb8ef7d63ed57f26d38252a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre",
+    "feeds": [
+      {
+        "id": "1e7ed80b-4c60-40e7-93f4-fe50f935ef5e",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre"
+      }
+    ]
+  },
+  {
+    "id": "8417e587-0476-4ff8-ac25-a635cefac706",
+    "slug": "afl-2026-07-04-gcfc-coll-24232",
+    "title": "Gold Coast SUNS vs. Collingwood",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T06:15:00.000Z",
+    "endsAt": "2026-07-04T09:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/59bff7baeb35f198a3579ee9c503f435-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll",
+    "feeds": [
+      {
+        "id": "be0a4e33-31aa-4938-a9fb-14a72b9bee36",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll"
+      }
+    ]
+  },
+  {
     "id": "b1d8b0c3-fdac-4f58-b88c-0ba0799f2472",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
