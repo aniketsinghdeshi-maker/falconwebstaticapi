@@ -921,6 +921,27 @@
     ]
   },
   {
+    "id": "1e59aa00-3a01-4885-af1e-a7a779fee48e",
+    "slug": "nrl-2026-07-04-st-wes-24237",
+    "title": "Dragons vs. Wests Tigers",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T07:30:00.000Z",
+    "endsAt": "2026-07-04T10:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c1bafec86bfa8971dd3ebe1e4cf73387-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes",
+    "feeds": [
+      {
+        "id": "1cb214cc-ce90-482c-9d74-cc7e97fc065b",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes"
+      }
+    ]
+  },
+  {
     "id": "23cc132f-c1ee-441e-ae2f-5bb47d464816",
     "slug": "afl-2026-07-04-rich-carl-24233",
     "title": "Richmond vs. Carlton",
@@ -938,6 +959,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl"
+      }
+    ]
+  },
+  {
+    "id": "ae7d9099-5a0d-449d-9e8a-5d76dd6c6e5b",
+    "slug": "nrl-2026-07-04-bri-cro-24238",
+    "title": "Broncos vs. Sharks",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T09:35:00.000Z",
+    "endsAt": "2026-07-04T12:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/dbff9857f3f493cb7fac9528c08ecdd7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/bri-cro",
+    "feeds": [
+      {
+        "id": "b6c28471-e76d-433b-98a4-bfffb28c2836",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/bri-cro"
       }
     ]
   },
