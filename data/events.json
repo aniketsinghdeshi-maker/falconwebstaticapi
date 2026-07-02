@@ -19,5 +19,68 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-02/tor-cgy"
       }
     ]
+  },
+  {
+    "id": "e6c47286-f1b1-40a8-9e2a-88eb57b63483",
+    "slug": "cfl-2026-07-03-ssk-ott-24197",
+    "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:30:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c9c799557f4687dc624fb0fca6786986-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott",
+    "feeds": [
+      {
+        "id": "5d68b641-000c-476d-8fb9-239a9143338b",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  },
+  {
+    "id": "75e834fb-8317-4916-902a-071e596df7fa",
+    "slug": "afle-2026-07-04-par-pan-24211",
+    "title": "Paris Lights vs. Panthers Wroclaw",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T13:00:00.000Z",
+    "endsAt": "2026-07-04T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b3f1eb7c421bb0b493b285fb8674f75c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan",
+    "feeds": [
+      {
+        "id": "7044bea3-f404-4e6a-bb36-abafb670bca9",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan"
+      }
+    ]
+  },
+  {
+    "id": "9d2edd99-bce4-4798-9ea3-94515d00a1cc",
+    "slug": "afle-2026-07-04-lon-fir-24212",
+    "title": "London Warriors vs. Firenze Red Lions",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T15:00:00.000Z",
+    "endsAt": "2026-07-04T18:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/adda2bde7b2db6f8e176cfcf3545a632-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir",
+    "feeds": [
+      {
+        "id": "33680a6d-a26c-414d-b1b5-fb6fadbfd965",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir"
+      }
+    ]
   }
 ]
