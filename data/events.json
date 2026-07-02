@@ -84,6 +84,27 @@
     ]
   },
   {
+    "id": "bb48dd76-e7c8-4e65-aecd-bbbfc67273a5",
+    "slug": "wimbledon-2026-07-02-fritz-kypson-24680",
+    "title": "Taylor Fritz vs. Patrick Kypson",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:10:00.000Z",
+    "endsAt": "2026-07-02T15:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/09c403ae2c02f2d4274af86e7c8fa865-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fritz-kypson",
+    "feeds": [
+      {
+        "id": "8c457097-3e75-413f-9a3e-be3569f71639",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fritz-kypson"
+      }
+    ]
+  },
+  {
     "id": "49244d66-4642-4cee-a841-243b32689c21",
     "slug": "mlb-2026-07-02-pit-phi-24620",
     "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
@@ -416,6 +437,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-02/tor-cgy"
+      }
+    ]
+  },
+  {
+    "id": "9037c167-4cd4-4f01-91e7-bd21790bb950",
+    "slug": "tna-impact-2026-07-02-24244",
+    "title": "TNA: Impact",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T01:00:00.000Z",
+    "endsAt": "2026-07-03T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-02",
+    "feeds": [
+      {
+        "id": "1c69ae19-01e2-4ef7-bc58-dd5c20b56d97",
+        "sourceId": null,
+        "label": "AMC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-02"
       }
     ]
   },
@@ -854,6 +896,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  },
+  {
+    "id": "babc8473-4b72-4206-90ee-2ca89dee3fbb",
+    "slug": "wwe-smackdown-2026-07-03-24245",
+    "title": "WWE: Friday Night Smackdown",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:00:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-03",
+    "feeds": [
+      {
+        "id": "37a76f8e-7a54-42b9-ae04-1aeb864d6c3c",
+        "sourceId": null,
+        "label": "USA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-03"
       }
     ]
   },
