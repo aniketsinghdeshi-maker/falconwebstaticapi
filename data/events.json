@@ -126,6 +126,48 @@
     ]
   },
   {
+    "id": "18b702bd-c149-4985-9b3e-cb3750fcf69b",
+    "slug": "afl-2026-07-04-gws-fre-24231",
+    "title": "GWS GIANTS vs. Fremantle",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:35:00.000Z",
+    "endsAt": "2026-07-04T06:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/480b200cfcb8ef7d63ed57f26d38252a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre",
+    "feeds": [
+      {
+        "id": "2266165e-8603-451a-acf8-a683ca8388da",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre"
+      }
+    ]
+  },
+  {
+    "id": "955bd040-aa7b-4784-9eee-b5bc7edc4015",
+    "slug": "afl-2026-07-04-gcfc-coll-24232",
+    "title": "Gold Coast SUNS vs. Collingwood",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T06:15:00.000Z",
+    "endsAt": "2026-07-04T09:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/59bff7baeb35f198a3579ee9c503f435-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll",
+    "feeds": [
+      {
+        "id": "0c5ce3a4-8d58-4b1a-963e-0e87a3db498c",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll"
+      }
+    ]
+  },
+  {
     "id": "75e834fb-8317-4916-902a-071e596df7fa",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
