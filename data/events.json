@@ -21,6 +21,90 @@
     ]
   },
   {
+    "id": "d31135e1-4bb5-43bb-87dd-d3f3042c9e57",
+    "slug": "wimbledon-2026-07-02-courtside-24677",
+    "title": "Wimbledon: Courtside",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:00:00.000Z",
+    "endsAt": "2026-07-02T22:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/courtside",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/courtside"
+      }
+    ]
+  },
+  {
+    "id": "78a9b521-7cb6-4c10-a919-2bee71866548",
+    "slug": "mlb-2026-07-02-pit-phi-24620",
+    "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T16:35:00.000Z",
+    "endsAt": "2026-07-02T20:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/afde52f13f7ae664bb95233a4aac97e2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/pit-phi",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/pit-phi"
+      }
+    ]
+  },
+  {
+    "id": "b5507be0-c6c6-43bc-9e16-55948618db46",
+    "slug": "mlb-2026-07-02-cin-mil-24621",
+    "title": "Cincinnati Reds vs. Milwaukee Brewers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T18:10:00.000Z",
+    "endsAt": "2026-07-02T21:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fbb9388e501c2a2851ae676684dd4f0a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/cin-mil",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/cin-mil"
+      }
+    ]
+  },
+  {
+    "id": "b75bbf92-c93c-4d2a-be83-6102ab9e216b",
+    "slug": "wc-2026-07-02-esp-aut-24520",
+    "title": "Spain vs. Austria",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T19:00:00.000Z",
+    "endsAt": "2026-07-02T21:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/bc08a2d35b29f8f08fb1346b239a8506-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut"
+      }
+    ]
+  },
+  {
     "id": "176c11a4-ac3f-4d9a-954b-4fa6eaccd3ea",
     "slug": "mlb-2026-07-02-mia-col-24622",
     "title": "Miami Marlins vs. Colorado Rockies",
@@ -38,6 +122,27 @@
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/mia-col"
+      }
+    ]
+  },
+  {
+    "id": "4b50d744-4459-4ec9-a49d-1f60870d2d83",
+    "slug": "mlb-2026-07-02-chw-cle-24623",
+    "title": "Chicago White Sox vs. Cleveland Guardians",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T22:40:00.000Z",
+    "endsAt": "2026-07-03T02:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/19cf42fa853dc777e0c6971e92377dad-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/chw-cle",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/chw-cle"
       }
     ]
   },
@@ -63,6 +168,69 @@
     ]
   },
   {
+    "id": "865a4495-2faf-4079-af5c-91479bf82fc1",
+    "slug": "mlb-2026-07-02-stl-atl-24624",
+    "title": "St. Louis Cardinals vs. Atlanta Braves",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T23:15:00.000Z",
+    "endsAt": "2026-07-03T02:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ffc417a2db9e168802749878a31d668d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/stl-atl",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/stl-atl"
+      }
+    ]
+  },
+  {
+    "id": "7490f1a3-b638-422c-be5c-4b70c01dcbc6",
+    "slug": "wnba-2026-07-02-atl-wsh-24617",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T23:30:00.000Z",
+    "endsAt": "2026-07-03T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/91f2543c183167329acf8ad0346b0f93-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/atl-wsh",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/atl-wsh"
+      }
+    ]
+  },
+  {
+    "id": "d5e7cf72-6e15-49bf-b280-35359952b83b",
+    "slug": "mlb-2026-07-02-tb-kc-24625",
+    "title": "Tampa Bay Rays vs. Kansas City Royals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T23:40:00.000Z",
+    "endsAt": "2026-07-03T03:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/588cca21b2f981756fc71651b67d9327-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/tb-kc",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/tb-kc"
+      }
+    ]
+  },
+  {
     "id": "fcfac28d-5470-4391-92a3-c9c2dffc8171",
     "slug": "wnba-2026-07-02-dal-con-24618",
     "title": "Dallas Wings vs. Connecticut Sun",
@@ -84,6 +252,132 @@
     ]
   },
   {
+    "id": "213aae51-f58b-4bde-a7b2-3beed09c07e4",
+    "slug": "mlb-2026-07-02-det-tex-24626",
+    "title": "Detroit Tigers vs. Texas Rangers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T00:05:00.000Z",
+    "endsAt": "2026-07-03T03:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/56c7a03380aa587c216d6d68931dd4f5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/det-tex",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/det-tex"
+      }
+    ]
+  },
+  {
+    "id": "bf789158-1408-4ea4-bd8c-ba650942b906",
+    "slug": "cfl-2026-07-02-tor-cgy-24194",
+    "title": "Toronto Argonauts vs. Calgary Stampeders",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T01:00:00.000Z",
+    "endsAt": "2026-07-03T04:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/7eb4e574845241f761bdb06fd0232eed-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-02/tor-cgy",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-02/tor-cgy"
+      }
+    ]
+  },
+  {
+    "id": "b563d0ee-eb5d-469a-bcde-55f7c5209c94",
+    "slug": "tna-impact-2026-07-02-24244",
+    "title": "TNA: Impact",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T01:00:00.000Z",
+    "endsAt": "2026-07-03T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-02",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-02"
+      }
+    ]
+  },
+  {
+    "id": "6ae5bf12-a24e-4275-ba55-521b1a093d38",
+    "slug": "mlb-2026-07-02-laa-sea-24627",
+    "title": "Los Angeles Angels vs. Seattle Mariners",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T01:40:00.000Z",
+    "endsAt": "2026-07-03T05:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/8ddcf89612d9c52b63766b241cce0eed-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/laa-sea",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/laa-sea"
+      }
+    ]
+  },
+  {
+    "id": "792bc87f-5554-400f-a04e-f475b47bdad3",
+    "slug": "wnba-2026-07-02-sea-phx-24619",
+    "title": "Seattle Storm vs. Phoenix Mercury",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T02:00:00.000Z",
+    "endsAt": "2026-07-03T05:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b2818a77fa2cde6b51ae1977cf818735-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/sea-phx",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/sea-phx"
+      }
+    ]
+  },
+  {
+    "id": "34b339d2-03f5-4f67-b8c2-7228ce40b886",
+    "slug": "mlb-2026-07-02-sd-lad-24628",
+    "title": "San Diego Padres vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T02:10:00.000Z",
+    "endsAt": "2026-07-03T05:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/34b57d2427814c46588425181c718049-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/sd-lad",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/sd-lad"
+      }
+    ]
+  },
+  {
     "id": "7e2b61ec-89a9-4d22-834b-3c585cc38983",
     "slug": "wc-2026-07-02-sui-alg-24536",
     "title": "Switzerland vs. Algeria",
@@ -101,6 +395,27 @@
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg"
+      }
+    ]
+  },
+  {
+    "id": "d25b8649-625a-436a-800e-c75fe8660ce2",
+    "slug": "afl-2026-07-03-syd-wb-24228",
+    "title": "Sydney Swans vs. Western Bulldogs",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T09:40:00.000Z",
+    "endsAt": "2026-07-03T12:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2954cfc480d6add439eb85fd4a47e282-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/syd-wb",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/syd-wb"
       }
     ]
   },
@@ -143,6 +458,27 @@
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/wce-adel"
+      }
+    ]
+  },
+  {
+    "id": "ca48fc72-7396-4876-8b66-d8bc9b900c50",
+    "slug": "f1-2026-great-britain-fp1-24334",
+    "title": "British Grand Prix - Practice 1",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T11:30:00.000Z",
+    "endsAt": "2026-07-03T13:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6fef75491c5b9d2d22710569ac42e443-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1"
       }
     ]
   },
@@ -231,6 +567,27 @@
     ]
   },
   {
+    "id": "ac4017ea-76f8-48d9-a9dc-7041b8615abb",
+    "slug": "wwe-smackdown-2026-07-03-24245",
+    "title": "WWE: Friday Night Smackdown",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:00:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-03",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-03"
+      }
+    ]
+  },
+  {
     "id": "257efeb5-e9c5-45a5-a89d-a5ace5dd7960",
     "slug": "wc-2026-07-03-col-gha-24609",
     "title": "Colombia vs. Ghana",
@@ -248,6 +605,27 @@
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha"
+      }
+    ]
+  },
+  {
+    "id": "0c33bbb9-ee7c-48ca-83cc-273dbe0f7015",
+    "slug": "afl-2026-07-04-haw-melb-24230",
+    "title": "Hawthorn vs. Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:15:00.000Z",
+    "endsAt": "2026-07-04T06:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43713fb2868801670255a034ac4cbb2d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
       }
     ]
   },
@@ -290,6 +668,48 @@
         "sourceId": null,
         "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll"
+      }
+    ]
+  },
+  {
+    "id": "d457e13f-66bd-4f6b-80cf-06d6f4cf9215",
+    "slug": "nrl-2026-07-04-st-wes-24237",
+    "title": "Dragons vs. Wests Tigers",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T07:30:00.000Z",
+    "endsAt": "2026-07-04T10:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c1bafec86bfa8971dd3ebe1e4cf73387-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes"
+      }
+    ]
+  },
+  {
+    "id": "9a43d489-f46d-4efa-a5c7-03546e41021e",
+    "slug": "nrl-2026-07-04-bri-cro-24238",
+    "title": "Broncos vs. Sharks",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T09:35:00.000Z",
+    "endsAt": "2026-07-04T12:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/dbff9857f3f493cb7fac9528c08ecdd7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/bri-cro",
+    "feeds": [
+      {
+        "id": "legacy",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/bri-cro"
       }
     ]
   }
