@@ -21,32 +21,11 @@
     ]
   },
   {
-    "id": "49244d66-4642-4cee-a841-243b32689c21",
-    "slug": "mlb-2026-07-02-pit-phi-24620",
-    "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
-    "category": "Baseball",
-    "status": "upcoming",
-    "startsAt": "2026-07-02T16:35:00.000Z",
-    "endsAt": "2026-07-02T20:05:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/afde52f13f7ae664bb95233a4aac97e2-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/pit-phi",
-    "feeds": [
-      {
-        "id": "2b30d373-f9d8-468e-89a6-fc34d78d4129",
-        "sourceId": null,
-        "label": "NBC Sports Phil",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/pit-phi"
-      }
-    ]
-  },
-  {
     "id": "7cb0ffe4-96b5-47a3-af09-4e8534867646",
     "slug": "mlb-2026-07-02-cin-mil-24621",
     "title": "Cincinnati Reds vs. Milwaukee Brewers",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-02T18:10:00.000Z",
     "endsAt": "2026-07-02T21:40:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fbb9388e501c2a2851ae676684dd4f0a-thumbnail.jpg",
@@ -67,7 +46,7 @@
     "slug": "wc-2026-07-02-esp-aut-24520",
     "title": "Spain vs. Austria",
     "category": "Football",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-02T19:00:00.000Z",
     "endsAt": "2026-07-02T21:30:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/bc08a2d35b29f8f08fb1346b239a8506-thumbnail.jpg",
@@ -76,49 +55,55 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut",
     "feeds": [
       {
-        "id": "6f1f7988-be5e-469a-808a-d63c2136ceb5",
+        "id": "21fb5fda-aca5-4931-8329-e862ef24b52c",
         "sourceId": null,
         "label": "TSN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut"
       },
       {
-        "id": "6f3ad65a-db60-4e84-a865-eb65b8cb791e",
+        "id": "72f8d698-ba7f-458e-b5cb-03da4e27bb1c",
         "sourceId": null,
         "label": "FOX",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/fox"
       },
       {
-        "id": "316ee60b-cda5-4489-905a-52e761971cd7",
+        "id": "4181c0aa-13a7-4c83-a413-4c8f89d8bc87",
         "sourceId": null,
         "label": "FOX 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/fox-4k"
       },
       {
-        "id": "b65270f1-e292-4580-aca3-5716516fb27b",
+        "id": "e1173dec-742f-4bbc-951c-0d0068ff8407",
+        "sourceId": null,
+        "label": "GOAL TV",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=959b45afbe"
+      },
+      {
+        "id": "bca2a672-8037-489e-a22c-50452eb96be5",
         "sourceId": null,
         "label": "BBC/ITV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/uk"
       },
       {
-        "id": "7f0b942b-84aa-4028-b0d6-ae5394cdc7eb",
+        "id": "70965ecd-487d-44e9-a2ab-eeb5e66b3a46",
         "sourceId": null,
         "label": "beIN Sports",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/bein"
       },
       {
-        "id": "5e2344bd-1160-47d9-95ca-3f38c61778d0",
+        "id": "ba956ec3-48ba-4acf-9bab-7215daaad7ef",
         "sourceId": null,
         "label": "DAZN Spain",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/dazn-spain"
       },
       {
-        "id": "5c287ad8-653c-4f9a-a7df-92b5bedb524b",
+        "id": "b4e13942-bc29-4b4f-b7e2-a8cada917a94",
         "sourceId": null,
         "label": "Telemundo",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/telemundo"
       },
       {
-        "id": "4ee1b605-894d-474a-88b6-7c2c9793833b",
+        "id": "fb6d86a4-de82-4568-9e46-788e72d95d24",
         "sourceId": null,
         "label": "Peacock 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/peacock-4k"
@@ -130,7 +115,7 @@
     "slug": "mlb-2026-07-02-mia-col-24622",
     "title": "Miami Marlins vs. Colorado Rockies",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-02T19:10:00.000Z",
     "endsAt": "2026-07-02T22:40:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/effa90be1effd25ac639172104109196-thumbnail.jpg",
