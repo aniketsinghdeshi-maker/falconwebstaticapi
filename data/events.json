@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "7124edf6-a9eb-4eda-9a38-0022ba045fc6",
+    "slug": "wimbledon-2026-07-02-fery-virtanen-24678",
+    "title": "Arthur Fery vs. Otto Virtanen",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:05:00.000Z",
+    "endsAt": "2026-07-02T15:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/99a222a76c3a67ce6c79008fd729a5fd-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fery-virtanen",
+    "feeds": [
+      {
+        "id": "e5c6779b-033b-4e5a-9063-a61fb69a8540",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fery-virtanen"
+      }
+    ]
+  },
+  {
     "id": "10dd935f-d293-4f19-b057-1900c4b01c42",
     "slug": "mlb-2026-07-02-pit-phi-24620",
     "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
