@@ -25,7 +25,7 @@
     "slug": "wc-2026-07-02-por-cro-24528",
     "title": "Portugal vs. Croatia",
     "category": "Football",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-02T23:00:00.000Z",
     "endsAt": "2026-07-03T01:30:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ad4a9d4f9103e229c271fe0fa2b0e0cb-thumbnail.jpg",
@@ -34,67 +34,67 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro",
     "feeds": [
       {
-        "id": "49b094b6-1822-4628-a7de-8a0d56155ce5",
+        "id": "1c1253ad-d68a-4a9c-ada6-b6f383868e9a",
         "sourceId": null,
         "label": "TSN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro"
       },
       {
-        "id": "7d8c2ec3-5e04-4a02-b474-5e6fcf91a83c",
+        "id": "a0e74b1e-ca8c-4ff2-a44c-a370316c6094",
         "sourceId": null,
         "label": "GOLTV",
         "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=959b45afbe"
       },
       {
-        "id": "040dbff1-9657-4ad7-b3fb-0c6fe14066da",
+        "id": "3051d830-d7f7-47db-8505-be29f9986f21",
         "sourceId": null,
         "label": "FOX",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/fox"
       },
       {
-        "id": "ef6c371e-0b49-4ca0-872a-4a2bea4a9637",
+        "id": "2911dbd3-fff6-4e84-87d8-e43e5761bc36",
         "sourceId": null,
         "label": "FOX 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/fox-4k"
       },
       {
-        "id": "da8bdebc-12b4-442a-81ff-ad1545a26a39",
+        "id": "969b1139-b9d1-46ac-b9e3-16d18e2fb6cd",
         "sourceId": null,
         "label": "TSN Sports +",
-        "embedUrl": "https://sxdodgers.s3.us-east-1.amazonaws.com/main.m3u8"
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=15c72c3884"
       },
       {
-        "id": "315d7888-8f02-4acf-b7ba-56209dcc6189",
+        "id": "6ecf2c29-3586-4b72-93eb-ca1491730995",
         "sourceId": null,
         "label": "BBC/ITV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/uk"
       },
       {
-        "id": "9639cd95-94d6-46e7-b1f8-3b7a1b9ab805",
+        "id": "25042ebf-db8f-41fe-b5cb-912949189afc",
         "sourceId": null,
         "label": "beIN Sports",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/bein"
       },
       {
-        "id": "7d3bf243-4bff-4e40-b1dc-8953ea01380f",
+        "id": "66cf5c12-6e14-457f-96fa-aa9601ddb307",
         "sourceId": null,
         "label": "CCTV",
-        "embedUrl": "https://live05.meung.app/live/08552895.m3u8"
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=ff1a961048"
       },
       {
-        "id": "5009cd32-1b49-4a8b-a011-6a8511ce1ec2",
+        "id": "0eb0f078-5ac3-4c3a-bb37-4706dc4b7b68",
         "sourceId": null,
         "label": "DAZN Spain",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/dazn-spain"
       },
       {
-        "id": "1dce150b-5ccc-4f15-aba8-423cd3ecd1b2",
+        "id": "0e0608c3-3a0a-4808-8e2d-984835ef093a",
         "sourceId": null,
         "label": "Telemundo",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/telemundo"
       },
       {
-        "id": "83e671ca-379f-45d8-8f6b-1266d100a411",
+        "id": "156b9606-134b-413e-9f53-6037a6d9eb35",
         "sourceId": null,
         "label": "Peacock 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/por-cro/peacock-4k"
