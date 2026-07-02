@@ -126,6 +126,27 @@
     ]
   },
   {
+    "id": "4597e79b-6035-42f4-b214-6ef0dc8fd015",
+    "slug": "wnba-2026-07-02-atl-wsh-24617",
+    "title": "Atlanta Dream vs. Washington Mystics",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T23:30:00.000Z",
+    "endsAt": "2026-07-03T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/91f2543c183167329acf8ad0346b0f93-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/atl-wsh",
+    "feeds": [
+      {
+        "id": "3ea658b1-c86d-4985-b5ff-5a2b4936ac39",
+        "sourceId": null,
+        "label": "MNMT",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/atl-wsh"
+      }
+    ]
+  },
+  {
     "id": "744909a6-f725-48ab-9cd6-e666bd49458a",
     "slug": "mlb-2026-07-02-tb-kc-24625",
     "title": "Tampa Bay Rays vs. Kansas City Royals",
@@ -143,6 +164,27 @@
         "sourceId": null,
         "label": "Royals.TV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/tb-kc"
+      }
+    ]
+  },
+  {
+    "id": "f7fdcb5b-f454-4b0a-8108-eaa7296edcd0",
+    "slug": "wnba-2026-07-02-dal-con-24618",
+    "title": "Dallas Wings vs. Connecticut Sun",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T00:00:00.000Z",
+    "endsAt": "2026-07-03T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a08cda3a6868d48c52811027985e0c9a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/dal-con",
+    "feeds": [
+      {
+        "id": "d7cbfe4d-1d98-4078-98d2-3b10d8875c12",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-02/dal-con"
       }
     ]
   },
