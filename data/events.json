@@ -103,5 +103,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
       }
     ]
+  },
+  {
+    "id": "8976941f-2996-4d24-93f9-27b4f0aebb4e",
+    "slug": "afle-2026-07-05-vie-ber-24213",
+    "title": "Vienna Vikings vs. Berlin Thunder",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T14:40:00.000Z",
+    "endsAt": "2026-07-05T18:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/3505381422e542d99e685a468f147748-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber",
+    "feeds": [
+      {
+        "id": "214cc41f-f707-4968-8f62-03b94cebc4eb",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber"
+      }
+    ]
+  },
+  {
+    "id": "0853643e-6788-4ced-aaea-619fef8849ec",
+    "slug": "cfl-2026-07-05-wpg-ham-24202",
+    "title": "Winnipeg Blue Bombers vs. Hamilton Tiger-Cats",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T23:00:00.000Z",
+    "endsAt": "2026-07-06T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b5ec314392455d415c845e18c97550c4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham",
+    "feeds": [
+      {
+        "id": "36cdf88c-e161-4bfe-be10-d18639ddc1d2",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham"
+      }
+    ]
   }
 ]
