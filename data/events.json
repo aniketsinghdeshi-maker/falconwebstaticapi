@@ -19,5 +19,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-02/tor-cgy"
       }
     ]
+  },
+  {
+    "id": "6afd18a3-9dae-4549-aa44-c21344340a27",
+    "slug": "cfl-2026-07-03-ssk-ott-24197",
+    "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:30:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c9c799557f4687dc624fb0fca6786986-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott",
+    "feeds": [
+      {
+        "id": "0613ba9b-8d60-4718-a8d4-3b7146833ba5",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  },
+  {
+    "id": "b1d8b0c3-fdac-4f58-b88c-0ba0799f2472",
+    "slug": "afle-2026-07-04-par-pan-24211",
+    "title": "Paris Lights vs. Panthers Wroclaw",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T13:00:00.000Z",
+    "endsAt": "2026-07-04T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b3f1eb7c421bb0b493b285fb8674f75c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan",
+    "feeds": [
+      {
+        "id": "53651ea5-141a-44c4-84d4-a9adbc2c593d",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan"
+      }
+    ]
   }
 ]
