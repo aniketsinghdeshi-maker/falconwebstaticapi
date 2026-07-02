@@ -420,6 +420,69 @@
     ]
   },
   {
+    "id": "d6ea2b3c-9e4a-4a91-b1f4-216fc5655f40",
+    "slug": "wc-2026-07-02-sui-alg-24536",
+    "title": "Switzerland vs. Algeria",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T03:00:00.000Z",
+    "endsAt": "2026-07-03T05:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/dbcf5ae46f067df1ae3e66b92714399f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg",
+    "feeds": [
+      {
+        "id": "8f7543ea-910f-43e9-9a05-50bc7a8d66d0",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg"
+      },
+      {
+        "id": "6576be82-e9bf-4270-a0fb-597359b17ca8",
+        "sourceId": null,
+        "label": "FS1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/fox"
+      },
+      {
+        "id": "1aa32487-54d7-4adc-a0f0-1874b0a93cd2",
+        "sourceId": null,
+        "label": "FS1 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/fox-4k"
+      },
+      {
+        "id": "c36da0c7-0699-4d9d-a326-163ae28d202e",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/uk"
+      },
+      {
+        "id": "3ecdbd0f-55c0-4ef2-bb83-6e4832a1aeaa",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/bein"
+      },
+      {
+        "id": "094ba15c-0f4b-41e4-926d-9731b817137a",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/dazn-spain"
+      },
+      {
+        "id": "dd08e533-9eb1-45bf-b4a4-59a4cef293e9",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/telemundo"
+      },
+      {
+        "id": "a30009d0-7ffa-4f40-be33-f7e232fb5870",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/sui-alg/peacock-4k"
+      }
+    ]
+  },
+  {
     "id": "77b52892-9573-4f8f-8c4c-b85255942238",
     "slug": "afl-2026-07-03-syd-wb-24228",
     "title": "Sydney Swans vs. Western Bulldogs",
