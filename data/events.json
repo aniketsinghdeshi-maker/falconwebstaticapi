@@ -61,5 +61,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan"
       }
     ]
+  },
+  {
+    "id": "9781c34f-5582-4662-a2d2-55e45cb4c4c8",
+    "slug": "afle-2026-07-04-lon-fir-24212",
+    "title": "London Warriors vs. Firenze Red Lions",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T15:00:00.000Z",
+    "endsAt": "2026-07-04T18:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/adda2bde7b2db6f8e176cfcf3545a632-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir",
+    "feeds": [
+      {
+        "id": "849b435e-8b27-46dd-ba5b-765eb2e8cd9e",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir"
+      }
+    ]
+  },
+  {
+    "id": "91b1506a-e97f-4fbb-8e54-7d9eec745437",
+    "slug": "cfl-2026-07-04-edm-bc-24200",
+    "title": "Edmonton Elks vs. BC Lions",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T23:00:00.000Z",
+    "endsAt": "2026-07-05T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6b451afab7f7f4ab21b8aa08e81edce3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc",
+    "feeds": [
+      {
+        "id": "d1274c9a-a232-4e11-961b-4ae9a6ae155b",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
+      }
+    ]
   }
 ]
