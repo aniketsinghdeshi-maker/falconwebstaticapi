@@ -63,6 +63,69 @@
     ]
   },
   {
+    "id": "6d5d7806-2e2f-422d-8476-691d17754073",
+    "slug": "wc-2026-07-02-esp-aut-24520",
+    "title": "Spain vs. Austria",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T19:00:00.000Z",
+    "endsAt": "2026-07-02T21:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/bc08a2d35b29f8f08fb1346b239a8506-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut",
+    "feeds": [
+      {
+        "id": "1280ac4b-c742-4545-87d5-de7e3011ad37",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut"
+      },
+      {
+        "id": "cd03916f-e635-488a-856f-51e7e866d3cd",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/fox"
+      },
+      {
+        "id": "47423d5b-0bac-4f1f-8db5-86c34b76796a",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/fox-4k"
+      },
+      {
+        "id": "f2096775-76fd-4501-8824-27a8efd7a3f4",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/uk"
+      },
+      {
+        "id": "292dfc54-c091-4a0a-a659-889a971d0a4b",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/bein"
+      },
+      {
+        "id": "3aef53e2-bbbd-428c-95a5-206d45f12efb",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/dazn-spain"
+      },
+      {
+        "id": "5c101713-0cf5-4972-a027-e6a61a3a1938",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/telemundo"
+      },
+      {
+        "id": "37344cb0-fc43-450a-a8d9-ab8aadc064ea",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-02/esp-aut/peacock-4k"
+      }
+    ]
+  },
+  {
     "id": "51c4960c-167e-4ae7-acf3-b387523c848a",
     "slug": "mlb-2026-07-02-mia-col-24622",
     "title": "Miami Marlins vs. Colorado Rockies",
