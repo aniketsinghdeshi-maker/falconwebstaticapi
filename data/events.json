@@ -525,6 +525,57 @@
     ]
   },
   {
+    "id": "37e5a05b-32aa-47d3-9b88-0ca50fa12e00",
+    "slug": "f1-2026-great-britain-fp1-24334",
+    "title": "British Grand Prix - Practice 1",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T11:30:00.000Z",
+    "endsAt": "2026-07-03T13:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6fef75491c5b9d2d22710569ac42e443-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1",
+    "feeds": [
+      {
+        "id": "3f7bec46-52c3-4f49-843f-d2dbbdd17c01",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1"
+      },
+      {
+        "id": "1a46435c-85f7-4fbf-a97f-1a6b53002afe",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/f1tv"
+      },
+      {
+        "id": "888909d5-14c2-4fb5-957e-06035a9bc7e2",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/dazn-es"
+      },
+      {
+        "id": "ec74e54a-a4b6-4991-bf64-17a214c425ce",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/sky-sport-f1-de"
+      },
+      {
+        "id": "63ee8626-01ba-4c3a-a7af-abe0c9746100",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/v-sport-motor-sv"
+      },
+      {
+        "id": "d8d96251-2043-44a6-9764-9c8a23a4dc67",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "f5d187f2-f955-498d-b560-fa1fa4612df6",
     "slug": "wc-2026-07-03-aus-egy-24593",
     "title": "Australia vs. Egypt",
@@ -668,6 +719,69 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  },
+  {
+    "id": "3ea03b9c-3494-41cc-95ed-eae83338391d",
+    "slug": "wc-2026-07-03-col-gha-24609",
+    "title": "Colombia vs. Ghana",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:30:00.000Z",
+    "endsAt": "2026-07-04T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9a7d054f359a94229381c294646c5d32-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha",
+    "feeds": [
+      {
+        "id": "5ea8b028-4e45-4377-a5cd-ec5c516cde46",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha"
+      },
+      {
+        "id": "4e056cce-0b92-4a7f-8e75-6bfa0001a867",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox"
+      },
+      {
+        "id": "5422574a-54b1-4436-994e-2ca2fae4d23c",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox-4k"
+      },
+      {
+        "id": "b6fa6e99-28f3-4cd5-a70c-aa36f4d990f2",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/uk"
+      },
+      {
+        "id": "79010ed7-77c3-4aff-b005-4bfa59db87df",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/bein"
+      },
+      {
+        "id": "6119a516-f2d8-4428-a07b-b8e91e93e80c",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/dazn-spain"
+      },
+      {
+        "id": "5481be51-e5ca-4af5-8f3a-48e59f547372",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/telemundo"
+      },
+      {
+        "id": "74a46c42-a2da-4324-8c73-c660e05f095f",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/peacock-4k"
       }
     ]
   },
