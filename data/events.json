@@ -525,6 +525,57 @@
     ]
   },
   {
+    "id": "14962354-1fc5-4ab4-b0b4-63b95aedf60e",
+    "slug": "f1-2026-great-britain-fp1-24334",
+    "title": "British Grand Prix - Practice 1",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T11:30:00.000Z",
+    "endsAt": "2026-07-03T13:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6fef75491c5b9d2d22710569ac42e443-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1",
+    "feeds": [
+      {
+        "id": "93d714f7-5c20-4359-b4d7-2eb60d22d552",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1"
+      },
+      {
+        "id": "5fa67b8d-8e3e-44b6-a465-752405f30c18",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/f1tv"
+      },
+      {
+        "id": "1d92afc5-37aa-45d4-a0c7-6bcd1a2ac9b4",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/dazn-es"
+      },
+      {
+        "id": "2f83b6b1-f080-4a29-949a-9e68e71dcb16",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/sky-sport-f1-de"
+      },
+      {
+        "id": "1d9b4545-58e6-402d-93cb-7d4cb73da3ab",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/v-sport-motor-sv"
+      },
+      {
+        "id": "036d3a97-29cd-4e09-aca0-315ec3622b96",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/fp1/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "057a89bb-5d13-47ef-907c-462dc4cb79b3",
     "slug": "wc-2026-07-03-aus-egy-24593",
     "title": "Australia vs. Egypt",
