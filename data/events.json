@@ -42,6 +42,48 @@
     ]
   },
   {
+    "id": "77b52892-9573-4f8f-8c4c-b85255942238",
+    "slug": "afl-2026-07-03-syd-wb-24228",
+    "title": "Sydney Swans vs. Western Bulldogs",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T09:40:00.000Z",
+    "endsAt": "2026-07-03T12:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2954cfc480d6add439eb85fd4a47e282-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/syd-wb",
+    "feeds": [
+      {
+        "id": "24ce13d2-8305-4d0b-bb06-25b8b578129e",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/syd-wb"
+      }
+    ]
+  },
+  {
+    "id": "28fcf1c2-f5ca-4a58-8f56-aff4e8342c3d",
+    "slug": "afl-2026-07-03-wce-adel-24229",
+    "title": "West Coast Eagles vs. Adelaide Crows",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T10:10:00.000Z",
+    "endsAt": "2026-07-03T13:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/3bde872a2b01d7c45ad58129cb3fcea0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/wce-adel",
+    "feeds": [
+      {
+        "id": "3c51fe0c-240a-4f47-aeca-dbe0de837f81",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/wce-adel"
+      }
+    ]
+  },
+  {
     "id": "6afd18a3-9dae-4549-aa44-c21344340a27",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
