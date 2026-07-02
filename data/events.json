@@ -921,6 +921,57 @@
     ]
   },
   {
+    "id": "c5f569a8-0803-4912-8579-38bcf1a8cd48",
+    "slug": "f1-2026-great-britain-sprint-24348",
+    "title": "British Grand Prix - Sprint",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T11:00:00.000Z",
+    "endsAt": "2026-07-04T13:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/415ca9d288ac8834dde6081da96658b3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint",
+    "feeds": [
+      {
+        "id": "cc4338d3-bbc6-4142-b527-90c87cc677db",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint"
+      },
+      {
+        "id": "edd89c8f-8865-4288-b955-72ce099a607f",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint/f1tv"
+      },
+      {
+        "id": "92f76bd0-ecf1-458e-bd60-ba3bd78f49da",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint/dazn-es"
+      },
+      {
+        "id": "931aec57-8e9d-4b8d-ac9f-d8073927bc9d",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint/sky-sport-f1-de"
+      },
+      {
+        "id": "3ba5225e-8880-4118-bd99-6822589c7665",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint/v-sport-motor-sv"
+      },
+      {
+        "id": "5fd2b49f-c1df-47bc-83b1-13c3d5bd4791",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "b1d8b0c3-fdac-4f58-b88c-0ba0799f2472",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
