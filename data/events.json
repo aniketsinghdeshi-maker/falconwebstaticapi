@@ -1014,6 +1014,57 @@
     ]
   },
   {
+    "id": "6330d34f-3d23-404c-b074-268d73bbfbb7",
+    "slug": "f1-2026-great-britain-qualifying-24355",
+    "title": "British Grand Prix - Qualifying",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T15:00:00.000Z",
+    "endsAt": "2026-07-04T17:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/597666ceb859c85a8ebb945d8b4cecf4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying",
+    "feeds": [
+      {
+        "id": "a8293229-172d-4947-b5f7-b670f0c2c0f3",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying"
+      },
+      {
+        "id": "d9d7971a-255b-4478-af3d-6434f2859771",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying/f1tv"
+      },
+      {
+        "id": "8855a73e-25cc-4371-be2d-9163c405c9b3",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying/dazn-es"
+      },
+      {
+        "id": "7d60f630-d145-4f25-a7c2-08509c28df57",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying/sky-sport-f1-de"
+      },
+      {
+        "id": "5436a1f7-c083-411f-ae2f-89b94a096e4b",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying/v-sport-motor-sv"
+      },
+      {
+        "id": "907d361c-d5ae-4f4d-9366-cd381a378afc",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/qualifying/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "91b1506a-e97f-4fbb-8e54-7d9eec745437",
     "slug": "cfl-2026-07-04-edm-bc-24200",
     "title": "Edmonton Elks vs. BC Lions",
