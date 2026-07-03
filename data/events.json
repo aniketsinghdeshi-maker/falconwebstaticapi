@@ -231,6 +231,27 @@
     ]
   },
   {
+    "id": "748ce9f9-39b6-4fd1-a03a-66e936beb03f",
+    "slug": "mlb-2026-07-03-mil-ari-24736",
+    "title": "Milwaukee Brewers vs. Arizona Diamondbacks",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:45:00.000Z",
+    "endsAt": "2026-07-04T05:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/e8500e895df41675c057ba2054cef8e0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mil-ari",
+    "feeds": [
+      {
+        "id": "4fcfadd5-0a91-45b6-aa83-506635a3206c",
+        "sourceId": null,
+        "label": "MLB.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mil-ari"
+      }
+    ]
+  },
+  {
     "id": "14aafa9c-9a21-4963-b971-23058786b373",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
