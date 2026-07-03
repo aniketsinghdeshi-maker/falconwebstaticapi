@@ -63,6 +63,48 @@
     ]
   },
   {
+    "id": "4d5789d4-91f7-437a-b1c8-128ba83faec3",
+    "slug": "mlb-2026-07-03-bal-cin-24729",
+    "title": "Baltimore Orioles vs. Cincinnati Reds",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:10:00.000Z",
+    "endsAt": "2026-07-04T02:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4022f9df8993a99bb986266e27ca598e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bal-cin",
+    "feeds": [
+      {
+        "id": "b015687c-f10b-405f-a9b4-9d4b0a5dc261",
+        "sourceId": null,
+        "label": "Reds.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bal-cin"
+      }
+    ]
+  },
+  {
+    "id": "ac04315d-a1b7-4d44-a718-27373f6913c9",
+    "slug": "mlb-2026-07-03-chw-cle-24730",
+    "title": "Chicago White Sox vs. Cleveland Guardians",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:10:00.000Z",
+    "endsAt": "2026-07-04T02:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/19cf42fa853dc777e0c6971e92377dad-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/chw-cle",
+    "feeds": [
+      {
+        "id": "d3853e72-449c-4ae3-9c50-5edcb0db42b2",
+        "sourceId": null,
+        "label": "CLEGuardians.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/chw-cle"
+      }
+    ]
+  },
+  {
     "id": "cb9112a9-cf40-4d00-8dcb-8f82d2caef5f",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
