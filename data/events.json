@@ -210,6 +210,48 @@
     ]
   },
   {
+    "id": "57b4ad5d-c843-486a-b26e-8bc820df43dd",
+    "slug": "mlb-2026-07-03-mia-ath-24735",
+    "title": "Miami Marlins vs. Athletics",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:40:00.000Z",
+    "endsAt": "2026-07-04T05:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b30377a0d043203bb692823c59745e4d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mia-ath",
+    "feeds": [
+      {
+        "id": "13c47c82-4588-45c7-acc8-1fff25a473dd",
+        "sourceId": null,
+        "label": "NBC Sports CA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mia-ath"
+      }
+    ]
+  },
+  {
+    "id": "2001b4f5-e2a9-4ccc-8300-927118f89211",
+    "slug": "mlb-2026-07-03-mil-ari-24736",
+    "title": "Milwaukee Brewers vs. Arizona Diamondbacks",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:45:00.000Z",
+    "endsAt": "2026-07-04T05:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/e8500e895df41675c057ba2054cef8e0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mil-ari",
+    "feeds": [
+      {
+        "id": "3205dda0-39f5-42c5-93f6-470db0897fba",
+        "sourceId": null,
+        "label": "MLB.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mil-ari"
+      }
+    ]
+  },
+  {
     "id": "83e4671d-911e-460a-897a-bff3ac2d4220",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
