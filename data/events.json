@@ -63,6 +63,27 @@
     ]
   },
   {
+    "id": "caec7641-0996-4f0e-9118-97520167af20",
+    "slug": "wimbledon-2026-07-03-sinner-brooksby-24817",
+    "title": "Jannik Sinner vs. Jenson Brooksby",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-03T13:30:00.000Z",
+    "endsAt": "2026-07-03T18:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/13a0a2c5340f2ed4458922e9988218f3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/sinner-brooksby",
+    "feeds": [
+      {
+        "id": "7d86d5d6-6dc3-4e68-be29-fda0bc13dba6",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/sinner-brooksby"
+      }
+    ]
+  },
+  {
     "id": "b77d4515-52ef-4784-836c-5b09d9f905aa",
     "slug": "f1-2026-great-britain-sprint-q-24341",
     "title": "British Grand Prix - Sprint Qualifying",
@@ -497,6 +518,27 @@
         "sourceId": null,
         "label": "ESPN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/mia-sa"
+      }
+    ]
+  },
+  {
+    "id": "55a83bd4-5368-4903-b3d2-f19a03f39bd8",
+    "slug": "wwe-smackdown-2026-07-03-24245",
+    "title": "WWE: Friday Night Smackdown",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:00:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-03",
+    "feeds": [
+      {
+        "id": "cbab0cdb-702d-4a45-ba36-dcea6e9a8da6",
+        "sourceId": null,
+        "label": "USA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-03"
       }
     ]
   },
