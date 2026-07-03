@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "38fe831e-42ec-4d6b-a492-a43f7b75943a",
+    "slug": "mlb-2026-07-03-pit-wsh-24727",
+    "title": "Pittsburgh Pirates vs. Washington Nationals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T22:45:00.000Z",
+    "endsAt": "2026-07-04T02:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/cabc2754d52faa85a7fb9fc2c299fe09-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/pit-wsh",
+    "feeds": [
+      {
+        "id": "ecb37d2d-9876-4533-a0e3-44fcd6f42f38",
+        "sourceId": null,
+        "label": "Nationals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/pit-wsh"
+      }
+    ]
+  },
+  {
     "id": "cb9112a9-cf40-4d00-8dcb-8f82d2caef5f",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
