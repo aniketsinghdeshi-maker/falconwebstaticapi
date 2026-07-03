@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "83e4671d-911e-460a-897a-bff3ac2d4220",
+    "slug": "afl-2026-07-04-haw-melb-24230",
+    "title": "Hawthorn vs. Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:15:00.000Z",
+    "endsAt": "2026-07-04T06:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43713fb2868801670255a034ac4cbb2d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
+    "feeds": [
+      {
+        "id": "9911a9dc-185e-45bb-833d-04297ff7d151",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
+      }
+    ]
+  },
+  {
     "id": "8431966d-8c1f-4d86-8839-d500af5f06bd",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
