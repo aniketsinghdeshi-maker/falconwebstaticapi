@@ -789,6 +789,27 @@
     ]
   },
   {
+    "id": "be81392f-a9d6-4103-a681-962e662eb13b",
+    "slug": "nrl-2026-07-04-st-wes-24237",
+    "title": "Dragons vs. Wests Tigers",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T07:30:00.000Z",
+    "endsAt": "2026-07-04T10:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c1bafec86bfa8971dd3ebe1e4cf73387-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes",
+    "feeds": [
+      {
+        "id": "292687cf-7f17-495d-9c21-53c20ee27fb1",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes"
+      }
+    ]
+  },
+  {
     "id": "c26e8452-a339-46df-a499-58c4cdd98725",
     "slug": "afl-2026-07-04-rich-carl-24233",
     "title": "Richmond vs. Carlton",
