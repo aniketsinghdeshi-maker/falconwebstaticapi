@@ -168,6 +168,27 @@
     ]
   },
   {
+    "id": "948bbc36-c3ea-4d7f-ac3b-981beaec9c95",
+    "slug": "nba-2026-07-03-mia-sa-24704",
+    "title": "Miami Heat vs. San Antonio Spurs",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:00:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/7c28fe751db1a53e278a11bc5677d4af-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/mia-sa",
+    "feeds": [
+      {
+        "id": "d2a351be-69f2-409b-bdad-4d82512d7dd4",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/mia-sa"
+      }
+    ]
+  },
+  {
     "id": "e2a965b5-c3f7-4b0b-8a5e-deae1b4a4a3a",
     "slug": "mlb-2026-07-03-sf-col-24732",
     "title": "San Francisco Giants vs. Colorado Rockies",
