@@ -120,6 +120,99 @@
     ]
   },
   {
+    "id": "40492164-2024-4378-963b-9bb622e197bb",
+    "slug": "wc-2026-07-03-arg-cpv-24785",
+    "title": "Argentina vs. Cape Verde",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T22:00:00.000Z",
+    "endsAt": "2026-07-04T00:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6ae3de8b95df122b66002ef84d73204e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv",
+    "feeds": [
+      {
+        "id": "4845701e-00bb-4321-9254-31e7a917782e",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv"
+      },
+      {
+        "id": "20b7c8b4-e412-4ba3-8ca7-b951547fd9d2",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox"
+      },
+      {
+        "id": "6af2946d-fa31-4b0b-bd0b-da1803392895",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox-4k-hevc"
+      },
+      {
+        "id": "6948efab-93c9-4079-b316-03531246e04e",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/uk"
+      },
+      {
+        "id": "1a3f0a73-d50b-4ffe-81f9-eae00d9defca",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/bein-sports-1"
+      },
+      {
+        "id": "f5236985-b476-4cb0-bd70-fbc13459627f",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/dazn-spain"
+      },
+      {
+        "id": "bc883f15-1ceb-47b6-b629-e4f9b4783a1f",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/telemundo"
+      },
+      {
+        "id": "546f4ce6-bba0-457b-9107-f1a6ea6db955",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/peacock-4k-hevc"
+      },
+      {
+        "id": "282ab3e5-d038-4fa0-ab07-96df4d553bb1",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-hevc"
+      },
+      {
+        "id": "f7422f8f-e5c4-411f-a0c4-8ed0af4666a5",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "7400555b-5fa3-4858-ac85-116f090331c3",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "08b8f41f-af15-460c-9254-c4bff5c90f12",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "9433802d-03f9-4464-b7bb-7f137e05d459",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/orf-1"
+      }
+    ]
+  },
+  {
     "id": "38fe831e-42ec-4d6b-a492-a43f7b75943a",
     "slug": "mlb-2026-07-03-pit-wsh-24727",
     "title": "Pittsburgh Pirates vs. Washington Nationals",
