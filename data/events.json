@@ -19,5 +19,68 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
       }
     ]
+  },
+  {
+    "id": "8431966d-8c1f-4d86-8839-d500af5f06bd",
+    "slug": "afle-2026-07-04-par-pan-24211",
+    "title": "Paris Lights vs. Panthers Wroclaw",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T13:00:00.000Z",
+    "endsAt": "2026-07-04T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b3f1eb7c421bb0b493b285fb8674f75c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan",
+    "feeds": [
+      {
+        "id": "5561c1ca-d16f-4a40-b288-64147f4867e5",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/par-pan"
+      }
+    ]
+  },
+  {
+    "id": "abdf7fea-6be3-4f27-8420-92887ec3006b",
+    "slug": "afle-2026-07-04-lon-fir-24212",
+    "title": "London Warriors vs. Firenze Red Lions",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T15:00:00.000Z",
+    "endsAt": "2026-07-04T18:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/adda2bde7b2db6f8e176cfcf3545a632-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir",
+    "feeds": [
+      {
+        "id": "86a2a83c-759a-453d-926f-1c8053967322",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir"
+      }
+    ]
+  },
+  {
+    "id": "23158036-0f7c-4d45-b619-02aa608975f4",
+    "slug": "cfl-2026-07-04-edm-bc-24200",
+    "title": "Edmonton Elks vs. BC Lions",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T23:00:00.000Z",
+    "endsAt": "2026-07-05T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6b451afab7f7f4ab21b8aa08e81edce3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc",
+    "feeds": [
+      {
+        "id": "f315cf9c-69b6-49b5-88ff-7bb44b02eff5",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
+      }
+    ]
   }
 ]
