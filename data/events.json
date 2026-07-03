@@ -1203,6 +1203,27 @@
     ]
   },
   {
+    "id": "5e9974a7-5c01-45ab-9118-4786e27ecffa",
+    "slug": "nrl-2026-07-05-par-man-24239",
+    "title": "Eels vs. Sea Eagles",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T04:00:00.000Z",
+    "endsAt": "2026-07-05T06:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/75c24fe5e7cef8e078200a31578d339b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/par-man",
+    "feeds": [
+      {
+        "id": "7673c38b-4f4c-4810-a953-b0f937b8f897",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/par-man"
+      }
+    ]
+  },
+  {
     "id": "0c521d28-ee1d-47a7-aae6-f558bb47526f",
     "slug": "afl-2026-07-05-ess-stk-24234",
     "title": "Essendon vs. St Kilda",
@@ -1220,6 +1241,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
+      }
+    ]
+  },
+  {
+    "id": "06adbaae-c6e0-48ca-8c8a-8be7c23f4ba5",
+    "slug": "nrl-2026-07-05-new-dol-24240",
+    "title": "Knights vs. Dolphins",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T06:05:00.000Z",
+    "endsAt": "2026-07-05T08:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/79d4d8bd3e04d9b28e112b8d725b8192-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/new-dol",
+    "feeds": [
+      {
+        "id": "14ed1d6f-0ba8-4623-806a-395e3600e151",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/new-dol"
       }
     ]
   },
