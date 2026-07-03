@@ -423,6 +423,105 @@
     ]
   },
   {
+    "id": "fc980249-f27c-4127-895b-6bc40b598d64",
+    "slug": "wc-2026-07-03-col-gha-24797",
+    "title": "Colombia vs. Ghana",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:30:00.000Z",
+    "endsAt": "2026-07-04T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9a7d054f359a94229381c294646c5d32-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha",
+    "feeds": [
+      {
+        "id": "3d15c4b7-8920-40bc-9d44-23a263f73bf9",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha"
+      },
+      {
+        "id": "5acfe32e-c51b-404d-ae1c-7c910f02d5f9",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox"
+      },
+      {
+        "id": "6bead029-020a-48b9-a10e-5710dd7e0c31",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox-4k-hevc"
+      },
+      {
+        "id": "4ce1319d-e765-4a9e-9bd8-43b0e9e88aa7",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/uk"
+      },
+      {
+        "id": "1eba96e2-39a8-4766-b76f-ecd529779bd2",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/bein-sports-1"
+      },
+      {
+        "id": "a760cbd8-74c9-4352-b3f1-e2bf910ad500",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/dazn-spain"
+      },
+      {
+        "id": "dc0c3736-33b3-49b4-9185-0205c7670210",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/telemundo"
+      },
+      {
+        "id": "54b3e25e-17b1-4bd2-8d10-b9db1aa13fa6",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/peacock-4k-hevc"
+      },
+      {
+        "id": "f8037744-82ee-444c-b9b9-cfe0b5b05eb0",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-hevc"
+      },
+      {
+        "id": "71951207-bf89-424a-aa50-1bffe692aba9",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "568cdb53-0477-4bd7-b4ec-ca4f08593c22",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "70dd18fa-eda6-4bfc-9533-dd0d031a4e42",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "59b1b6fb-0d24-4d35-941b-041a20529106",
+        "sourceId": null,
+        "label": "ZDF",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/zdf"
+      },
+      {
+        "id": "4eb6efe0-eade-4460-a1ab-9f921f152aac",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/orf-1"
+      }
+    ]
+  },
+  {
     "id": "b09cf5d8-cab9-426f-bc6f-bf559d76b8ae",
     "slug": "mlb-2026-07-03-bos-laa-24734",
     "title": "Boston Red Sox vs. Los Angeles Angels",
@@ -692,6 +791,93 @@
         "sourceId": null,
         "label": "AFLE+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir"
+      }
+    ]
+  },
+  {
+    "id": "4c47fe2b-65f9-4bef-ac34-2fea85a13b8c",
+    "slug": "wc-2026-07-04-can-mar-24749",
+    "title": "Canada vs. Morocco",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T17:00:00.000Z",
+    "endsAt": "2026-07-04T19:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9c1f7c6afa1bc1460d7d6b4155a55d62-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar",
+    "feeds": [
+      {
+        "id": "22b019e2-859a-4e09-81ae-c61fa95e987d",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar"
+      },
+      {
+        "id": "4c9cdd54-ac72-4ad9-ac28-05bd4208a430",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/fox"
+      },
+      {
+        "id": "22b317ef-785f-4824-969a-6e5de96d4509",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/fox-4k-hevc"
+      },
+      {
+        "id": "3bcc43a7-7d96-415b-be3b-c265190611ba",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/uk"
+      },
+      {
+        "id": "5fd94f4f-6e10-49d5-ad34-fde4294ef2c5",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/bein-sports-1"
+      },
+      {
+        "id": "04934f9f-8952-4730-9043-aba57c0ba503",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/dazn-spain"
+      },
+      {
+        "id": "2af92c91-18c5-422b-bfb2-a463c5307d7f",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/telemundo"
+      },
+      {
+        "id": "4441d7e2-5ab4-4cb0-8b62-55a123f20a36",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/peacock-4k-hevc"
+      },
+      {
+        "id": "c6f20605-f711-46d9-8c49-0b018537125c",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/fussballtv-4k-hevc"
+      },
+      {
+        "id": "3dfd3576-625c-4fae-9a1c-243c70ffec58",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "a7b46588-1326-491c-ae93-e15bee7bfe77",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "6513606b-426f-40a2-8627-5ed588114bbe",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/can-mar/fussballtv-4k-tactical-no-commentary-hevc"
       }
     ]
   },
