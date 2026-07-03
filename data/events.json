@@ -210,6 +210,27 @@
     ]
   },
   {
+    "id": "2086149e-5f11-4fef-85d7-ac6373d13b87",
+    "slug": "mlb-2026-07-03-mia-ath-24735",
+    "title": "Miami Marlins vs. Athletics",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:40:00.000Z",
+    "endsAt": "2026-07-04T05:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b30377a0d043203bb692823c59745e4d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mia-ath",
+    "feeds": [
+      {
+        "id": "8ffa44c1-8e7c-4fc9-bbda-e780badd60fb",
+        "sourceId": null,
+        "label": "NBC Sports CA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mia-ath"
+      }
+    ]
+  },
+  {
     "id": "14aafa9c-9a21-4963-b971-23058786b373",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
