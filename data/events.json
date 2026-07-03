@@ -1,5 +1,104 @@
 [
   {
+    "id": "8fc58a01-1ebf-4b3f-bcbd-d6a4f14f6419",
+    "slug": "wc-2026-07-03-aus-egy-24773",
+    "title": "Australia vs. Egypt",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T18:00:00.000Z",
+    "endsAt": "2026-07-03T20:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/62dc70cfed4f740037418ac9bf48ac85-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy",
+    "feeds": [
+      {
+        "id": "8b35bc45-98df-4526-9dd4-15027be1fae0",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy"
+      },
+      {
+        "id": "68f920b9-610a-4820-9318-72888ccd3395",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox"
+      },
+      {
+        "id": "86cebd6f-5a57-4c3b-ab50-a0e92980f6b9",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox-4k-hevc"
+      },
+      {
+        "id": "48075e8d-a956-4594-81a7-b3271cc13c4b",
+        "sourceId": null,
+        "label": "BBC One",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/uk"
+      },
+      {
+        "id": "94497dae-38d2-410b-a9b9-9f470571c5af",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/bein-sports-1"
+      },
+      {
+        "id": "9069bd67-7e34-42bb-aa63-d8fc9d32def3",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/dazn-spain"
+      },
+      {
+        "id": "f008044b-262b-4131-ad0f-2773fe0ee4b9",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/telemundo"
+      },
+      {
+        "id": "4774325a-fb60-4ad3-9d2e-b3ca47ee30ba",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/peacock-4k-hevc"
+      },
+      {
+        "id": "5df85097-cee6-4a4d-93ef-cf2207a15d5d",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-hevc"
+      },
+      {
+        "id": "570bd2ae-9b74-4663-bf47-4211e78fb9ed",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "04ebd48e-5a14-4f4e-ad2a-817d272688f2",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "81948de7-f52a-4299-81e5-19bbf47e0946",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "f94c7ea8-c77e-4987-ac1d-24f92a482374",
+        "sourceId": null,
+        "label": "ZDF",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/zdf"
+      },
+      {
+        "id": "4ee04b4b-77e4-4aa3-8e3f-8eda8b9febf5",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/orf-1"
+      }
+    ]
+  },
+  {
     "id": "e8d7af1d-b9d9-49af-899b-2374ab16064a",
     "slug": "mlb-2026-07-03-stl-chc-24726",
     "title": "St. Louis Cardinals vs. Chicago Cubs",
