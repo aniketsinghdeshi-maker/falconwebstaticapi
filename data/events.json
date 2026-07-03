@@ -84,6 +84,27 @@
     ]
   },
   {
+    "id": "acc9a297-8952-4a81-a511-6f289e106949",
+    "slug": "afl-2026-07-04-rich-carl-24233",
+    "title": "Richmond vs. Carlton",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T09:35:00.000Z",
+    "endsAt": "2026-07-04T12:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2996f9906a36e7f964967db3baa545f9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl",
+    "feeds": [
+      {
+        "id": "cfe4f26a-4566-43c9-bcc3-88d39c9f975a",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl"
+      }
+    ]
+  },
+  {
     "id": "8e1e64ef-88e9-4c7c-828b-f58adbadc4ac",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
@@ -143,6 +164,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
+      }
+    ]
+  },
+  {
+    "id": "0c521d28-ee1d-47a7-aae6-f558bb47526f",
+    "slug": "afl-2026-07-05-ess-stk-24234",
+    "title": "Essendon vs. St Kilda",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T05:15:00.000Z",
+    "endsAt": "2026-07-05T08:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/048108dfd8e6d2c62b40332435343bc4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk",
+    "feeds": [
+      {
+        "id": "4b6406b6-e0ba-4911-b400-b25ce03b7428",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
       }
     ]
   },
