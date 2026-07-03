@@ -1,5 +1,104 @@
 [
   {
+    "id": "88b667dc-0982-4d21-abe5-bb220514c7e4",
+    "slug": "wc-2026-07-03-aus-egy-24773",
+    "title": "Australia vs. Egypt",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T18:00:00.000Z",
+    "endsAt": "2026-07-03T20:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/62dc70cfed4f740037418ac9bf48ac85-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy",
+    "feeds": [
+      {
+        "id": "a160dbec-d1d9-4d46-96ca-e2b97084d221",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy"
+      },
+      {
+        "id": "0163e56a-adf0-4a1a-8243-7e076a702d4e",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox"
+      },
+      {
+        "id": "a18dd7f9-2467-4308-9389-7ef8e43107c1",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox-4k-hevc"
+      },
+      {
+        "id": "14c43de4-a52c-4354-acb0-9dc9bb7bc3db",
+        "sourceId": null,
+        "label": "BBC One",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/uk"
+      },
+      {
+        "id": "d2e37b19-e356-4e7a-a024-66ecc2de4e0a",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/bein-sports-1"
+      },
+      {
+        "id": "ce4d7a8c-3bb4-4cb7-9b83-be802a7d414a",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/dazn-spain"
+      },
+      {
+        "id": "c5c2385f-c489-447a-96a7-fc7eb32511e4",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/telemundo"
+      },
+      {
+        "id": "0afe8503-2724-44a3-a8ac-c480542a9465",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/peacock-4k-hevc"
+      },
+      {
+        "id": "2652cc6c-bf79-4ad0-bdc6-320834ae051d",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-hevc"
+      },
+      {
+        "id": "9ab06a3a-500a-48bb-98e0-38d96ed08108",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "c276faa7-d1b1-4d2c-8189-599748cca0c9",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "3f79e58e-f616-426c-a276-a1ad87f0ac2b",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "030647e7-cadf-4eb8-ace4-67b3e354d04d",
+        "sourceId": null,
+        "label": "ZDF",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/zdf"
+      },
+      {
+        "id": "8119e4dd-fe96-450b-aece-8e64fa2335ed",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/orf-1"
+      }
+    ]
+  },
+  {
     "id": "a991ac31-ec68-4067-8c67-ddc308e61052",
     "slug": "mlb-2026-07-03-stl-chc-24726",
     "title": "St. Louis Cardinals vs. Chicago Cubs",
@@ -294,6 +393,27 @@
     ]
   },
   {
+    "id": "e7de246b-312a-4a5b-ac55-0770574b7e22",
+    "slug": "wnba-2026-07-03-chi-lv-24725",
+    "title": "Chicago Sky vs. Las Vegas Aces",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T02:00:00.000Z",
+    "endsAt": "2026-07-04T05:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6e3ba636a852594376b0504f23118262-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-03/chi-lv",
+    "feeds": [
+      {
+        "id": "ac8fd287-97c6-4c15-b645-1175773c77ce",
+        "sourceId": null,
+        "label": "ION",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-03/chi-lv"
+      }
+    ]
+  },
+  {
     "id": "33fac4e7-b38c-4a77-9f0e-5f8fffc40498",
     "slug": "mlb-2026-07-03-sd-lad-24737",
     "title": "San Diego Padres vs. Los Angeles Dodgers",
@@ -332,6 +452,27 @@
         "sourceId": null,
         "label": "Mariners.TV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tor-sea"
+      }
+    ]
+  },
+  {
+    "id": "538ab66c-3868-4952-9064-b41197a4a706",
+    "slug": "nba-2026-07-03-lal-gs-24705",
+    "title": "Los Angeles Lakers vs. Golden State Warriors Gold",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T02:30:00.000Z",
+    "endsAt": "2026-07-04T05:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/8d9a125b079eda533e98a6205066d5e8-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/lal-gs",
+    "feeds": [
+      {
+        "id": "5f184950-24ab-4dfe-ba35-d5fcc4eef227",
+        "sourceId": null,
+        "label": "ESPNU",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/lal-gs"
       }
     ]
   },
