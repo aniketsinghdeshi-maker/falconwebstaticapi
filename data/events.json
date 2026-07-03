@@ -844,52 +844,10 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
     "feeds": [
       {
-        "id": "9911a9dc-185e-45bb-833d-04297ff7d151",
+        "id": "legacy",
         "sourceId": null,
-        "label": "Fox Footy",
+        "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
-      }
-    ]
-  },
-  {
-    "id": "6b6ae56a-0522-47f9-bd3d-223fa675824a",
-    "slug": "afl-2026-07-04-gws-fre-24231",
-    "title": "GWS GIANTS vs. Fremantle",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-04T03:35:00.000Z",
-    "endsAt": "2026-07-04T06:35:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/480b200cfcb8ef7d63ed57f26d38252a-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre",
-    "feeds": [
-      {
-        "id": "aceb2c6b-497d-47ec-a492-0562f332aeb3",
-        "sourceId": null,
-        "label": "Fox Sports 503",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre"
-      }
-    ]
-  },
-  {
-    "id": "5576aba3-0ec2-4d6c-aabb-a1bc5b73f5e9",
-    "slug": "afl-2026-07-04-gcfc-coll-24232",
-    "title": "Gold Coast SUNS vs. Collingwood",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-04T06:15:00.000Z",
-    "endsAt": "2026-07-04T09:15:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/59bff7baeb35f198a3579ee9c503f435-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll",
-    "feeds": [
-      {
-        "id": "2df69eb3-28ec-4caf-ad7e-a9247a08e572",
-        "sourceId": null,
-        "label": "Fox Footy",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll"
       }
     ]
   },
@@ -928,9 +886,9 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl",
     "feeds": [
       {
-        "id": "e2719765-58b4-4c0c-b8f2-ba7926442fa5",
+        "id": "legacy",
         "sourceId": null,
-        "label": "Fox Footy",
+        "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl"
       }
     ]
@@ -1329,27 +1287,6 @@
     ]
   },
   {
-    "id": "efb85f26-ab06-4426-bd9c-d79839bb39ef",
-    "slug": "afl-2026-07-05-ess-stk-24234",
-    "title": "Essendon vs. St Kilda",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-05T05:15:00.000Z",
-    "endsAt": "2026-07-05T08:15:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/048108dfd8e6d2c62b40332435343bc4-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk",
-    "feeds": [
-      {
-        "id": "e2d19b0e-6066-468c-af93-983318aedf1b",
-        "sourceId": null,
-        "label": "Fox Footy",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
-      }
-    ]
-  },
-  {
     "id": "65b0d5f5-d2f3-4917-8ff5-105106fb850f",
     "slug": "nrl-2026-07-05-new-dol-24240",
     "title": "Knights vs. Dolphins",
@@ -1367,27 +1304,6 @@
         "sourceId": null,
         "label": "Fox League",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/new-dol"
-      }
-    ]
-  },
-  {
-    "id": "d8cf9484-ff80-4529-80b7-6f57c344bb2b",
-    "slug": "afl-2026-07-05-port-nmfc-24235",
-    "title": "Port Adelaide vs. North Melbourne",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-05T06:40:00.000Z",
-    "endsAt": "2026-07-05T09:40:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/65a08325cdb2f3ea6839f2c6b19aba66-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/port-nmfc",
-    "feeds": [
-      {
-        "id": "d3d8b268-4821-4c9c-9e63-3b8ba1d5ef71",
-        "sourceId": null,
-        "label": "Fox Sports 503",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/port-nmfc"
       }
     ]
   },
