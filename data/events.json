@@ -882,6 +882,93 @@
     ]
   },
   {
+    "id": "fc018dea-109b-445d-9a88-a9cd9cf398ab",
+    "slug": "wc-2026-07-04-par-fra-24761",
+    "title": "Paraguay vs. France",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T21:00:00.000Z",
+    "endsAt": "2026-07-04T23:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fc37b335ab15a4b35c2345e0e1029949-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra",
+    "feeds": [
+      {
+        "id": "9c527eca-316f-4f0d-818c-f025bcf20576",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra"
+      },
+      {
+        "id": "20e55d61-3853-4d13-b7b6-55c28d9e6801",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/fox"
+      },
+      {
+        "id": "55f62a3f-747e-4b98-8f6d-db1fb200750a",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/fox-4k-hevc"
+      },
+      {
+        "id": "c4440ef5-5c32-489a-8521-897598f0e3cc",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/uk"
+      },
+      {
+        "id": "03685e6d-1ac8-426d-9ec3-7abdd4186091",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/bein-sports-1"
+      },
+      {
+        "id": "d09001dd-ee0a-4577-8e85-f8ded6961d32",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/dazn-spain"
+      },
+      {
+        "id": "ba9f0729-c903-4907-8c1e-5b3202dab368",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/telemundo"
+      },
+      {
+        "id": "306616a3-43da-4949-a363-cff1aa34b8b4",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/peacock-4k-hevc"
+      },
+      {
+        "id": "2bc5119a-5a18-4253-a621-8add594630b4",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/fussballtv-4k-hevc"
+      },
+      {
+        "id": "3639c90b-9dc1-4718-b023-5549f0273c3b",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "e9865d9c-405c-44b2-93c0-8d14e077fcbb",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "f41d42c6-9f92-4237-b8ba-45b3853cf3d6",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-04/par-fra/fussballtv-4k-tactical-no-commentary-hevc"
+      }
+    ]
+  },
+  {
     "id": "23158036-0f7c-4d45-b619-02aa608975f4",
     "slug": "cfl-2026-07-04-edm-bc-24200",
     "title": "Edmonton Elks vs. BC Lions",
