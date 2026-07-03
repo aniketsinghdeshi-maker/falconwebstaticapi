@@ -1203,6 +1203,81 @@
     ]
   },
   {
+    "id": "4b32ab9c-afe0-4a25-b567-87542d3b2800",
+    "slug": "f1-2026-great-britain-race-24362",
+    "title": "British Grand Prix - Race",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T14:00:00.000Z",
+    "endsAt": "2026-07-05T17:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/de4e0197e6cec775325c0fa7f14470e2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race",
+    "feeds": [
+      {
+        "id": "6b254586-4f66-4e0e-aee2-2d26814e5c8c",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race"
+      },
+      {
+        "id": "e9244df1-9600-4869-a64f-168f46276f29",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/f1tv"
+      },
+      {
+        "id": "5e56e3eb-6dfa-48c7-a2d1-5c18f4f7561a",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/dazn-es"
+      },
+      {
+        "id": "3b77c956-b140-4436-9ba8-e6b12fdaf5b9",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/sky-sport-f1-de"
+      },
+      {
+        "id": "dc0d48d5-e1c3-4e78-b907-0a570ffe0f08",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/v-sport-motor-sv"
+      },
+      {
+        "id": "499db292-32f0-4a99-8f7b-4eab59c571c7",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/viaplay-nl"
+      },
+      {
+        "id": "ff8c765b-152a-4c39-b81b-4a3a3c57902d",
+        "sourceId": null,
+        "label": "Driver Data",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/driver-data"
+      },
+      {
+        "id": "aad66b1e-8255-44e3-af50-3200ee0fe65b",
+        "sourceId": null,
+        "label": "Driver Tracker",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/driver-tracker"
+      },
+      {
+        "id": "1e6fa1ad-1656-47a5-995f-407a636bc890",
+        "sourceId": null,
+        "label": "Driver: Max Verstappen",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/driver-max-verstappen"
+      },
+      {
+        "id": "a22fa183-92a0-4159-b616-f99b46f47d5c",
+        "sourceId": null,
+        "label": "F1TV Multi-Language",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/race/f1tv-multi-language"
+      }
+    ]
+  },
+  {
     "id": "a39b3b8e-04f9-4db3-8b72-c3c77df515e7",
     "slug": "afle-2026-07-05-vie-ber-24213",
     "title": "Vienna Vikings vs. Berlin Thunder",
