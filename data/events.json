@@ -147,6 +147,69 @@
     ]
   },
   {
+    "id": "ed4a344f-f483-4f8a-a5fa-b692fdc64692",
+    "slug": "mlb-2026-07-03-sf-col-24732",
+    "title": "San Francisco Giants vs. Colorado Rockies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:10:00.000Z",
+    "endsAt": "2026-07-04T03:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/79f6746f22a3753e0aac4c4848063e84-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sf-col",
+    "feeds": [
+      {
+        "id": "af56a0cd-576d-45ae-9e7b-28191956f64a",
+        "sourceId": null,
+        "label": "Rockies.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sf-col"
+      }
+    ]
+  },
+  {
+    "id": "a37e1787-2ccf-4923-acb0-32fb1f6ea39e",
+    "slug": "mlb-2026-07-03-tb-hou-24733",
+    "title": "Tampa Bay Rays vs. Houston Astros",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:15:00.000Z",
+    "endsAt": "2026-07-04T03:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/77177e26486c98772c96c3be2f265bee-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tb-hou",
+    "feeds": [
+      {
+        "id": "8839fe66-d3ab-44de-b487-5fecde7486fe",
+        "sourceId": null,
+        "label": "MLB.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tb-hou"
+      }
+    ]
+  },
+  {
+    "id": "b09cf5d8-cab9-426f-bc6f-bf559d76b8ae",
+    "slug": "mlb-2026-07-03-bos-laa-24734",
+    "title": "Boston Red Sox vs. Los Angeles Angels",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:38:00.000Z",
+    "endsAt": "2026-07-04T05:08:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/87ad207b96feaa42365f1190bfd6ddfc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bos-laa",
+    "feeds": [
+      {
+        "id": "4687c8f6-b969-4cb2-9bf3-735f224d5339",
+        "sourceId": null,
+        "label": "Angels.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bos-laa"
+      }
+    ]
+  },
+  {
     "id": "83e4671d-911e-460a-897a-bff3ac2d4220",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
