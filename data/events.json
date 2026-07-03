@@ -168,6 +168,48 @@
     ]
   },
   {
+    "id": "c5d9568a-8805-4bb9-a1d5-11dfd9cb3083",
+    "slug": "mlb-2026-07-03-tb-hou-24733",
+    "title": "Tampa Bay Rays vs. Houston Astros",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:15:00.000Z",
+    "endsAt": "2026-07-04T03:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/77177e26486c98772c96c3be2f265bee-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tb-hou",
+    "feeds": [
+      {
+        "id": "fd63802d-8e53-4204-9725-40d28f94d500",
+        "sourceId": null,
+        "label": "MLB.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tb-hou"
+      }
+    ]
+  },
+  {
+    "id": "cd88712b-fd6a-40e2-ac11-744242aef2da",
+    "slug": "mlb-2026-07-03-bos-laa-24734",
+    "title": "Boston Red Sox vs. Los Angeles Angels",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:38:00.000Z",
+    "endsAt": "2026-07-04T05:08:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/87ad207b96feaa42365f1190bfd6ddfc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bos-laa",
+    "feeds": [
+      {
+        "id": "5199d268-5cc9-4201-8db4-86a039fb2399",
+        "sourceId": null,
+        "label": "Angels.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bos-laa"
+      }
+    ]
+  },
+  {
     "id": "14aafa9c-9a21-4963-b971-23058786b373",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
