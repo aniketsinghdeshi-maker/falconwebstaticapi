@@ -357,6 +357,27 @@
     ]
   },
   {
+    "id": "fc352870-c02f-438f-a1e2-d818a1f7db23",
+    "slug": "nba-2026-07-03-lal-gs-24705",
+    "title": "Los Angeles Lakers vs. Golden State Warriors Gold",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T02:30:00.000Z",
+    "endsAt": "2026-07-04T05:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/8d9a125b079eda533e98a6205066d5e8-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/lal-gs",
+    "feeds": [
+      {
+        "id": "d80e41b2-b890-4172-aecf-13e0b97d9ca7",
+        "sourceId": null,
+        "label": "ESPNU",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-03/lal-gs"
+      }
+    ]
+  },
+  {
     "id": "83e4671d-911e-460a-897a-bff3ac2d4220",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
