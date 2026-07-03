@@ -168,6 +168,48 @@
     ]
   },
   {
+    "id": "efb85f26-ab06-4426-bd9c-d79839bb39ef",
+    "slug": "afl-2026-07-05-ess-stk-24234",
+    "title": "Essendon vs. St Kilda",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T05:15:00.000Z",
+    "endsAt": "2026-07-05T08:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/048108dfd8e6d2c62b40332435343bc4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk",
+    "feeds": [
+      {
+        "id": "e2d19b0e-6066-468c-af93-983318aedf1b",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
+      }
+    ]
+  },
+  {
+    "id": "d8cf9484-ff80-4529-80b7-6f57c344bb2b",
+    "slug": "afl-2026-07-05-port-nmfc-24235",
+    "title": "Port Adelaide vs. North Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T06:40:00.000Z",
+    "endsAt": "2026-07-05T09:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/65a08325cdb2f3ea6839f2c6b19aba66-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/port-nmfc",
+    "feeds": [
+      {
+        "id": "d3d8b268-4821-4c9c-9e63-3b8ba1d5ef71",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/port-nmfc"
+      }
+    ]
+  },
+  {
     "id": "a39b3b8e-04f9-4db3-8b72-c3c77df515e7",
     "slug": "afle-2026-07-05-vie-ber-24213",
     "title": "Vienna Vikings vs. Berlin Thunder",
