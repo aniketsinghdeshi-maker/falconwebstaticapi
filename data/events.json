@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "14aafa9c-9a21-4963-b971-23058786b373",
+    "slug": "afl-2026-07-04-haw-melb-24230",
+    "title": "Hawthorn vs. Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:15:00.000Z",
+    "endsAt": "2026-07-04T06:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43713fb2868801670255a034ac4cbb2d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
+    "feeds": [
+      {
+        "id": "dd2c0921-6a97-4f4d-a89c-f334424afbcb",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
+      }
+    ]
+  },
+  {
     "id": "8e1e64ef-88e9-4c7c-828b-f58adbadc4ac",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
@@ -101,6 +122,27 @@
         "sourceId": null,
         "label": "AFLE+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber"
+      }
+    ]
+  },
+  {
+    "id": "a5affda6-ae8c-48a9-9bad-2ee3939a8bbb",
+    "slug": "cfl-2026-07-05-wpg-ham-24202",
+    "title": "Winnipeg Blue Bombers vs. Hamilton Tiger-Cats",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T23:00:00.000Z",
+    "endsAt": "2026-07-06T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b5ec314392455d415c845e18c97550c4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham",
+    "feeds": [
+      {
+        "id": "d4ccdf21-904f-4364-a681-8c375dce7144",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham"
       }
     ]
   }
