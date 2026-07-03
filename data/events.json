@@ -252,6 +252,27 @@
     ]
   },
   {
+    "id": "361f9378-63b0-491c-86a1-f0aa173a91fc",
+    "slug": "mlb-2026-07-03-sd-lad-24737",
+    "title": "San Diego Padres vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T02:10:00.000Z",
+    "endsAt": "2026-07-04T05:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/34b57d2427814c46588425181c718049-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sd-lad",
+    "feeds": [
+      {
+        "id": "2b198f44-ec3f-4ca2-8065-09ced60647c4",
+        "sourceId": null,
+        "label": "Sportsnet LA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sd-lad"
+      }
+    ]
+  },
+  {
     "id": "83e4671d-911e-460a-897a-bff3ac2d4220",
     "slug": "afl-2026-07-04-haw-melb-24230",
     "title": "Hawthorn vs. Melbourne",
