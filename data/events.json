@@ -21,6 +21,48 @@
     ]
   },
   {
+    "id": "b073ec2c-637f-40b1-8bee-31a8b6b2e102",
+    "slug": "mlb-2026-07-03-pit-wsh-24727",
+    "title": "Pittsburgh Pirates vs. Washington Nationals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T22:45:00.000Z",
+    "endsAt": "2026-07-04T02:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/cabc2754d52faa85a7fb9fc2c299fe09-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/pit-wsh",
+    "feeds": [
+      {
+        "id": "32cae18d-26ba-4abb-8604-c9cd60dcf702",
+        "sourceId": null,
+        "label": "Nationals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/pit-wsh"
+      }
+    ]
+  },
+  {
+    "id": "779dc23d-52d4-4f58-bc76-a0e1e481f3a0",
+    "slug": "mlb-2026-07-03-min-nyy-24728",
+    "title": "Minnesota Twins vs. New York Yankees",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:05:00.000Z",
+    "endsAt": "2026-07-04T02:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d99236dfe8f6c95601590bcc5c72eee6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/min-nyy",
+    "feeds": [
+      {
+        "id": "b7564ba3-11f3-4350-99cd-100e8cd18864",
+        "sourceId": null,
+        "label": "YES",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/min-nyy"
+      }
+    ]
+  },
+  {
     "id": "dbbbb2f2-dbed-4410-a0b5-dbe4e7ed0ab6",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
