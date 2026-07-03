@@ -42,6 +42,69 @@
     ]
   },
   {
+    "id": "6b6ae56a-0522-47f9-bd3d-223fa675824a",
+    "slug": "afl-2026-07-04-gws-fre-24231",
+    "title": "GWS GIANTS vs. Fremantle",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:35:00.000Z",
+    "endsAt": "2026-07-04T06:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/480b200cfcb8ef7d63ed57f26d38252a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre",
+    "feeds": [
+      {
+        "id": "aceb2c6b-497d-47ec-a492-0562f332aeb3",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gws-fre"
+      }
+    ]
+  },
+  {
+    "id": "5576aba3-0ec2-4d6c-aabb-a1bc5b73f5e9",
+    "slug": "afl-2026-07-04-gcfc-coll-24232",
+    "title": "Gold Coast SUNS vs. Collingwood",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T06:15:00.000Z",
+    "endsAt": "2026-07-04T09:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/59bff7baeb35f198a3579ee9c503f435-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll",
+    "feeds": [
+      {
+        "id": "2df69eb3-28ec-4caf-ad7e-a9247a08e572",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/gcfc-coll"
+      }
+    ]
+  },
+  {
+    "id": "c26e8452-a339-46df-a499-58c4cdd98725",
+    "slug": "afl-2026-07-04-rich-carl-24233",
+    "title": "Richmond vs. Carlton",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T09:35:00.000Z",
+    "endsAt": "2026-07-04T12:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2996f9906a36e7f964967db3baa545f9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl",
+    "feeds": [
+      {
+        "id": "e2719765-58b4-4c0c-b8f2-ba7926442fa5",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl"
+      }
+    ]
+  },
+  {
     "id": "8431966d-8c1f-4d86-8839-d500af5f06bd",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
