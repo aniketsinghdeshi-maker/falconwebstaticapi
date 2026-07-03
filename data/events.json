@@ -1,5 +1,26 @@
 [
   {
+    "id": "e8d7af1d-b9d9-49af-899b-2374ab16064a",
+    "slug": "mlb-2026-07-03-stl-chc-24726",
+    "title": "St. Louis Cardinals vs. Chicago Cubs",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T20:05:00.000Z",
+    "endsAt": "2026-07-03T23:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/7ca7369d6d76897af2bd9a5e4b1ec876-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/stl-chc",
+    "feeds": [
+      {
+        "id": "d7f0964f-2781-4bbb-b7e7-c5478c2200cf",
+        "sourceId": null,
+        "label": "Marquee Sports Net",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/stl-chc"
+      }
+    ]
+  },
+  {
     "id": "dbbbb2f2-dbed-4410-a0b5-dbe4e7ed0ab6",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
