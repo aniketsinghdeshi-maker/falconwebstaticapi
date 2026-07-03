@@ -21,110 +21,11 @@
     ]
   },
   {
-    "id": "72a63687-6934-41ae-8256-78d6d748ce2e",
-    "slug": "wimbledon-2026-07-03-rinderknech-djokovic-24816",
-    "title": "Arthur Rinderknech vs. Novak Djokovic",
-    "category": "Tennis",
-    "status": "live",
-    "startsAt": "2026-07-03T12:30:00.000Z",
-    "endsAt": "2026-07-03T17:30:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6e0f2c714212e534885ff75fdbe9a11e-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/rinderknech-djokovic",
-    "feeds": [
-      {
-        "id": "575bca2f-f7a0-40a3-b42c-d7989c7fbf0c",
-        "sourceId": null,
-        "label": "Stan Sport",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/rinderknech-djokovic"
-      }
-    ]
-  },
-  {
-    "id": "caec7641-0996-4f0e-9118-97520167af20",
-    "slug": "wimbledon-2026-07-03-sinner-brooksby-24817",
-    "title": "Jannik Sinner vs. Jenson Brooksby",
-    "category": "Tennis",
-    "status": "live",
-    "startsAt": "2026-07-03T13:30:00.000Z",
-    "endsAt": "2026-07-03T18:30:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/13a0a2c5340f2ed4458922e9988218f3-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/sinner-brooksby",
-    "feeds": [
-      {
-        "id": "7d86d5d6-6dc3-4e68-be29-fda0bc13dba6",
-        "sourceId": null,
-        "label": "Stan Sport",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/sinner-brooksby"
-      }
-    ]
-  },
-  {
-    "id": "b77d4515-52ef-4784-836c-5b09d9f905aa",
-    "slug": "f1-2026-great-britain-sprint-q-24341",
-    "title": "British Grand Prix - Sprint Qualifying",
-    "category": "Motorsports",
-    "status": "upcoming",
-    "startsAt": "2026-07-03T15:30:00.000Z",
-    "endsAt": "2026-07-03T17:14:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/f5dec658d1e95e5da2f1a8ca02808642-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q",
-    "feeds": [
-      {
-        "id": "78967626-32fc-4220-96b5-d7e003139e2a",
-        "sourceId": null,
-        "label": "Sky Sport NZ",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q"
-      },
-      {
-        "id": "4cfcf309-c147-4970-b912-bd9de061a743",
-        "sourceId": null,
-        "label": "Apple TV (F1TV)",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/f1tv"
-      },
-      {
-        "id": "d08add5a-0e7d-4ce2-b694-dfff57a887bb",
-        "sourceId": null,
-        "label": "DAZN F1",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/dazn-es"
-      },
-      {
-        "id": "40fec3bf-2b9e-43ea-90f3-4d181fbf0fee",
-        "sourceId": null,
-        "label": "Sky Sport F1",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/sky-sport-f1-de"
-      },
-      {
-        "id": "6b9bbf59-fc80-4281-a347-6a9a2294b6b3",
-        "sourceId": null,
-        "label": "V Sport Motor",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/v-sport-motor-sv"
-      },
-      {
-        "id": "8afcc20f-c834-4782-a119-36f76da532e4",
-        "sourceId": null,
-        "label": "Viaplay",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/viaplay-nl"
-      },
-      {
-        "id": "2c3b1287-23e3-4db8-bde2-1efa37f0da74",
-        "sourceId": null,
-        "label": "F1TV Multi-Language",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/great-britain/sprint-q/f1tv-multi-language"
-      }
-    ]
-  },
-  {
     "id": "8fc58a01-1ebf-4b3f-bcbd-d6a4f14f6419",
     "slug": "wc-2026-07-03-aus-egy-24773",
     "title": "Australia vs. Egypt",
     "category": "Football",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-03T18:00:00.000Z",
     "endsAt": "2026-07-03T20:30:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/62dc70cfed4f740037418ac9bf48ac85-thumbnail.jpg",
