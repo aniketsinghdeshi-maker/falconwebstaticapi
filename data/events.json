@@ -1,5 +1,26 @@
 [
   {
+    "id": "a991ac31-ec68-4067-8c67-ddc308e61052",
+    "slug": "mlb-2026-07-03-stl-chc-24726",
+    "title": "St. Louis Cardinals vs. Chicago Cubs",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T20:05:00.000Z",
+    "endsAt": "2026-07-03T23:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/7ca7369d6d76897af2bd9a5e4b1ec876-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/stl-chc",
+    "feeds": [
+      {
+        "id": "a2f50245-4d06-4d2e-a044-16c9bb924057",
+        "sourceId": null,
+        "label": "Marquee Sports Net",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/stl-chc"
+      }
+    ]
+  },
+  {
     "id": "cb9112a9-cf40-4d00-8dcb-8f82d2caef5f",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
@@ -185,6 +206,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
+      }
+    ]
+  },
+  {
+    "id": "2ce18de9-b183-4e25-9d2f-615d39055665",
+    "slug": "afl-2026-07-05-port-nmfc-24235",
+    "title": "Port Adelaide vs. North Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T06:40:00.000Z",
+    "endsAt": "2026-07-05T09:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/65a08325cdb2f3ea6839f2c6b19aba66-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/port-nmfc",
+    "feeds": [
+      {
+        "id": "e978a10c-2d34-4f9f-825f-ca51f19204ab",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/port-nmfc"
       }
     ]
   },
