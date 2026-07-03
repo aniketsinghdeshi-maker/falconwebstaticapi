@@ -63,6 +63,27 @@
     ]
   },
   {
+    "id": "59906e76-6411-4ac6-845a-cc8ed7fd01b9",
+    "slug": "mlb-2026-07-03-bal-cin-24729",
+    "title": "Baltimore Orioles vs. Cincinnati Reds",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:10:00.000Z",
+    "endsAt": "2026-07-04T02:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4022f9df8993a99bb986266e27ca598e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bal-cin",
+    "feeds": [
+      {
+        "id": "a1a6e908-1368-4b3c-ad00-2f319d13c622",
+        "sourceId": null,
+        "label": "Reds.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/bal-cin"
+      }
+    ]
+  },
+  {
     "id": "dbbbb2f2-dbed-4410-a0b5-dbe4e7ed0ab6",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
