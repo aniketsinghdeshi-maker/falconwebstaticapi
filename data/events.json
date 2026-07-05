@@ -276,6 +276,48 @@
     ]
   },
   {
+    "id": "9a14b8d9-5497-4bd2-9d98-eedfd2006d39",
+    "slug": "mlb-2026-07-05-sf-col-24939",
+    "title": "San Francisco Giants vs. Colorado Rockies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T20:00:00.000Z",
+    "endsAt": "2026-07-05T23:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/79f6746f22a3753e0aac4c4848063e84-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/sf-col",
+    "feeds": [
+      {
+        "id": "ab28060f-dd8d-42d7-90fe-a1d3a5ef066f",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/sf-col"
+      }
+    ]
+  },
+  {
+    "id": "b3cbdc47-697d-4686-b1d4-37e34ed2d9b2",
+    "slug": "mlb-2026-07-05-mil-ari-24940",
+    "title": "Milwaukee Brewers vs. Arizona Diamondbacks",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T20:00:00.000Z",
+    "endsAt": "2026-07-05T23:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/e8500e895df41675c057ba2054cef8e0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/mil-ari",
+    "feeds": [
+      {
+        "id": "fc9c9907-15e0-4461-89ef-1c26fe985aac",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/mil-ari"
+      }
+    ]
+  },
+  {
     "id": "3de249b1-6d93-4f84-9f96-0ddc59cc9d6f",
     "slug": "cfl-2026-07-05-wpg-ham-24202",
     "title": "Winnipeg Blue Bombers vs. Hamilton Tiger-Cats",
