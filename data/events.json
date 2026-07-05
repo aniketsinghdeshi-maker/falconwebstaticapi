@@ -189,6 +189,54 @@
     ]
   },
   {
+    "id": "7e464a5a-78c1-4b4c-8fa9-d0a175adb1d8",
+    "slug": "wimbledon-2026-07-05-sinner-mochizuki-24947",
+    "title": "Jannik Sinner vs. Shintaro Mochizuki",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-05T18:30:00.000Z",
+    "endsAt": "2026-07-05T23:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a065806d9a8be9c46c6852606d1f5f72-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-05/sinner-mochizuki",
+    "feeds": [
+      {
+        "id": "04ed1a0e-3805-49ea-9e43-a9defa2e15b0",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-05/sinner-mochizuki"
+      },
+      {
+        "id": "fb1d39b5-6de7-47c3-9fff-271000dc6128",
+        "sourceId": null,
+        "label": "Stan Sport 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-05/sinner-mochizuki/stan-sport-4k-hevc"
+      }
+    ]
+  },
+  {
+    "id": "5a1483bd-abec-4574-b9da-30c525ec3606",
+    "slug": "wimbledon-2026-07-05-bencic-gauff-24897",
+    "title": "Belinda Bencic vs. Coco Gauff",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-05T18:45:00.000Z",
+    "endsAt": "2026-07-05T23:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c84720d1a0bbdde39a0ddad482d59114-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-05/bencic-gauff",
+    "feeds": [
+      {
+        "id": "d77ea876-387f-4796-8458-1595f5da716e",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-05/bencic-gauff"
+      }
+    ]
+  },
+  {
     "id": "d7388343-6f75-44a7-b45b-25ef263121b7",
     "slug": "mlb-2026-07-05-phi-kc-24936",
     "title": "Philadelphia Phillies vs. Kansas City Royals",
