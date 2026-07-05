@@ -318,6 +318,48 @@
     ]
   },
   {
+    "id": "67ed6d6a-c4c8-47e5-a8c6-2f08999a5a53",
+    "slug": "mlb-2026-07-05-mia-ath-24941",
+    "title": "Miami Marlins vs. Athletics",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T20:30:00.000Z",
+    "endsAt": "2026-07-06T00:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b30377a0d043203bb692823c59745e4d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/mia-ath",
+    "feeds": [
+      {
+        "id": "7d9e689f-a5bf-4994-a147-174f9345a03a",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/mia-ath"
+      }
+    ]
+  },
+  {
+    "id": "ff9149f2-73f1-43d0-bf43-6ef84e2d659e",
+    "slug": "mlb-2026-07-05-tor-sea-24942",
+    "title": "Toronto Blue Jays vs. Seattle Mariners",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T21:00:00.000Z",
+    "endsAt": "2026-07-06T00:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/49069cc19c0df4d21346cccc44cae7db-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/tor-sea",
+    "feeds": [
+      {
+        "id": "257b1e03-dbf2-40b8-a476-e00c555b62c9",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/tor-sea"
+      }
+    ]
+  },
+  {
     "id": "3de249b1-6d93-4f84-9f96-0ddc59cc9d6f",
     "slug": "cfl-2026-07-05-wpg-ham-24202",
     "title": "Winnipeg Blue Bombers vs. Hamilton Tiger-Cats",
@@ -335,6 +377,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham"
+      }
+    ]
+  },
+  {
+    "id": "2ba57da1-5c33-487a-8649-b5d916ab039c",
+    "slug": "mlb-2026-07-05-sd-lad-24943",
+    "title": "San Diego Padres vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T23:20:00.000Z",
+    "endsAt": "2026-07-06T02:50:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/34b57d2427814c46588425181c718049-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/sd-lad",
+    "feeds": [
+      {
+        "id": "a6c1fc4b-5d36-4412-a630-e796865bb890",
+        "sourceId": null,
+        "label": "NBC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/sd-lad"
       }
     ]
   },
