@@ -178,5 +178,92 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/tv-azteca-720p"
       }
     ]
+  },
+  {
+    "id": "a7b94b12-92ff-4363-bc57-ad334738e62f",
+    "slug": "wc-2026-07-06-por-esp-24898",
+    "title": "Portugal vs. Spain",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-06T19:00:00.000Z",
+    "endsAt": "2026-07-06T21:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/087a39a8cac8d52fb1e51ecae89e0a14-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp",
+    "feeds": [
+      {
+        "id": "9f9ad09f-4284-41fe-ac94-fee09f9104a2",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp"
+      },
+      {
+        "id": "1e995a8c-812c-48c2-ba74-60a426837a05",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fox"
+      },
+      {
+        "id": "349f27d0-3489-40ca-93f1-46e40d35f3d2",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fox-4k-hevc"
+      },
+      {
+        "id": "c67018dd-0f9d-47cd-b5a7-bbf09c389b09",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/uk"
+      },
+      {
+        "id": "f51e1319-8b8c-4b67-91ec-9af9b39c4a8c",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/bein-sports-1"
+      },
+      {
+        "id": "bc5c369d-fe97-4222-94ce-21b75fc1912c",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/dazn-spain"
+      },
+      {
+        "id": "53514b82-8cb3-4570-8a8d-123eaec772ee",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/telemundo"
+      },
+      {
+        "id": "422f20ae-0fff-4f20-8905-0338e5d91cf9",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/peacock-4k-hevc"
+      },
+      {
+        "id": "ea0a342f-147c-4b4d-ba84-955efb2bcc39",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fussballtv-4k-hevc"
+      },
+      {
+        "id": "f314d727-3c5f-4851-998f-4a96512f32b3",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "31a661be-f9bd-4d85-b1f8-6ea9f816c217",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "3e7e95e6-d281-4be1-af35-4cbeb71e6acb",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fussballtv-4k-tactical-no-commentary-hevc"
+      }
+    ]
   }
 ]
