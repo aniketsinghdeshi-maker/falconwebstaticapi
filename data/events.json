@@ -982,5 +982,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-4"
       }
     ]
+  },
+  {
+    "id": "a65fc2e6-9ade-4aae-9339-38feabeb890a",
+    "slug": "tour-de-france-2026-stage-5-24886",
+    "title": "Tour de France- Stage 5",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T11:30:00.000Z",
+    "endsAt": "2026-07-08T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-5",
+    "feeds": [
+      {
+        "id": "c5bad3e2-dd35-4ce3-a8bc-7035bc1c2cdc",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-5"
+      }
+    ]
+  },
+  {
+    "id": "1a8e2970-ba7e-414e-bb55-1b1f47a76d67",
+    "slug": "tour-de-france-2026-stage-6-24887",
+    "title": "Tour de France- Stage 6",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-09T10:00:00.000Z",
+    "endsAt": "2026-07-09T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-6",
+    "feeds": [
+      {
+        "id": "f5c1d9f9-072c-4a77-a437-7574726a644c",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-6"
+      }
+    ]
   }
 ]
