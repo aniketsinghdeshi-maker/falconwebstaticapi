@@ -465,6 +465,48 @@
     ]
   },
   {
+    "id": "d4e24f9e-160c-4229-b7a3-968da97e19e1",
+    "slug": "nba-2026-07-05-sa-gs-24858",
+    "title": "San Antonio Spurs vs. Golden State Warriors Gold",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T23:00:00.000Z",
+    "endsAt": "2026-07-06T02:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/59847f16464a26c933ad40b80140d506-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/sa-gs",
+    "feeds": [
+      {
+        "id": "913aff49-1e2b-4f49-8485-0e5c19a6dc60",
+        "sourceId": null,
+        "label": "ESPN+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/sa-gs"
+      }
+    ]
+  },
+  {
+    "id": "43b78fd6-e7d7-4c17-8fd1-834ce923298d",
+    "slug": "wnba-2026-07-05-ind-lv-24929",
+    "title": "Indiana Fever vs. Las Vegas Aces",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T23:00:00.000Z",
+    "endsAt": "2026-07-06T02:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6b7bdc01e6955584362a63de56a0e20f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-05/ind-lv",
+    "feeds": [
+      {
+        "id": "f7543f49-f2cf-4241-8e36-a0455dc84d40",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-05/ind-lv"
+      }
+    ]
+  },
+  {
     "id": "2ba57da1-5c33-487a-8649-b5d916ab039c",
     "slug": "mlb-2026-07-05-sd-lad-24943",
     "title": "San Diego Padres vs. Los Angeles Dodgers",
@@ -683,6 +725,27 @@
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fussballtv-4k-tactical-no-commentary-hevc"
+      }
+    ]
+  },
+  {
+    "id": "5c89a30b-ac5c-4178-871c-2da2fa94b154",
+    "slug": "nba-2026-07-06-atl-okc-24922",
+    "title": "Atlanta Hawks vs. Oklahoma City Thunder",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-06T23:00:00.000Z",
+    "endsAt": "2026-07-07T02:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/5f998d403b36a687c0ef6c27e78e7850-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/atl-okc",
+    "feeds": [
+      {
+        "id": "72c0b805-59c6-4f7d-bca1-5c6bbb8b5134",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/atl-okc"
       }
     ]
   },
