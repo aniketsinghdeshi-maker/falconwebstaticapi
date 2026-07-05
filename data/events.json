@@ -352,76 +352,82 @@
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9b44c2b9ea5450667bd4ac064d9febd3-thumbnail.jpg",
     "isPopular": false,
     "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor",
+    "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=c01ebabfcd",
     "feeds": [
       {
-        "id": "3946827d-52e2-48e6-b89a-5ee0646559e9",
+        "id": "49c5d580-c970-4a53-8828-2b3c7e70b143",
+        "sourceId": null,
+        "label": "TSN 4",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=c01ebabfcd"
+      },
+      {
+        "id": "70bbf74f-14ae-4c6c-b587-ede2654e53f8",
         "sourceId": null,
         "label": "TSN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor"
       },
       {
-        "id": "dad196b8-e29e-430d-a339-a2841c020099",
+        "id": "d358ddff-a564-4fbd-ac35-d412a4abbe4c",
         "sourceId": null,
         "label": "FOX",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fox"
       },
       {
-        "id": "6ba3357e-7db9-4408-9758-4c699d71c441",
+        "id": "c9dfae92-ad96-4bc2-b012-f484dae105ee",
         "sourceId": null,
         "label": "FOX 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fox-4k-hevc"
       },
       {
-        "id": "cef6b668-d5f8-451f-a9e8-95eba53e7ec1",
+        "id": "fda55d6b-dbed-42e2-8d26-031334278b08",
         "sourceId": null,
         "label": "ITV1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/uk"
       },
       {
-        "id": "2089784c-c0f7-4c01-8513-5e871fc60d90",
+        "id": "8893e864-242f-4dd8-b0c5-60e6ee839ba7",
         "sourceId": null,
         "label": "beIN Sports 1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/bein-sports-1"
       },
       {
-        "id": "339a304f-8594-431f-904a-c7b5bd775f9f",
+        "id": "3700f9b3-818a-4d17-8f49-3ad5d7cd51e1",
         "sourceId": null,
         "label": "DAZN Spain",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/dazn-spain"
       },
       {
-        "id": "7792c0ca-7810-40b6-847e-28150fab1e8d",
+        "id": "e202b674-d3da-4e88-9e0d-a9ea35b8a2f7",
         "sourceId": null,
         "label": "Telemundo",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/telemundo"
       },
       {
-        "id": "06e94b17-4670-47fa-89b0-6bb0f9e1dd76",
+        "id": "97bbe661-0176-400e-88c1-7e4124519035",
         "sourceId": null,
         "label": "Peacock 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/peacock-4k-hevc"
       },
       {
-        "id": "c6b2a048-23b8-45d3-9502-f9f1177bad23",
+        "id": "3e7e0655-1367-478c-ad0b-937aeba63bfe",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-hevc"
       },
       {
-        "id": "391ce2c5-c417-44fa-ba6f-ca180f813b0f",
+        "id": "a9e27544-5d6e-453a-9145-357564edad42",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-no-commentary-hevc"
       },
       {
-        "id": "6a13851f-a48e-4406-8c72-341eca0f0b35",
+        "id": "cd6f25b3-ec12-4386-abad-aa5340752ec0",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-tactical-hevc"
       },
       {
-        "id": "eaff7a2a-956e-4247-a39a-a39902bb1eba",
+        "id": "c74a8cc1-1a0a-47f2-a932-936f8f30a59a",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-tactical-no-commentary-hevc"
