@@ -642,6 +642,27 @@
     ]
   },
   {
+    "id": "e56d208d-0a2b-4e01-a051-05f0b1d8cdc0",
+    "slug": "tour-de-france-2026-stage-3-24884",
+    "title": "Tour de France - Stage 3",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-06T09:45:00.000Z",
+    "endsAt": "2026-07-06T15:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-3",
+    "feeds": [
+      {
+        "id": "c461b409-dd4c-4621-b209-34694c5d95f0",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-3"
+      }
+    ]
+  },
+  {
     "id": "a7b94b12-92ff-4363-bc57-ad334738e62f",
     "slug": "wc-2026-07-06-por-esp-24898",
     "title": "Portugal vs. Spain",
@@ -938,6 +959,27 @@
         "sourceId": null,
         "label": "ESPNU",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/mil-sac"
+      }
+    ]
+  },
+  {
+    "id": "58a89594-b406-4b17-a7f2-3db0c3db5111",
+    "slug": "tour-de-france-2026-stage-4-24885",
+    "title": "Tour de France- Stage 4",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T11:00:00.000Z",
+    "endsAt": "2026-07-07T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-4",
+    "feeds": [
+      {
+        "id": "b0ec0b38-656d-4bae-9876-21fdbf27e058",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-4"
       }
     ]
   }
