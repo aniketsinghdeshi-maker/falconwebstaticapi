@@ -42,6 +42,48 @@
     ]
   },
   {
+    "id": "c10c9f85-a7c4-4a19-a986-e9eb14e93445",
+    "slug": "mlb-2026-07-05-bal-cin-24932",
+    "title": "Baltimore Orioles vs. Cincinnati Reds",
+    "category": "Baseball",
+    "status": "live",
+    "startsAt": "2026-07-05T17:05:00.000Z",
+    "endsAt": "2026-07-05T20:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4022f9df8993a99bb986266e27ca598e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/bal-cin",
+    "feeds": [
+      {
+        "id": "1e8a4c04-2862-498d-8cf0-757b24bb2a02",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/bal-cin"
+      }
+    ]
+  },
+  {
+    "id": "3ba039ca-7951-458d-a5cb-642a23297c19",
+    "slug": "mlb-2026-07-05-min-nyy-24933",
+    "title": "Minnesota Twins vs. New York Yankees",
+    "category": "Baseball",
+    "status": "live",
+    "startsAt": "2026-07-05T17:35:00.000Z",
+    "endsAt": "2026-07-05T21:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d99236dfe8f6c95601590bcc5c72eee6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/min-nyy",
+    "feeds": [
+      {
+        "id": "6e4c353f-4c67-432c-b98d-b5fd756b7247",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/min-nyy"
+      }
+    ]
+  },
+  {
     "id": "987c180d-2419-4f5f-90c3-bd1c595b1adc",
     "slug": "wc-2026-07-05-bra-nor-24827",
     "title": "Brazil vs. Norway",
