@@ -168,6 +168,27 @@
     ]
   },
   {
+    "id": "8e103197-5c72-4cb0-a0ee-a5412bf6050a",
+    "slug": "wnba-2026-07-05-dal-tor-24928",
+    "title": "Dallas Wings vs. Toronto Tempo",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T19:00:00.000Z",
+    "endsAt": "2026-07-05T22:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/51bcf35c3e9b7a320e4272fd3a866e86-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-05/dal-tor",
+    "feeds": [
+      {
+        "id": "4f061bb1-1f94-4ccd-8713-536eebf9bfd6",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-05/dal-tor"
+      }
+    ]
+  },
+  {
     "id": "00ee4b8c-ba3a-43b4-bd6b-f0bbf3367d20",
     "slug": "mlb-2026-07-05-det-tex-24937",
     "title": "Detroit Tigers vs. Texas Rangers",
@@ -360,6 +381,27 @@
     ]
   },
   {
+    "id": "2142c992-640a-4a1e-bb46-42ef37d9c066",
+    "slug": "nba-2026-07-05-mia-lal-24856",
+    "title": "Miami Heat vs. Los Angeles Lakers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T20:30:00.000Z",
+    "endsAt": "2026-07-05T23:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d397d06f8e3652a2c53ce056329fb6be-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/mia-lal",
+    "feeds": [
+      {
+        "id": "ff90e083-6eab-469e-a150-ad157603d530",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/mia-lal"
+      }
+    ]
+  },
+  {
     "id": "ff9149f2-73f1-43d0-bf43-6ef84e2d659e",
     "slug": "mlb-2026-07-05-tor-sea-24942",
     "title": "Toronto Blue Jays vs. Seattle Mariners",
@@ -377,6 +419,27 @@
         "sourceId": null,
         "label": "Peacock",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/tor-sea"
+      }
+    ]
+  },
+  {
+    "id": "4e9c5e9c-07c8-4e7c-b830-d8bef121cd8e",
+    "slug": "nba-2026-07-05-gs-sac-24857",
+    "title": "Golden State Warriors Blue vs. Sacramento Kings",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T21:00:00.000Z",
+    "endsAt": "2026-07-06T00:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/08142f115f8852559dbfe00dd6254db2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/gs-sac",
+    "feeds": [
+      {
+        "id": "c080f260-f67e-4197-be23-fad79380c2d6",
+        "sourceId": null,
+        "label": "ESPN+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/gs-sac"
       }
     ]
   },
