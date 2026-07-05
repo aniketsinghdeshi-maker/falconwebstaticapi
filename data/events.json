@@ -85,5 +85,98 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-tactical-no-commentary-hevc"
       }
     ]
+  },
+  {
+    "id": "a1dc33ec-0b15-4dc2-890b-4e2ca967fd9a",
+    "slug": "wc-2026-07-05-mex-eng-24839",
+    "title": "Mexico vs. England",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-06T00:00:00.000Z",
+    "endsAt": "2026-07-06T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/928ff9b4446fc8ce29397c30291af4ed-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng",
+    "feeds": [
+      {
+        "id": "1a1a9e59-c16c-4d44-a45e-68112be4987d",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng"
+      },
+      {
+        "id": "4aa53283-7647-4da0-908e-70a3472bbadd",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/fox"
+      },
+      {
+        "id": "14cf6ca5-c78f-427f-ac59-930d09229a68",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/fox-4k-hevc"
+      },
+      {
+        "id": "09a75be9-9443-4241-8ca9-578f49ee404e",
+        "sourceId": null,
+        "label": "BBC ONE (1080p)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/uk"
+      },
+      {
+        "id": "83eb8700-5d9a-4e99-b212-db54087d8dd5",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/bein-sports-1"
+      },
+      {
+        "id": "93989f0b-cc5d-4743-8209-03412b5b5680",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/dazn-spain"
+      },
+      {
+        "id": "2213c25d-adbb-41c8-a79f-dc7ed8177ed4",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/telemundo"
+      },
+      {
+        "id": "3efe96dc-7ddd-474a-aea9-6f83477e8148",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/peacock-4k-hevc"
+      },
+      {
+        "id": "f8b20f35-5565-48c8-836d-406a9d73d9a2",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/fussballtv-4k-hevc"
+      },
+      {
+        "id": "78dfcce7-02b8-4c9a-a696-1214a29be7cc",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "d0be1bf3-3acf-4131-a02a-06139dce42d0",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "e92631b5-15ca-4db4-9c36-1aac29124eca",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "ab1c141f-ef5a-42bf-b558-c127ecb1f43e",
+        "sourceId": null,
+        "label": "TV Azteca (720p)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/tv-azteca-720p"
+      }
+    ]
   }
 ]
