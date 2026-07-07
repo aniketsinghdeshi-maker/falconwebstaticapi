@@ -324,6 +324,27 @@
     ]
   },
   {
+    "id": "0789f4e3-10af-4ca3-808a-407f79c95725",
+    "slug": "afl-2026-07-11-carl-haw-25004",
+    "title": "Carlton vs. Hawthorn",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T09:35:00.000Z",
+    "endsAt": "2026-07-11T12:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4585ee5884388654beb945fda4fbace0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-11/carl-haw",
+    "feeds": [
+      {
+        "id": "16cc1798-9553-4693-968b-03c8f726af84",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-11/carl-haw"
+      }
+    ]
+  },
+  {
     "id": "c4912b23-2c5c-4e91-9182-eb3d04d26fc5",
     "slug": "afle-2026-07-11-lon-alp-24983",
     "title": "London Warriors vs. Alpine Rams",
