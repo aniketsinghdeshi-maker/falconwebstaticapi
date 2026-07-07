@@ -387,6 +387,48 @@
     ]
   },
   {
+    "id": "e4f4e377-78fe-430d-8148-dd65c56d79b7",
+    "slug": "mlb-2026-07-07-bos-chw-25044",
+    "title": "Boston Red Sox vs. Chicago White Sox",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T23:40:00.000Z",
+    "endsAt": "2026-07-08T03:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9ffc98a8a1eddc6772ad53212795f85f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/bos-chw",
+    "feeds": [
+      {
+        "id": "8d66440d-24ea-46c2-833f-5d480f9fa6a0",
+        "sourceId": null,
+        "label": "CHSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/bos-chw"
+      }
+    ]
+  },
+  {
+    "id": "f22b0c11-a5d5-43de-bf06-0b0e3cc983c6",
+    "slug": "mlb-2026-07-07-cle-min-25045",
+    "title": "Cleveland Guardians vs. Minnesota Twins",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T23:40:00.000Z",
+    "endsAt": "2026-07-08T03:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/752089be3c3d626bf30f149096dc28ce-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/cle-min",
+    "feeds": [
+      {
+        "id": "4716fc5b-c9ec-4000-b9bd-4c9fa8d5d656",
+        "sourceId": null,
+        "label": "Twins.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/cle-min"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
