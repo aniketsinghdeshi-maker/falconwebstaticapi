@@ -219,6 +219,27 @@
     ]
   },
   {
+    "id": "189d3658-1953-4f51-962a-4d3dcddc1016",
+    "slug": "mlb-2026-07-07-chc-bal-25036",
+    "title": "Chicago Cubs vs. Baltimore Orioles",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T22:35:00.000Z",
+    "endsAt": "2026-07-08T02:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c95d5521911fff98aba625b81585bd65-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/chc-bal",
+    "feeds": [
+      {
+        "id": "52d2431a-53de-4238-a4ce-bfeef441751f",
+        "sourceId": null,
+        "label": "MASN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/chc-bal"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
