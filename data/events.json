@@ -345,6 +345,27 @@
     ]
   },
   {
+    "id": "f8b140b8-1e41-4bec-8d2d-98b980f1116e",
+    "slug": "afl-2026-07-11-adel-gcfc-25005",
+    "title": "Adelaide Crows vs. Gold Coast SUNS",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T10:10:00.000Z",
+    "endsAt": "2026-07-11T13:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/5d5f281b79754518849cbe172e350480-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-11/adel-gcfc",
+    "feeds": [
+      {
+        "id": "6f3974e5-82f4-4f1f-922b-b3a4126f7fa9",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-11/adel-gcfc"
+      }
+    ]
+  },
+  {
     "id": "c4912b23-2c5c-4e91-9182-eb3d04d26fc5",
     "slug": "afle-2026-07-11-lon-alp-24983",
     "title": "London Warriors vs. Alpine Rams",
@@ -404,6 +425,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-11/cgy-mtl"
+      }
+    ]
+  },
+  {
+    "id": "4b65bfd4-c60f-49c5-8ff0-698c362a1154",
+    "slug": "afl-2026-07-12-wb-wce-25006",
+    "title": "Western Bulldogs vs. West Coast Eagles",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T03:10:00.000Z",
+    "endsAt": "2026-07-12T06:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/46adf3763ef05f59208e3934e9c776f5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/wb-wce",
+    "feeds": [
+      {
+        "id": "1506ffb3-5bed-4674-b5d7-d1a4c88d54b5",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/wb-wce"
       }
     ]
   },
