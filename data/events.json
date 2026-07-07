@@ -322,5 +322,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/fir-ber"
       }
     ]
+  },
+  {
+    "id": "370bdb7a-c16e-476e-b1fe-a1f2ccf2eedb",
+    "slug": "afle-2026-07-12-pan-rhe-24986",
+    "title": "Panthers Wroclaw vs. Rhein Fire",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T14:55:00.000Z",
+    "endsAt": "2026-07-12T18:25:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4c2e4ec3dd5dfc64e470cdaef0e6187d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/pan-rhe",
+    "feeds": [
+      {
+        "id": "0defa6a0-88c5-4540-a513-229206247e50",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/pan-rhe"
+      }
+    ]
   }
 ]
