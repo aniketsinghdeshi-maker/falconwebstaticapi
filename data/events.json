@@ -217,5 +217,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-09/ott-edm"
       }
     ]
+  },
+  {
+    "id": "666f0bae-01d1-4054-8833-93d9c9a13a66",
+    "slug": "cfl-2026-07-10-tor-wpg-24970",
+    "title": "Toronto Argonauts vs. Winnipeg Blue Bombers",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T00:30:00.000Z",
+    "endsAt": "2026-07-11T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/31d1d2fade21b3496881f626d8c0c54e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-10/tor-wpg",
+    "feeds": [
+      {
+        "id": "b1c886ad-92c2-4e50-a6a8-5d1a448dbaff",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-10/tor-wpg"
+      }
+    ]
   }
 ]
