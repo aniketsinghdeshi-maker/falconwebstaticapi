@@ -238,5 +238,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-10/tor-wpg"
       }
     ]
+  },
+  {
+    "id": "c4912b23-2c5c-4e91-9182-eb3d04d26fc5",
+    "slug": "afle-2026-07-11-lon-alp-24983",
+    "title": "London Warriors vs. Alpine Rams",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T14:00:00.000Z",
+    "endsAt": "2026-07-11T17:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/13689ec13447e827b7cc83f3abe87b1d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-11/lon-alp",
+    "feeds": [
+      {
+        "id": "dfe1b70a-69d6-4f9e-9640-6e0c86c12928",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-11/lon-alp"
+      }
+    ]
   }
 ]
