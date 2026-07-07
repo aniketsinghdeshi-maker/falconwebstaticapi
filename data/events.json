@@ -261,6 +261,48 @@
     ]
   },
   {
+    "id": "cb671d0e-43e4-4787-98d3-d56d196fbf01",
+    "slug": "mlb-2026-07-07-atl-pit-25038",
+    "title": "Atlanta Braves vs. Pittsburgh Pirates",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T22:40:00.000Z",
+    "endsAt": "2026-07-08T02:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/96ca2eb9026a81f4fbc2ed636eb3b7be-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/atl-pit",
+    "feeds": [
+      {
+        "id": "edf3ba41-dd4b-4aa8-ac22-e7cea8abf941",
+        "sourceId": null,
+        "label": "MLB.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/atl-pit"
+      }
+    ]
+  },
+  {
+    "id": "885e4b8c-04f6-4281-8838-2b03b7ebebc9",
+    "slug": "mlb-2026-07-07-nyy-tb-25039",
+    "title": "New York Yankees vs. Tampa Bay Rays",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T22:40:00.000Z",
+    "endsAt": "2026-07-08T02:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b94ee79195fd5b569e9a4d1d17c79cb2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/nyy-tb",
+    "feeds": [
+      {
+        "id": "b132295e-78e5-4a3b-844a-2d4f25f39719",
+        "sourceId": null,
+        "label": "Rays.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/nyy-tb"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
