@@ -957,6 +957,27 @@
     ]
   },
   {
+    "id": "05ae02ea-b75d-4db8-8f45-956dee142db8",
+    "slug": "nrl-2026-07-11-syd-par-25013",
+    "title": "Roosters vs. Eels",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T09:35:00.000Z",
+    "endsAt": "2026-07-11T12:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/21f2ebe17925decb3be3605ca2d6804c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-11/syd-par",
+    "feeds": [
+      {
+        "id": "46ba3cda-a93d-4f84-80fd-74adc8b312b8",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-11/syd-par"
+      }
+    ]
+  },
+  {
     "id": "f8b140b8-1e41-4bec-8d2d-98b980f1116e",
     "slug": "afl-2026-07-11-adel-gcfc-25005",
     "title": "Adelaide Crows vs. Gold Coast SUNS",
