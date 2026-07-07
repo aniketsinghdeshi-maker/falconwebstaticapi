@@ -783,6 +783,27 @@
     ]
   },
   {
+    "id": "92cf45a1-7513-4c2b-a0a3-24de2f3eb34e",
+    "slug": "nrl-2026-07-10-wes-new-25010",
+    "title": "Wests Tigers vs. Warriors",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-10T10:00:00.000Z",
+    "endsAt": "2026-07-10T12:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fb92114f098b7dc3af251cb330f6e6be-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-10/wes-new",
+    "feeds": [
+      {
+        "id": "2fe74e9c-fe38-4d24-a22b-f72005676f29",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-10/wes-new"
+      }
+    ]
+  },
+  {
     "id": "638dfbbc-8d29-48fc-a7ad-2bb3b4281df9",
     "slug": "tour-de-france-2026-stage-7-24888",
     "title": "Tour de France- Stage 7",
