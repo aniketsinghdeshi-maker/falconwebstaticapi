@@ -873,6 +873,27 @@
     ]
   },
   {
+    "id": "e51acb18-59e2-4a87-b888-dbc5b29fedc8",
+    "slug": "nrl-2026-07-11-dol-cro-25011",
+    "title": "Dolphins vs. Sharks",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T05:00:00.000Z",
+    "endsAt": "2026-07-11T07:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/8034f091c026fbd9596cdabbf8d02d3b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-11/dol-cro",
+    "feeds": [
+      {
+        "id": "0d655363-c82a-42bc-a270-f64162e85b82",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-11/dol-cro"
+      }
+    ]
+  },
+  {
     "id": "819bc36c-69cd-4145-817a-7a75b48aa0f7",
     "slug": "afl-2026-07-11-gws-geel-25003",
     "title": "GWS GIANTS vs. Geelong Cats",
