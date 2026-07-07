@@ -111,6 +111,27 @@
     ]
   },
   {
+    "id": "9fee7f73-97ec-4a85-8682-06f674605e06",
+    "slug": "wimbledon-2026-07-07-osaka-muchova-25055",
+    "title": "Naomi Osaka vs. Karolina Muchova",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-07T14:00:00.000Z",
+    "endsAt": "2026-07-07T19:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/16139a2ab952c077218b68d04f2425cc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-07/osaka-muchova",
+    "feeds": [
+      {
+        "id": "f13dbc42-1ca3-4ab4-bd55-a789a33fcd85",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-07/osaka-muchova"
+      }
+    ]
+  },
+  {
     "id": "93b49bda-1ab3-4fc6-b1a8-17a431e52f03",
     "slug": "wc-2026-07-07-arg-egy-24955",
     "title": "Argentina vs. Egypt",
