@@ -198,6 +198,27 @@
     ]
   },
   {
+    "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
+    "slug": "afl-2026-07-09-fre-syd-25000",
+    "title": "Fremantle vs. Sydney Swans",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-09T10:10:00.000Z",
+    "endsAt": "2026-07-09T13:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/8f19c939930691410727597ce9d779ff-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-09/fre-syd",
+    "feeds": [
+      {
+        "id": "6e4f0e52-a0ca-4958-888d-77e57a30cf6e",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-09/fre-syd"
+      }
+    ]
+  },
+  {
     "id": "771a06bb-eefb-42d8-b3a8-e70b6f10f356",
     "slug": "cfl-2026-07-09-ott-edm-24967",
     "title": "Ottawa RedBlacks vs. Edmonton Elks",
