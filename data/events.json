@@ -876,6 +876,48 @@
     ]
   },
   {
+    "id": "3d9d1cf1-357e-446b-8c8f-054ae36caef6",
+    "slug": "womensvnl-2026-07-08-jap-bra-25070",
+    "title": "Japan vs. Brazil",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T10:20:00.000Z",
+    "endsAt": "2026-07-08T13:50:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/534247d13d1f6d55ddc7c4ed2c801cfc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/womensvnl/2026-07-08/jap-bra",
+    "feeds": [
+      {
+        "id": "9842f77b-6133-4e54-9472-f42763f9e858",
+        "sourceId": null,
+        "label": "Women's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/womensvnl/2026-07-08/jap-bra"
+      }
+    ]
+  },
+  {
+    "id": "2a7ba21c-df21-44d5-a9be-8efc1c8ea52d",
+    "slug": "womensvnl-2026-07-08-fra-net-25071",
+    "title": "France vs. Netherlands",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T11:00:00.000Z",
+    "endsAt": "2026-07-08T14:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/93606c968d13b2edd87bcf5c965a07a4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/womensvnl/2026-07-08/fra-net",
+    "feeds": [
+      {
+        "id": "ea54e321-278e-4e96-bce9-f56c595983aa",
+        "sourceId": null,
+        "label": "Women's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/womensvnl/2026-07-08/fra-net"
+      }
+    ]
+  },
+  {
     "id": "fb18d3e3-1b23-4614-9bab-d23011659a2f",
     "slug": "tour-de-france-2026-stage-5-24886",
     "title": "Tour de France- Stage 5",
