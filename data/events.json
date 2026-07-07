@@ -1110,6 +1110,27 @@
     ]
   },
   {
+    "id": "4b13f3ac-a14e-49f7-862c-250fc9b0f80e",
+    "slug": "nrl-2026-07-12-sou-new-25014",
+    "title": "Rabbitohs vs. Knights",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T04:00:00.000Z",
+    "endsAt": "2026-07-12T06:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a98a3cc02ff5f07e40783af817a64458-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/sou-new",
+    "feeds": [
+      {
+        "id": "0781e3a3-0022-43c2-805c-38e537aa664b",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/sou-new"
+      }
+    ]
+  },
+  {
     "id": "41001e42-d27b-4877-a0c6-946a46e96554",
     "slug": "afl-2026-07-12-melb-rich-25007",
     "title": "Melbourne vs. Richmond",
