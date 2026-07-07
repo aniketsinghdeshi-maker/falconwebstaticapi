@@ -1077,6 +1077,27 @@
     ]
   },
   {
+    "id": "f3cdb2c3-a51e-4a4f-b611-44afe9d177d6",
+    "slug": "tna-impact-2026-07-09-25020",
+    "title": "TNA: Impact",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-10T01:00:00.000Z",
+    "endsAt": "2026-07-10T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-09",
+    "feeds": [
+      {
+        "id": "77b1419e-bb59-4e93-b354-3c9ab3433594",
+        "sourceId": null,
+        "label": "AMC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-09"
+      }
+    ]
+  },
+  {
     "id": "57f05e73-28b1-4307-9a75-16fde213b5c8",
     "slug": "afl-2026-07-10-coll-nmfc-25001",
     "title": "Collingwood vs. North Melbourne",
@@ -1142,6 +1163,27 @@
         "sourceId": null,
         "label": "Peacock",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-7/peacock"
+      }
+    ]
+  },
+  {
+    "id": "b00f3247-21bf-4ba7-bc80-52eca8a0d294",
+    "slug": "wwe-smackdown-2026-07-10-25021",
+    "title": "WWE: Friday Night Smackdown",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T00:00:00.000Z",
+    "endsAt": "2026-07-11T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-10",
+    "feeds": [
+      {
+        "id": "f88c7834-5d96-465a-9f2b-30ccceb4eb25",
+        "sourceId": null,
+        "label": "USA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-10"
       }
     ]
   },
