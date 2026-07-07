@@ -97,5 +97,104 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/orf-1"
       }
     ]
+  },
+  {
+    "id": "25293c2a-cafd-410f-8214-180cea5b7493",
+    "slug": "wc-2026-07-07-sui-col-24968",
+    "title": "Switzerland vs. Colombia",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T20:00:00.000Z",
+    "endsAt": "2026-07-07T22:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a6b2a1c0e0b15ee221fb8ecf1cec10a1-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col",
+    "feeds": [
+      {
+        "id": "7529dd8e-806c-4e52-b3d5-844c09fd00b0",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col"
+      },
+      {
+        "id": "336f3c20-d231-4991-8342-023248c061b3",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/fox"
+      },
+      {
+        "id": "56b67bec-af91-447e-9114-6d2932944587",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/fox-4k-hevc"
+      },
+      {
+        "id": "7d44aa20-65ab-4c94-b9c3-28a8d6d42cf7",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/uk"
+      },
+      {
+        "id": "3a17e3ca-513f-4a4d-b2b2-1e968ec9ac9e",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/bein-sports-1"
+      },
+      {
+        "id": "140518e2-f8fb-46d5-8e04-3b060264fecd",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/dazn-spain"
+      },
+      {
+        "id": "24716e33-7da4-4020-ab6f-a882df5013ac",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/telemundo"
+      },
+      {
+        "id": "2e5b6c99-2a83-4ff6-8757-ac2d92338bbb",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/peacock-4k-hevc"
+      },
+      {
+        "id": "404f851e-7944-445b-a804-54d2ede54945",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/fussballtv-4k-hevc"
+      },
+      {
+        "id": "1c3f9914-5316-4de7-ac66-78865dc60b69",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "b608a2da-1606-46d0-bb66-47f144094d23",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "c705e4c0-ca52-451e-a0b4-e9c02b2fb88a",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "ef2b1d1a-7891-4ca1-a946-a160ba8f32c4",
+        "sourceId": null,
+        "label": "Das Erste",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/das-erste"
+      },
+      {
+        "id": "4fa13658-fbc5-47d4-bec2-c93e6ab710f0",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/orf-1"
+      }
+    ]
   }
 ]
