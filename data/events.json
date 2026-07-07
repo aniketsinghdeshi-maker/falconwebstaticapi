@@ -196,5 +196,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/sui-col/orf-1"
       }
     ]
+  },
+  {
+    "id": "771a06bb-eefb-42d8-b3a8-e70b6f10f356",
+    "slug": "cfl-2026-07-09-ott-edm-24967",
+    "title": "Ottawa RedBlacks vs. Edmonton Elks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-10T01:00:00.000Z",
+    "endsAt": "2026-07-10T04:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/e94c902e80ff8c71b9ae7035cede7b5b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-09/ott-edm",
+    "feeds": [
+      {
+        "id": "e412a0f6-c0f6-4738-bfc9-e8eb27a3ffbf",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-09/ott-edm"
+      }
+    ]
   }
 ]
