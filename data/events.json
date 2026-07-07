@@ -513,6 +513,27 @@
     ]
   },
   {
+    "id": "4b133e79-903b-4477-836a-102fd7724717",
+    "slug": "nba-2026-07-07-okc-utah-24988",
+    "title": "Oklahoma City Thunder vs. Utah Jazz",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T01:00:00.000Z",
+    "endsAt": "2026-07-08T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/e5ae2493eec0f910b5b77e739ccfdb7d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-07/okc-utah",
+    "feeds": [
+      {
+        "id": "2f03e3a5-1d92-4429-9085-4c43ef71758d",
+        "sourceId": null,
+        "label": "ESPNU",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-07/okc-utah"
+      }
+    ]
+  },
+  {
     "id": "a9cf7f37-5bd6-4dc6-842f-d0131badd4ab",
     "slug": "mlb-2026-07-07-ari-sd-25048",
     "title": "Arizona Diamondbacks vs. San Diego Padres",
