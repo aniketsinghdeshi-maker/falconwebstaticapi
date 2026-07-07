@@ -282,6 +282,27 @@
     ]
   },
   {
+    "id": "045023e6-4ed4-4db3-ad48-d7b826d084f3",
+    "slug": "afl-2026-07-11-stk-port-25002",
+    "title": "St Kilda vs. Port Adelaide",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T03:15:00.000Z",
+    "endsAt": "2026-07-11T06:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/494081be62d9ebec6689308fba10259d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-11/stk-port",
+    "feeds": [
+      {
+        "id": "09343fea-85e8-4418-9c93-ac19c052a8f9",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-11/stk-port"
+      }
+    ]
+  },
+  {
     "id": "c4912b23-2c5c-4e91-9182-eb3d04d26fc5",
     "slug": "afle-2026-07-11-lon-alp-24983",
     "title": "London Warriors vs. Alpine Rams",
