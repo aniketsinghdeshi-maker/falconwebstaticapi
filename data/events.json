@@ -1194,6 +1194,27 @@
     ]
   },
   {
+    "id": "ac40f91e-2c65-45f1-93cb-4b26887dee09",
+    "slug": "nrl-2026-07-12-mel-gol-25016",
+    "title": "Storm vs. Titans",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T08:15:00.000Z",
+    "endsAt": "2026-07-12T10:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/eb7910ff7b11270b486d30f6314e0d52-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/mel-gol",
+    "feeds": [
+      {
+        "id": "354daf61-d9db-4db9-bd26-5d271f754235",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/mel-gol"
+      }
+    ]
+  },
+  {
     "id": "58790f67-f48c-4012-bde6-d49e6e0b775b",
     "slug": "afle-2026-07-12-fir-ber-24985",
     "title": "Firenze Red Lions vs. Berlin Thunder",
