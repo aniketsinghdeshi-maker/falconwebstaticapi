@@ -1152,6 +1152,27 @@
     ]
   },
   {
+    "id": "54d9a9c1-a6ba-4347-ad3f-2e75589701a4",
+    "slug": "nrl-2026-07-12-man-nor-25015",
+    "title": "Sea Eagles vs. Cowboys",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T06:05:00.000Z",
+    "endsAt": "2026-07-12T08:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2bf98c9c48fcff644bcb6398e41d9f37-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/man-nor",
+    "feeds": [
+      {
+        "id": "18700432-dd47-4378-83a8-ca8c50140b40",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/man-nor"
+      }
+    ]
+  },
+  {
     "id": "628df053-310d-4c9f-a8f6-edccb42afc0d",
     "slug": "afl-2026-07-12-bl-ess-25008",
     "title": "Brisbane Lions vs. Essendon",
