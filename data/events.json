@@ -915,6 +915,27 @@
     ]
   },
   {
+    "id": "b954fc70-d72e-4d56-a752-c172bd590f5d",
+    "slug": "nrl-2026-07-11-can-can-25012",
+    "title": "Bulldogs vs. Raiders",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T07:30:00.000Z",
+    "endsAt": "2026-07-11T10:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/547450a62432fef9e8c9b0417c817f5d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-11/can-can",
+    "feeds": [
+      {
+        "id": "ca49e1b5-5ae0-4b10-9c30-206cdd10bf9f",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-11/can-can"
+      }
+    ]
+  },
+  {
     "id": "0789f4e3-10af-4ca3-808a-407f79c95725",
     "slug": "afl-2026-07-11-carl-haw-25004",
     "title": "Carlton vs. Hawthorn",
