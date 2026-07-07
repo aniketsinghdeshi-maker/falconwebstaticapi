@@ -471,6 +471,27 @@
     ]
   },
   {
+    "id": "628df053-310d-4c9f-a8f6-edccb42afc0d",
+    "slug": "afl-2026-07-12-bl-ess-25008",
+    "title": "Brisbane Lions vs. Essendon",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T06:40:00.000Z",
+    "endsAt": "2026-07-12T09:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/f304a0b7a9d8e6b0cc293ebe42a953b0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/bl-ess",
+    "feeds": [
+      {
+        "id": "63296924-543f-4b0f-81dc-c2e63fa402d6",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/bl-ess"
+      }
+    ]
+  },
+  {
     "id": "58790f67-f48c-4012-bde6-d49e6e0b775b",
     "slug": "afle-2026-07-12-fir-ber-24985",
     "title": "Firenze Red Lions vs. Berlin Thunder",
