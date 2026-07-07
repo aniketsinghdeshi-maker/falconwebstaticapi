@@ -324,6 +324,27 @@
     ]
   },
   {
+    "id": "b8f834e5-4077-4f6e-8523-f47c86b76124",
+    "slug": "mlb-2026-07-07-hou-wsh-25041",
+    "title": "Houston Astros vs. Washington Nationals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T22:45:00.000Z",
+    "endsAt": "2026-07-08T02:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c1b059915b3f666402973fb87945a8e3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/hou-wsh",
+    "feeds": [
+      {
+        "id": "60a83857-0b01-40a2-9b9e-410c56b50d39",
+        "sourceId": null,
+        "label": "Nationals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/hou-wsh"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
