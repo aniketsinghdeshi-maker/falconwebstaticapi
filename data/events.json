@@ -136,7 +136,7 @@
     "slug": "wimbledon-2026-07-07-auger-aliassime-djokovic-25053",
     "title": "Felix Auger-Aliassime vs. Novak Djokovic",
     "category": "Tennis",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-07T15:30:00.000Z",
     "endsAt": "2026-07-07T20:30:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4af0cc58f369cc37ec3716b0f6297820-thumbnail.jpg",
@@ -163,91 +163,127 @@
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ebbdc9923f473d480e3dc57e57f6653c-thumbnail.jpg",
     "isPopular": false,
     "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy",
+    "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=e03bf3dab6",
     "feeds": [
       {
-        "id": "0e4df883-223c-49d7-b429-bf7cd34a2958",
+        "id": "562caaba-91ca-435f-b610-d3283ebe3cc3",
+        "sourceId": null,
+        "label": "TSN 1",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=e03bf3dab6"
+      },
+      {
+        "id": "eb2476d5-ea87-4248-8bba-009535abfae0",
+        "sourceId": null,
+        "label": "iTV Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=c836d59185"
+      },
+      {
+        "id": "f37d5e15-692b-43d3-8ef0-c2bfbb9a3c80",
         "sourceId": null,
         "label": "TSN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy"
       },
       {
-        "id": "8977c8bb-235a-4482-ac32-4131a09dbce9",
+        "id": "ec64fc9a-00b3-4a52-ac90-8071e19992b8",
         "sourceId": null,
         "label": "FOX",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox"
       },
       {
-        "id": "6a3a11da-a243-40de-9b4c-44c161b2591a",
+        "id": "91f6ddc0-4921-46e3-9fd2-e63fe62e4e72",
         "sourceId": null,
         "label": "FOX 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fox-4k-hevc"
       },
       {
-        "id": "b3d61940-8781-4de8-a2b4-5c3351ef3d1b",
+        "id": "c0be5d40-bacc-4d96-8295-04eb65047f68",
         "sourceId": null,
         "label": "ITV1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/uk"
       },
       {
-        "id": "72f9a268-f81e-4420-b15e-3dd7a06ddd14",
+        "id": "72092091-9ded-4f2d-9402-f08bdf6ba1f0",
+        "sourceId": null,
+        "label": "CAZE TV",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=3c369a80d1"
+      },
+      {
+        "id": "18ba0679-0043-4aaa-93b4-6679b83501fd",
         "sourceId": null,
         "label": "beIN Sports 1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/bein-sports-1"
       },
       {
-        "id": "28cd7726-8500-44fe-a079-906d37671781",
+        "id": "475699af-070e-4997-921a-c92e0fcd3409",
         "sourceId": null,
         "label": "DAZN Spain",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/dazn-spain"
       },
       {
-        "id": "e0316e47-cad5-455c-8fe6-8c3d97769ed5",
+        "id": "02fbb2a4-3635-4145-b1ae-fc9fdf05441d",
+        "sourceId": null,
+        "label": "Dsports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=b89b7d668e"
+      },
+      {
+        "id": "1eda6040-68e3-4833-8449-df7e3dfaf102",
         "sourceId": null,
         "label": "Telemundo",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/telemundo"
       },
       {
-        "id": "e58900f4-964a-4f7e-be5e-daaca4d38c46",
+        "id": "c03eda02-12be-4fed-953b-bef2bb2cc0fc",
         "sourceId": null,
         "label": "Peacock 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/peacock-4k-hevc"
       },
       {
-        "id": "e7fed124-94d3-4d4a-8955-6a8e1c181da3",
+        "id": "2cdcf723-699c-4f7e-9804-078c5cbbd4d3",
+        "sourceId": null,
+        "label": "GOLTV Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=b8d728ba89"
+      },
+      {
+        "id": "1256b92a-65a4-47e9-b3e8-9c325dec59c1",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fussballtv-4k-hevc"
       },
       {
-        "id": "fb9b3c40-ed9f-4746-884a-3144e9b758f9",
-        "sourceId": null,
-        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fussballtv-4k-no-commentary-hevc"
-      },
-      {
-        "id": "55c07116-2253-42f8-b72a-e156c492ad41",
+        "id": "af2f3be5-119e-4154-afe2-3cd30819b415",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fussballtv-4k-tactical-hevc"
       },
       {
-        "id": "3891ead9-411f-4ad6-9025-e303fd5698e5",
+        "id": "296f372f-b53b-4de3-8634-2375d802434a",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "7407866d-8add-41e9-8e46-ded72ca17d05",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/fussballtv-4k-tactical-no-commentary-hevc"
       },
       {
-        "id": "1aade35c-8b04-493c-9fca-d782ba51fa57",
+        "id": "7338998d-a66a-453d-8e38-5e17fdcdd350",
         "sourceId": null,
         "label": "Das Erste",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/das-erste"
       },
       {
-        "id": "fee438a5-fbb1-4d85-ac4d-dea4d5938a1c",
+        "id": "1597dfb6-6080-413f-9def-fc7e64bd3d32",
         "sourceId": null,
         "label": "ORF 1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-07/arg-egy/orf-1"
+      },
+      {
+        "id": "5f619c96-e892-49c5-9a20-25deb5a2bbfe",
+        "sourceId": null,
+        "label": "Fox Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=8e1afde0c4"
       }
     ]
   },
