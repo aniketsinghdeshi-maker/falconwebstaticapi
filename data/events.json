@@ -90,6 +90,27 @@
     ]
   },
   {
+    "id": "2474e06b-f1cf-4ab7-bb9d-bbf50ea48d79",
+    "slug": "wimbledon-2026-07-07-lehecka-zverev-25052",
+    "title": "Jiri Lehecka vs. Alexander Zverev",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-07T13:30:00.000Z",
+    "endsAt": "2026-07-07T18:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/24213d6bf3bd17e7d9b4d4f2f6034e64-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-07/lehecka-zverev",
+    "feeds": [
+      {
+        "id": "f1d60853-4925-4aca-84b0-df9f1549ebc8",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-07/lehecka-zverev"
+      }
+    ]
+  },
+  {
     "id": "93b49bda-1ab3-4fc6-b1a8-17a431e52f03",
     "slug": "wc-2026-07-07-arg-egy-24955",
     "title": "Argentina vs. Egypt",
