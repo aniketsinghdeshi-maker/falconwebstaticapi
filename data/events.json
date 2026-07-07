@@ -99,6 +99,27 @@
     ]
   },
   {
+    "id": "8e71d1b4-a452-43cb-ba8f-2758c47fa3a4",
+    "slug": "mlb-2026-07-07-mil-stl-25035",
+    "title": "Milwaukee Brewers vs. St. Louis Cardinals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T18:15:00.000Z",
+    "endsAt": "2026-07-07T21:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c47bd3ff0c39c0941aa7c7566811bed7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/mil-stl",
+    "feeds": [
+      {
+        "id": "f2055e6b-0e65-46d9-81fe-c18592e49c38",
+        "sourceId": null,
+        "label": "Cardinals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/mil-stl"
+      }
+    ]
+  },
+  {
     "id": "25293c2a-cafd-410f-8214-180cea5b7493",
     "slug": "wc-2026-07-07-sui-col-24968",
     "title": "Switzerland vs. Colombia",
