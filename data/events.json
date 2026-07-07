@@ -240,6 +240,27 @@
     ]
   },
   {
+    "id": "843d2bde-8896-412f-9829-aa70e37b313b",
+    "slug": "mlb-2026-07-07-ath-det-25037",
+    "title": "Athletics vs. Detroit Tigers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T22:40:00.000Z",
+    "endsAt": "2026-07-08T02:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d0454c160a03478ca78ce1b0fdcfeed9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/ath-det",
+    "feeds": [
+      {
+        "id": "e6a527bb-f211-4a1e-b9e8-c46e2b4f28d3",
+        "sourceId": null,
+        "label": "Tigers.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/ath-det"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
