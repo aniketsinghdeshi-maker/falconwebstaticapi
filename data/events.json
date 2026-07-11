@@ -204,6 +204,48 @@
     ]
   },
   {
+    "id": "9d0c211c-5718-499f-98f1-c55ea3145905",
+    "slug": "afl-2026-07-12-melb-rich-25007",
+    "title": "Melbourne vs. Richmond",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T05:15:00.000Z",
+    "endsAt": "2026-07-12T08:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/5b5f6e4c57f1dcae4322c2f31b6383bf-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/melb-rich",
+    "feeds": [
+      {
+        "id": "8cf15ba0-f098-4a28-aa60-1203629dca06",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/melb-rich"
+      }
+    ]
+  },
+  {
+    "id": "b8ce938f-726c-4ad6-8176-2360c5b603f3",
+    "slug": "afl-2026-07-12-bl-ess-25008",
+    "title": "Brisbane Lions vs. Essendon",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T06:40:00.000Z",
+    "endsAt": "2026-07-12T09:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/f304a0b7a9d8e6b0cc293ebe42a953b0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/bl-ess",
+    "feeds": [
+      {
+        "id": "53314446-7a67-4772-a676-00107668363b",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/bl-ess"
+      }
+    ]
+  },
+  {
     "id": "fcff8cb2-b01e-41eb-b840-b215df8858e8",
     "slug": "afle-2026-07-12-fir-ber-24985",
     "title": "Firenze Red Lions vs. Berlin Thunder",
