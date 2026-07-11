@@ -126,6 +126,48 @@
     ]
   },
   {
+    "id": "a8e9d945-f9fd-4163-9123-cf63087717bf",
+    "slug": "mlb-2026-07-11-cle-mia-25293",
+    "title": "Cleveland Guardians vs. Miami Marlins",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T20:10:00.000Z",
+    "endsAt": "2026-07-11T23:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/80bda1887ff7f54d7799d1cb45d09054-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/cle-mia",
+    "feeds": [
+      {
+        "id": "9e0d089a-e944-4021-a0fd-67a4a227417d",
+        "sourceId": null,
+        "label": "Marlins.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/cle-mia"
+      }
+    ]
+  },
+  {
+    "id": "bcb82f0f-c829-4fec-a43a-7ce1352ff33f",
+    "slug": "mlb-2026-07-11-sea-tb-25294",
+    "title": "Seattle Mariners vs. Tampa Bay Rays",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T20:10:00.000Z",
+    "endsAt": "2026-07-11T23:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e341362309d64d9d2f9f5d4f3de878a3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/sea-tb",
+    "feeds": [
+      {
+        "id": "456e483a-378a-4c63-9af4-898d3d369860",
+        "sourceId": null,
+        "label": "Rays.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/sea-tb"
+      }
+    ]
+  },
+  {
     "id": "5accbd68-2848-4756-91e2-616c90840f88",
     "slug": "wc-2026-07-11-nor-eng-25210",
     "title": "Norway vs. England",
@@ -203,6 +245,27 @@
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fussballtv-4k-tactical-no-commentary-hevc-de"
+      }
+    ]
+  },
+  {
+    "id": "cce848ba-7b08-4423-bba0-f90fdf91e7f9",
+    "slug": "mlb-2026-07-11-phi-det-25295",
+    "title": "Philadelphia Phillies vs. Detroit Tigers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T22:10:00.000Z",
+    "endsAt": "2026-07-12T01:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/10aa564e2d38016a6686d7636204e9c0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/phi-det",
+    "feeds": [
+      {
+        "id": "9e2a066e-5751-40ac-b3b7-7d00a49bca8b",
+        "sourceId": null,
+        "label": "Tigers.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/phi-det"
       }
     ]
   },
