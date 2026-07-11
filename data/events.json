@@ -183,6 +183,27 @@
     ]
   },
   {
+    "id": "8eb81c3e-ba70-4d5e-b5d5-6820c8248834",
+    "slug": "afl-2026-07-12-wb-wce-25006",
+    "title": "Western Bulldogs vs. West Coast Eagles",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T03:10:00.000Z",
+    "endsAt": "2026-07-12T06:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/46adf3763ef05f59208e3934e9c776f5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/wb-wce",
+    "feeds": [
+      {
+        "id": "e6e00418-2424-442d-8e91-1cdd92df9b56",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/wb-wce"
+      }
+    ]
+  },
+  {
     "id": "fcff8cb2-b01e-41eb-b840-b215df8858e8",
     "slug": "afle-2026-07-12-fir-ber-24985",
     "title": "Firenze Red Lions vs. Berlin Thunder",
@@ -221,6 +242,27 @@
         "sourceId": null,
         "label": "AFLE+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/pan-rhe"
+      }
+    ]
+  },
+  {
+    "id": "9a5d948c-1af9-42a1-b86d-45c69b5b711d",
+    "slug": "cfl-2026-07-12-ham-ssk-24976",
+    "title": "Hamilton Tiger-Cats vs. Saskatchewan Roughriders",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T23:00:00.000Z",
+    "endsAt": "2026-07-13T02:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/412e2ee2a90ac35c0725c1b3bf1603a9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-12/ham-ssk",
+    "feeds": [
+      {
+        "id": "9118e1c3-9d69-4473-8e2f-9f1b1a6f71e1",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-12/ham-ssk"
       }
     ]
   }
