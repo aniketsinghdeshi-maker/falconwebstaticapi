@@ -33,6 +33,27 @@
     ]
   },
   {
+    "id": "4cfbad97-b998-40c6-b0d7-59f2601904b3",
+    "slug": "raf-georgia-dvalishvili-vs-cejudo-25319",
+    "title": "RAF Georgia: Dvalishvili vs. Cejudo",
+    "category": "Combat Sports",
+    "status": "live",
+    "startsAt": "2026-07-11T16:00:00.000Z",
+    "endsAt": "2026-07-11T21:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/f618fa0d2a84f77d00d7a5b317305881-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/raf-georgia-dvalishvili-vs-cejudo",
+    "feeds": [
+      {
+        "id": "6ec61190-ba59-4e8d-a8a9-8eb4eab61f46",
+        "sourceId": null,
+        "label": "FOX Nation",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/raf-georgia-dvalishvili-vs-cejudo"
+      }
+    ]
+  },
+  {
     "id": "4cd248b3-2f2b-48ae-9086-41f73d7989ac",
     "slug": "mlb-2026-07-11-laa-min-25287",
     "title": "Los Angeles Angels vs. Minnesota Twins",
@@ -71,6 +92,27 @@
         "sourceId": null,
         "label": "CHSN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/ath-chw"
+      }
+    ]
+  },
+  {
+    "id": "ab37cba7-73bf-4a26-beff-f472d6a8eb8f",
+    "slug": "gassiev-vs-kadiru-25315",
+    "title": "Gassiev vs. Kadiru",
+    "category": "Combat Sports",
+    "status": "live",
+    "startsAt": "2026-07-11T18:30:00.000Z",
+    "endsAt": "2026-07-12T00:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3fb0a58c6aaddbf48bbe3db05fbd83be-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/gassiev-vs-kadiru",
+    "feeds": [
+      {
+        "id": "10058f18-5d18-4cb6-8958-28d7ff78bc0d",
+        "sourceId": null,
+        "label": "DAZN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/gassiev-vs-kadiru"
       }
     ]
   },
@@ -278,6 +320,39 @@
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fussballtv-4k-tactical-no-commentary-hevc-de"
+      }
+    ]
+  },
+  {
+    "id": "350db1c4-172c-4a59-bd73-8cc694890743",
+    "slug": "ufc-329-25205",
+    "title": "UFC 329: McGregor vs. Holloway 2",
+    "category": "Combat Sports",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T21:00:00.000Z",
+    "endsAt": "2026-07-12T07:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e43a55902034c6e64e05196de1b12dfa-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/ufc-329",
+    "feeds": [
+      {
+        "id": "45765007-7b01-439a-b18b-dd6e1b87ff55",
+        "sourceId": null,
+        "label": "Paramount+ (English)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/ufc-329"
+      },
+      {
+        "id": "fc1fc26b-920b-41b8-a6f4-d1d0dc9df7ae",
+        "sourceId": null,
+        "label": "Paramount+ (Spanish)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/ufc-329/spanish"
+      },
+      {
+        "id": "f64a9dc1-9bf9-4ebc-9d0a-4b5714804724",
+        "sourceId": null,
+        "label": "Paramount+ (Portuguese)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/ufc-329/portuguese"
       }
     ]
   },
