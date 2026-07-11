@@ -159,6 +159,27 @@
     ]
   },
   {
+    "id": "a8a30360-3a06-4064-ac8a-e7b90bc6d1ea",
+    "slug": "nc-2026-07-11-arg-wal-25318",
+    "title": "Argentina vs. Wales",
+    "category": "Rugby",
+    "status": "live",
+    "startsAt": "2026-07-11T19:10:00.000Z",
+    "endsAt": "2026-07-11T21:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/debff5087ce5cb491bb1bd3a90fc71fc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-11/arg-wal",
+    "feeds": [
+      {
+        "id": "89348c2c-6de4-476e-82dc-0b7259e192cf",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-11/arg-wal"
+      }
+    ]
+  },
+  {
     "id": "07f71598-3f7f-4c8c-a08a-edcd04d4f1d8",
     "slug": "mlb-2026-07-11-mil-pit-game-2-25289",
     "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
@@ -669,6 +690,27 @@
     ]
   },
   {
+    "id": "4ad935c1-4890-4afb-87e5-c4be2fd7c4b4",
+    "slug": "nrl-2026-07-12-sou-new-25014",
+    "title": "Rabbitohs vs. Knights",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T04:00:00.000Z",
+    "endsAt": "2026-07-12T06:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a98a3cc02ff5f07e40783af817a64458-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/sou-new",
+    "feeds": [
+      {
+        "id": "e0a5a8f4-9756-40e7-aed9-9195584a2ce0",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/sou-new"
+      }
+    ]
+  },
+  {
     "id": "9d0c211c-5718-499f-98f1-c55ea3145905",
     "slug": "afl-2026-07-12-melb-rich-25007",
     "title": "Melbourne vs. Richmond",
@@ -686,6 +728,27 @@
         "sourceId": null,
         "label": "Fox Sports 503",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/melb-rich"
+      }
+    ]
+  },
+  {
+    "id": "db305e8b-2f56-4f31-9fc5-0cbda6cc4c82",
+    "slug": "nrl-2026-07-12-man-nor-25015",
+    "title": "Sea Eagles vs. Cowboys",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T06:05:00.000Z",
+    "endsAt": "2026-07-12T08:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2bf98c9c48fcff644bcb6398e41d9f37-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/man-nor",
+    "feeds": [
+      {
+        "id": "2bc3ba35-f12d-47fc-8e27-12b83da6de9b",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-12/man-nor"
       }
     ]
   },
