@@ -354,6 +354,27 @@
     ]
   },
   {
+    "id": "7dccbdc2-f68d-496a-928c-e0fa4451999e",
+    "slug": "mlb-2026-07-11-atl-stl-25299",
+    "title": "Atlanta Braves vs. St. Louis Cardinals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T23:15:00.000Z",
+    "endsAt": "2026-07-12T02:45:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/ec3160a6b3363dd892bbacdd8dfc8074-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/atl-stl",
+    "feeds": [
+      {
+        "id": "5c6d1863-0b79-426d-8353-c76f4c76f3a8",
+        "sourceId": null,
+        "label": "Cardinals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/atl-stl"
+      }
+    ]
+  },
+  {
     "id": "f611ddec-4b5e-4cc0-808c-dbd7b892df52",
     "slug": "wc-2026-07-11-arg-sui-25222",
     "title": "Argentina vs. Switzerland",
