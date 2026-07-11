@@ -291,6 +291,69 @@
     ]
   },
   {
+    "id": "501bc874-85f2-4236-9eab-be1f29970cc1",
+    "slug": "mlb-2026-07-11-kc-bal-25296",
+    "title": "Kansas City Royals vs. Baltimore Orioles",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T23:05:00.000Z",
+    "endsAt": "2026-07-12T02:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c5be7801193a86f7ae44802fa774ea25-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/kc-bal",
+    "feeds": [
+      {
+        "id": "96e95d1f-401c-4351-84bb-610371f96433",
+        "sourceId": null,
+        "label": "MASN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/kc-bal"
+      }
+    ]
+  },
+  {
+    "id": "4e69e7ae-347f-4c22-9aaa-03027a2b849d",
+    "slug": "mlb-2026-07-11-hou-tex-25297",
+    "title": "Houston Astros vs. Texas Rangers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T23:05:00.000Z",
+    "endsAt": "2026-07-12T02:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/7d29bd91341877c6028f14d509a51d41-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/hou-tex",
+    "feeds": [
+      {
+        "id": "5c00c612-8203-4203-8ad0-8b1d3fdbeee0",
+        "sourceId": null,
+        "label": "Rangers Sports Network",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/hou-tex"
+      }
+    ]
+  },
+  {
+    "id": "e7f19e1e-3a6a-4f69-b6b1-8c6cb6766134",
+    "slug": "mlb-2026-07-11-chc-cin-25298",
+    "title": "Chicago Cubs vs. Cincinnati Reds",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T23:10:00.000Z",
+    "endsAt": "2026-07-12T02:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/02f155c815d14abc7737f1bdca8c86ca-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/chc-cin",
+    "feeds": [
+      {
+        "id": "56a3f6b4-6a61-4633-b9b5-94a6c5e91b81",
+        "sourceId": null,
+        "label": "Marquee Sports Net",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/chc-cin"
+      }
+    ]
+  },
+  {
     "id": "f611ddec-4b5e-4cc0-808c-dbd7b892df52",
     "slug": "wc-2026-07-11-arg-sui-25222",
     "title": "Argentina vs. Switzerland",
