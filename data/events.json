@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "id": "95419430-675c-4b14-9842-b6ec90b8eae7",
+    "slug": "wc-2026-07-11-nor-eng-25210",
+    "title": "Norway vs. England",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T21:00:00.000Z",
+    "endsAt": "2026-07-11T23:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/12a63a4046bca11bfd9e7836f2fdd355-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng",
+    "feeds": [
+      {
+        "id": "9a44627a-2127-4b6b-ba9f-6dcc151797ef",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng"
+      },
+      {
+        "id": "5140538d-1cdc-40f0-82a0-c54fda178119",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fox-en"
+      },
+      {
+        "id": "541ce3a7-d3f0-49e4-a38c-1dc0fdcdb499",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fox-4k-hevc-en"
+      },
+      {
+        "id": "6cd3302b-7838-4e30-a180-a79be0ce3c9a",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/uk"
+      },
+      {
+        "id": "11745637-059d-4ded-a95c-017a19e91ff6",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/dazn-spain-es"
+      },
+      {
+        "id": "54d04643-1736-4451-8a01-0a1a92f9c944",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/telemundo-es"
+      },
+      {
+        "id": "63341a38-59b3-4cc4-83cd-6b279dc62862",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/peacock-4k-hevc-es"
+      },
+      {
+        "id": "fa13514f-3ab0-4a42-82ec-8d3d74264234",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fussballtv-4k-hevc-de"
+      },
+      {
+        "id": "c18579b1-ba54-463f-b036-5ebcd875a1db",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fussballtv-4k-no-commentary-hevc-de"
+      },
+      {
+        "id": "50ed2257-dd69-41e3-9dcd-59b94011492b",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fussballtv-4k-tactical-hevc-de"
+      },
+      {
+        "id": "1cadd7b1-5973-4b4e-b4e3-e3165f3c7f40",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/nor-eng/fussballtv-4k-tactical-no-commentary-hevc-de"
+      }
+    ]
+  }
+]
