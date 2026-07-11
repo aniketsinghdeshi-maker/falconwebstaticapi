@@ -84,6 +84,48 @@
     ]
   },
   {
+    "id": "609b36bc-58d2-48e3-ad5e-54c12b4db7ab",
+    "slug": "mlb-2026-07-11-col-sf-25291",
+    "title": "Colorado Rockies vs. San Francisco Giants",
+    "category": "Baseball",
+    "status": "live",
+    "startsAt": "2026-07-11T20:05:00.000Z",
+    "endsAt": "2026-07-11T23:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0fd900251f5f887796643e5e67892ec1-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/col-sf",
+    "feeds": [
+      {
+        "id": "c17be141-2e82-4e0c-9d2f-bc5828023540",
+        "sourceId": null,
+        "label": "NBC Sports BA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/col-sf"
+      }
+    ]
+  },
+  {
+    "id": "c6b2b5cb-c7cf-4bb9-8ad8-08787514985c",
+    "slug": "mlb-2026-07-11-bos-nym-25292",
+    "title": "Boston Red Sox vs. New York Mets",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T20:10:00.000Z",
+    "endsAt": "2026-07-11T23:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0a9093809e890b29a8fe64535e3b9a32-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/bos-nym",
+    "feeds": [
+      {
+        "id": "463b7a66-bed3-4ea7-abaa-6bd987a4f32d",
+        "sourceId": null,
+        "label": "SNY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/bos-nym"
+      }
+    ]
+  },
+  {
     "id": "5accbd68-2848-4756-91e2-616c90840f88",
     "slug": "wc-2026-07-11-nor-eng-25210",
     "title": "Norway vs. England",
