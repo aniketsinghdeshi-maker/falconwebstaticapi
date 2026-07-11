@@ -1,5 +1,26 @@
 [
   {
+    "id": "2b6ee6f7-a591-470a-93d1-e05bca1fbe9e",
+    "slug": "european-darts-open-day-2-25271",
+    "title": "European Darts Open | Day 2",
+    "category": "Darts",
+    "status": "live",
+    "startsAt": "2026-07-11T11:00:00.000Z",
+    "endsAt": "2026-07-11T21:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/european-darts-open--day-2",
+    "feeds": [
+      {
+        "id": "af24cf40-1522-40f5-9cc6-da6f2b1e8ccc",
+        "sourceId": null,
+        "label": "PDC.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/european-darts-open--day-2"
+      }
+    ]
+  },
+  {
     "id": "445fe377-bb44-4a44-8f50-a9b215116e4c",
     "slug": "oktagon-91-25311",
     "title": "OKTAGON 91: Engizek vs. Jotko 2",
@@ -665,6 +686,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-12/bl-ess"
+      }
+    ]
+  },
+  {
+    "id": "96c45dde-9459-47f8-b4f1-76124d0d7b47",
+    "slug": "european-darts-open-day-3-25272",
+    "title": "European Darts Open | Day 3",
+    "category": "Darts",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T11:00:00.000Z",
+    "endsAt": "2026-07-12T21:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/european-darts-open--day-3",
+    "feeds": [
+      {
+        "id": "77e9f562-8c9d-44e8-9d11-9bac59189e02",
+        "sourceId": null,
+        "label": "PDC.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/european-darts-open--day-3"
       }
     ]
   },
