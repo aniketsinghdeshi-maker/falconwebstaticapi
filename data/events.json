@@ -1018,5 +1018,56 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/viaplay-nl"
       }
     ]
+  },
+  {
+    "id": "d064a59a-f6b0-45d7-9777-c22746bfd440",
+    "slug": "f1-2026-belgium-race-25101",
+    "title": "Belgian Grand Prix - Race",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T13:00:00.000Z",
+    "endsAt": "2026-07-19T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3c628f701a4e5c588ca5a8575b6dbec5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race",
+    "feeds": [
+      {
+        "id": "c137f3d4-ed7f-4f3d-9ef7-b66905de253a",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race"
+      },
+      {
+        "id": "32d2613a-6abc-4030-98a6-2e43fcb3e600",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/f1tv"
+      },
+      {
+        "id": "9e8bf450-b488-4305-81a8-90a510f9d978",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/dazn-es"
+      },
+      {
+        "id": "704a941e-7454-4ef6-8648-72421429e06f",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/sky-sport-f1-de"
+      },
+      {
+        "id": "a80d522e-5ba3-4080-a94a-08bc30b1eff5",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/v-sport-motor-sv"
+      },
+      {
+        "id": "9e7d0a4b-257a-41d3-b951-9f202e57100e",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/viaplay-nl"
+      }
+    ]
   }
 ]
