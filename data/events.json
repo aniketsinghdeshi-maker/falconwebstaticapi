@@ -865,5 +865,158 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/viaplay-nl"
       }
     ]
+  },
+  {
+    "id": "2c7742b2-3f15-4bc6-8075-e43e569c561c",
+    "slug": "f1-2026-belgium-fp2-25080",
+    "title": "Belgian Grand Prix - Practice 2",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T15:00:00.000Z",
+    "endsAt": "2026-07-17T17:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2e7a8e4b7552cfe206d49b6f8158b3fb-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2",
+    "feeds": [
+      {
+        "id": "e4e9f9d9-46aa-4539-b9d2-74fd79480dbe",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2"
+      },
+      {
+        "id": "2986e210-cf4d-433e-b6be-2112238ade38",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/f1tv"
+      },
+      {
+        "id": "ab5deaaa-17e0-41c5-92c1-936a0e82d021",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/dazn-es"
+      },
+      {
+        "id": "9be4e245-0bc0-4fb3-ae5f-c80bc04e1559",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/sky-sport-f1-de"
+      },
+      {
+        "id": "81f37340-09c5-4622-af36-1a874e66b166",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/v-sport-motor-sv"
+      },
+      {
+        "id": "08ef8b7a-0af6-4c75-8bf0-e1486d51ce80",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/viaplay-nl"
+      }
+    ]
+  },
+  {
+    "id": "62ed50dd-b00d-4cb0-90dd-7b5023383365",
+    "slug": "f1-2026-belgium-fp3-25087",
+    "title": "Belgian Grand Prix - Practice 3",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T10:30:00.000Z",
+    "endsAt": "2026-07-18T12:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0bc415ec26f68f7b7f9d364ebf4fe8ee-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3",
+    "feeds": [
+      {
+        "id": "f03fb487-8adc-485a-935f-dfa85f2800ec",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3"
+      },
+      {
+        "id": "d3bba140-4bcb-471a-ba91-1dd649428f5e",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/f1tv"
+      },
+      {
+        "id": "1eef3f98-c74e-48ed-a73b-0a01fd731c75",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/dazn-es"
+      },
+      {
+        "id": "6b5d3b3c-84db-49ec-a9a1-11893f2e8372",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/sky-sport-f1-de"
+      },
+      {
+        "id": "ce0bffbd-23ab-4423-9aa8-6247e04c853b",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/v-sport-motor-sv"
+      },
+      {
+        "id": "c096b96f-b5e8-4d00-b0ac-20f8b5fa68ab",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/viaplay-nl"
+      }
+    ]
+  },
+  {
+    "id": "be4e00cf-2626-40f4-9830-7dfbd257d7a4",
+    "slug": "f1-2026-belgium-qualifying-25094",
+    "title": "Belgian Grand Prix - Qualifying",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T14:00:00.000Z",
+    "endsAt": "2026-07-18T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c39175f1b6f5797ced0bbace0dbc6655-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying",
+    "feeds": [
+      {
+        "id": "6fb7ae60-e416-466a-be18-34c457d1fef6",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying"
+      },
+      {
+        "id": "9ec2373f-1cc5-440b-9d13-885a1d1f9870",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/f1tv"
+      },
+      {
+        "id": "cea3bb5b-054a-4a75-b943-319f86cf31ea",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/dazn-es"
+      },
+      {
+        "id": "5dd853d0-4233-4c35-9e77-1f6a00578235",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/sky-sport-f1-de"
+      },
+      {
+        "id": "8a4f91ec-f832-410f-a59f-5c050c58e026",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/v-sport-motor-sv"
+      },
+      {
+        "id": "0935c159-116a-4dfb-a269-b1902dc38640",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/viaplay-nl"
+      }
+    ]
   }
 ]
