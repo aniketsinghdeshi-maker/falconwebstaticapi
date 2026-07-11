@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "1e2a17d9-7b78-40fb-bc36-0fc2c651a6a3",
+    "slug": "smx-wk23-15856",
+    "title": "Pro Motocross: Southwick",
+    "category": "Motorsports",
+    "status": "live",
+    "startsAt": "2026-07-11T14:00:00.000Z",
+    "endsAt": "2026-07-11T22:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/smx-wk23",
+    "feeds": [
+      {
+        "id": "36278863-8d41-4967-baa5-543952a55baf",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/smx-wk23"
+      }
+    ]
+  },
+  {
     "id": "445fe377-bb44-4a44-8f50-a9b215116e4c",
     "slug": "oktagon-91-25311",
     "title": "OKTAGON 91: Engizek vs. Jotko 2",
@@ -690,6 +711,27 @@
     ]
   },
   {
+    "id": "96c45dde-9459-47f8-b4f1-76124d0d7b47",
+    "slug": "european-darts-open-day-3-25272",
+    "title": "European Darts Open | Day 3",
+    "category": "Darts",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T11:00:00.000Z",
+    "endsAt": "2026-07-12T21:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/european-darts-open--day-3",
+    "feeds": [
+      {
+        "id": "77e9f562-8c9d-44e8-9d11-9bac59189e02",
+        "sourceId": null,
+        "label": "PDC.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/european-darts-open--day-3"
+      }
+    ]
+  },
+  {
     "id": "fcff8cb2-b01e-41eb-b840-b215df8858e8",
     "slug": "afle-2026-07-12-fir-ber-24985",
     "title": "Firenze Red Lions vs. Berlin Thunder",
@@ -707,6 +749,27 @@
         "sourceId": null,
         "label": "AFLE+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/fir-ber"
+      }
+    ]
+  },
+  {
+    "id": "533239e3-c56c-43be-b92e-74854cba538c",
+    "slug": "wec-2026-saopaulo-race-25324",
+    "title": "6 Hours of São Paulo - Race",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T14:30:00.000Z",
+    "endsAt": "2026-07-12T21:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3183113aed465fab0f69794455a051ec-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wec/2026/saopaulo/race",
+    "feeds": [
+      {
+        "id": "3f5267a3-86e7-4cc6-8335-44fe6b84f865",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wec/2026/saopaulo/race"
       }
     ]
   },
