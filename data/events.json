@@ -814,5 +814,56 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-12/ham-ssk"
       }
     ]
+  },
+  {
+    "id": "7d243601-258b-400c-a607-dda1a9e993f5",
+    "slug": "f1-2026-belgium-fp1-25073",
+    "title": "Belgian Grand Prix - Practice 1",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T11:30:00.000Z",
+    "endsAt": "2026-07-17T13:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/44b784587bb418bc38f42e69acc35b04-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1",
+    "feeds": [
+      {
+        "id": "84e64d4c-57ad-41b2-8418-182af685c9b6",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1"
+      },
+      {
+        "id": "e6c728b2-207b-4bde-9e62-f152ab446c00",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/f1tv"
+      },
+      {
+        "id": "53a739d1-1fe5-4d08-9348-2bbdc2181ff7",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/dazn-es"
+      },
+      {
+        "id": "45d2fb61-7d02-4e86-af1e-70402860d090",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/sky-sport-f1-de"
+      },
+      {
+        "id": "267f7f51-c0b2-4e3f-9948-cb4942c03fad",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/v-sport-motor-sv"
+      },
+      {
+        "id": "809eab89-180b-4026-a19d-5b5dae9044ba",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/viaplay-nl"
+      }
+    ]
   }
 ]
