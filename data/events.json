@@ -42,6 +42,48 @@
     ]
   },
   {
+    "id": "07f71598-3f7f-4c8c-a08a-edcd04d4f1d8",
+    "slug": "mlb-2026-07-11-mil-pit-game-2-25289",
+    "title": "Milwaukee Brewers vs. Pittsburgh Pirates",
+    "category": "Baseball",
+    "status": "live",
+    "startsAt": "2026-07-11T20:05:00.000Z",
+    "endsAt": "2026-07-11T23:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/5ddf44100bc9102a9cb7c205f07aa3cb-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/mil-pit/game-2",
+    "feeds": [
+      {
+        "id": "dcff4bbd-b45b-4062-bad5-a6ed5929ba73",
+        "sourceId": null,
+        "label": "MLB.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/mil-pit/game-2"
+      }
+    ]
+  },
+  {
+    "id": "78229605-bb1e-4de8-af52-6a1b60622aac",
+    "slug": "mlb-2026-07-11-nyy-wsh-25290",
+    "title": "New York Yankees vs. Washington Nationals",
+    "category": "Baseball",
+    "status": "live",
+    "startsAt": "2026-07-11T20:05:00.000Z",
+    "endsAt": "2026-07-11T23:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/00fd189a185c482002d394950cec1503-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/nyy-wsh",
+    "feeds": [
+      {
+        "id": "3d5fe144-9664-49ef-9764-13b64148cbf3",
+        "sourceId": null,
+        "label": "Nationals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/nyy-wsh"
+      }
+    ]
+  },
+  {
     "id": "5accbd68-2848-4756-91e2-616c90840f88",
     "slug": "wc-2026-07-11-nor-eng-25210",
     "title": "Norway vs. England",
