@@ -61,5 +61,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/vie-rhe"
       }
     ]
+  },
+  {
+    "id": "6a5a6991-5c8f-4a16-8e6e-741b09716ef4",
+    "slug": "afle-2026-07-18-alp-ber-25402",
+    "title": "Alpine Rams vs. Berlin Thunder",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T15:10:00.000Z",
+    "endsAt": "2026-07-18T18:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/16c079da2ff12ef12e505376a3d5724f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/alp-ber",
+    "feeds": [
+      {
+        "id": "5ab0ad95-04c4-4b03-8271-34683b3a9176",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/alp-ber"
+      }
+    ]
+  },
+  {
+    "id": "47c48714-2ba7-4a22-aa23-37bed439bca7",
+    "slug": "cfl-2026-07-18-mtl-cgy-25392",
+    "title": "Montreal Alouettes vs. Calgary Stampeders",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T20:00:00.000Z",
+    "endsAt": "2026-07-18T23:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/4f05b8026f744b1150021b79e688ebd9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/mtl-cgy",
+    "feeds": [
+      {
+        "id": "840a75a6-bf6b-42e5-bb82-65a90a079c8c",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/mtl-cgy"
+      }
+    ]
   }
 ]
