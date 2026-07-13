@@ -19,5 +19,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm"
       }
     ]
+  },
+  {
+    "id": "ccc2f51b-6cb1-4557-b58c-fabd99257350",
+    "slug": "afle-2026-07-18-lon-par-25398",
+    "title": "London Warriors vs. Paris Lights",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T11:00:00.000Z",
+    "endsAt": "2026-07-18T14:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b0435871b1ff9ae60d422eeccc37f9cd-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/lon-par",
+    "feeds": [
+      {
+        "id": "e2054e40-513a-4791-9e3e-343eb623607b",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/lon-par"
+      }
+    ]
+  },
+  {
+    "id": "d1e2a27f-808a-48d5-9967-4a1cb24a421f",
+    "slug": "afle-2026-07-18-vie-rhe-25400",
+    "title": "Vienna Vikings vs. Rhein Fire",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T15:10:00.000Z",
+    "endsAt": "2026-07-18T18:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3fe86218f313652c1d11d2bd8d15c37a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/vie-rhe",
+    "feeds": [
+      {
+        "id": "fe4b1fde-dd7a-4927-84c4-4dcb0371b59a",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/vie-rhe"
+      }
+    ]
   }
 ]
