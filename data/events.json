@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "7e370585-1f4c-464c-8531-f3321cd158f6",
+    "slug": "nba-2026-07-13-atl-bos-25327",
+    "title": "Atlanta Hawks vs. Boston Celtics",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-13T22:00:00.000Z",
+    "endsAt": "2026-07-14T01:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/00a57f7eaaee8f3f3d0b9c2f78460164-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/atl-bos",
+    "feeds": [
+      {
+        "id": "86d77650-9efe-4c8a-acb6-23ba6e576a8b",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/atl-bos"
+      }
+    ]
+  },
+  {
     "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
