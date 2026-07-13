@@ -1,5 +1,47 @@
 [
   {
+    "id": "89cb8dd0-5903-4a07-b89b-530586b65cd5",
+    "slug": "nba-2026-07-13-det-ny-25325",
+    "title": "Detroit Pistons vs. New York Knicks",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-13T20:00:00.000Z",
+    "endsAt": "2026-07-13T23:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/8cece5d5f8bcfbc4f5940a0f6342ed42-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/det-ny",
+    "feeds": [
+      {
+        "id": "96f3a4fa-fe4b-43bd-9cfa-0133a73e5240",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/det-ny"
+      }
+    ]
+  },
+  {
+    "id": "c045f467-8426-43e3-a34e-3b6a0beb4b10",
+    "slug": "nba-2026-07-13-tor-ind-25326",
+    "title": "Toronto Raptors vs. Indiana Pacers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-13T20:30:00.000Z",
+    "endsAt": "2026-07-13T23:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/bba685996e8d86b1f676a88b79b1e85a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/tor-ind",
+    "feeds": [
+      {
+        "id": "c8567d4d-cdc5-424e-8eda-6f03d4ae7cf5",
+        "sourceId": null,
+        "label": "ESPN2",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/tor-ind"
+      }
+    ]
+  },
+  {
     "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
