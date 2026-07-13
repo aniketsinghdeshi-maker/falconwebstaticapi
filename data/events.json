@@ -498,6 +498,33 @@
     ]
   },
   {
+    "id": "491f42ce-2147-44c4-b817-4509849905b4",
+    "slug": "tour-de-france-stage-12-25364",
+    "title": "Tour de France - Stage 12",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T11:00:00.000Z",
+    "endsAt": "2026-07-16T16:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12",
+    "feeds": [
+      {
+        "id": "03a680ce-a9a4-4e19-becb-92d31ff71112",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12"
+      },
+      {
+        "id": "2cbac6a2-30c2-41f7-9c0a-d608ca8df6b3",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12/peacock-en"
+      }
+    ]
+  },
+  {
     "id": "e78a177d-3576-4c2b-ae96-409026b0156b",
     "slug": "mls-2026-07-16-mtl-tor-25407",
     "title": "CF Montréal vs. Toronto FC",
@@ -599,6 +626,33 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel"
+      }
+    ]
+  },
+  {
+    "id": "7e776185-ea29-4bf9-ae1f-e4f42d3289a7",
+    "slug": "tour-de-france-stage-13-25365",
+    "title": "Tour de France - Stage 13",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T10:45:00.000Z",
+    "endsAt": "2026-07-17T16:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13",
+    "feeds": [
+      {
+        "id": "147ed029-ae9a-42ff-8439-8936577950e1",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13"
+      },
+      {
+        "id": "2af0c714-395e-47fc-b3ec-54a3b0943c3e",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13/peacock-en"
       }
     ]
   },
@@ -746,6 +800,33 @@
         "sourceId": null,
         "label": "Fox Sports 503",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/wce-bl"
+      }
+    ]
+  },
+  {
+    "id": "75822aa9-7ea5-4011-9e50-d610412b4262",
+    "slug": "tour-de-france-stage-14-25366",
+    "title": "Tour de France - Stage 14",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T10:45:00.000Z",
+    "endsAt": "2026-07-18T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14",
+    "feeds": [
+      {
+        "id": "797d85e3-f7a3-4cec-af16-3c651698f84b",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14"
+      },
+      {
+        "id": "d9d3e88e-11b8-422e-80e1-8d5134832bf6",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14/peacock-en"
       }
     ]
   },
