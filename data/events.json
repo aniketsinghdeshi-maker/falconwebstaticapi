@@ -126,6 +126,48 @@
     ]
   },
   {
+    "id": "1eca6351-4795-4837-8785-32e860b53820",
+    "slug": "nba-2026-07-13-chi-utah-25330",
+    "title": "Chicago Bulls vs. Utah Jazz",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T01:00:00.000Z",
+    "endsAt": "2026-07-14T04:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0cfc78665cb134eb907fe2cf529c048c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/chi-utah",
+    "feeds": [
+      {
+        "id": "ecdec98e-fd70-4dca-afc0-3d3e9a3edeac",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/chi-utah"
+      }
+    ]
+  },
+  {
+    "id": "765b2ad3-2fde-4795-83ac-56991f3fdd0e",
+    "slug": "wnba-2026-07-13-phx-min-25406",
+    "title": "Phoenix Mercury vs. Minnesota Lynx",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T01:00:00.000Z",
+    "endsAt": "2026-07-14T04:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b90b59a2514819f846536af0bba57d99-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-13/phx-min",
+    "feeds": [
+      {
+        "id": "1118a7a9-48f2-4919-90ec-09650a80801a",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-13/phx-min"
+      }
+    ]
+  },
+  {
     "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
