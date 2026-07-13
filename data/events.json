@@ -210,6 +210,93 @@
     ]
   },
   {
+    "id": "65cb8c00-443d-42af-8ea7-4e379a804f03",
+    "slug": "wc-2026-07-14-fra-esp-25379",
+    "title": "France vs. Spain",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T19:00:00.000Z",
+    "endsAt": "2026-07-14T21:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/ff5d0c3f7fd0245e92ee3e904a2d193e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp",
+    "feeds": [
+      {
+        "id": "9e25c81a-cc68-4b0c-ba81-5f255d0cdaf9",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp"
+      },
+      {
+        "id": "d41ef8d9-f652-465d-92ba-05bb9178bcb6",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/fox-en"
+      },
+      {
+        "id": "587f5008-50bb-4f99-8792-fca606a94c4a",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/fox-4k-hevc-en"
+      },
+      {
+        "id": "2d446fc1-a4e4-44ff-8529-11e890e42a21",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/uk"
+      },
+      {
+        "id": "e83e061a-c634-4261-9a0b-ed3e49035cd2",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/bein-sports-1-fr"
+      },
+      {
+        "id": "79412d30-a078-4609-bc26-0713bb78cae9",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/dazn-spain-es"
+      },
+      {
+        "id": "ab92a1d5-0f73-4d76-8fea-97680a9ca8a1",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/telemundo-es"
+      },
+      {
+        "id": "6b34f03c-614f-4081-8f83-98e28a0cc6e9",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/peacock-4k-hevc-es"
+      },
+      {
+        "id": "3569aca8-a078-43c4-9da5-83aa8fc565d6",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/fussballtv-4k-hevc-de"
+      },
+      {
+        "id": "6bc93342-8b83-4b3c-8841-ea3b5a2d49e1",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/fussballtv-4k-no-commentary-hevc-de"
+      },
+      {
+        "id": "6723aba2-2107-4627-930c-5e45e858a425",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/fussballtv-4k-tactical-hevc-de"
+      },
+      {
+        "id": "ddeabb41-1296-49a1-b24b-34def8cba711",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-14/fra-esp/fussballtv-4k-tactical-no-commentary-hevc-de"
+      }
+    ]
+  },
+  {
     "id": "af3e89eb-20a9-43b1-a1b9-9f0eeb8e6dcb",
     "slug": "nba-2026-07-14-phi-hou-25395",
     "title": "Philadelphia 76ers vs. Houston Rockets",
@@ -269,6 +356,69 @@
         "sourceId": null,
         "label": "ESPN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/mem-gs"
+      }
+    ]
+  },
+  {
+    "id": "97d21768-3cd3-445a-b985-701ebc40cf2f",
+    "slug": "nba-2026-07-14-wsh-chi-25399",
+    "title": "Washington Wizards vs. Chicago Bulls",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T00:00:00.000Z",
+    "endsAt": "2026-07-15T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/53cf1724ec3b651009cc8eaef0dae364-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/wsh-chi",
+    "feeds": [
+      {
+        "id": "81a23c87-e140-4e73-86eb-b6facdeeed15",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/wsh-chi"
+      }
+    ]
+  },
+  {
+    "id": "fdf189e2-3966-4ff6-971d-5961b15f8ccb",
+    "slug": "nba-2026-07-14-den-okc-25401",
+    "title": "Denver Nuggets vs. Oklahoma City Thunder",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T01:00:00.000Z",
+    "endsAt": "2026-07-15T04:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2e00581486f18940f4ebb5b115562b74-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/den-okc",
+    "feeds": [
+      {
+        "id": "f084f001-aace-45af-98a1-1950dbce0695",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/den-okc"
+      }
+    ]
+  },
+  {
+    "id": "b58d9bb8-38a3-4e5a-8d4d-31ad13d67413",
+    "slug": "nba-2026-07-14-lac-lal-25403",
+    "title": "LA Clippers vs. Los Angeles Lakers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T02:00:00.000Z",
+    "endsAt": "2026-07-15T05:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/1802d0b0939f716a3b66c9096fcb9764-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/lac-lal",
+    "feeds": [
+      {
+        "id": "82e26366-5bc4-4529-8d51-73458daab5ca",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/lac-lal"
       }
     ]
   },
