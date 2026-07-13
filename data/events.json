@@ -210,6 +210,48 @@
     ]
   },
   {
+    "id": "af3e89eb-20a9-43b1-a1b9-9f0eeb8e6dcb",
+    "slug": "nba-2026-07-14-phi-hou-25395",
+    "title": "Philadelphia 76ers vs. Houston Rockets",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T20:00:00.000Z",
+    "endsAt": "2026-07-14T23:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/f235e1de53b777bb7ee559e8754a25c2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/phi-hou",
+    "feeds": [
+      {
+        "id": "9da4b10f-1d48-49d8-8320-8374532de523",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/phi-hou"
+      }
+    ]
+  },
+  {
+    "id": "c46bc9fd-18ee-4cd6-a6c2-9e418cdc16c0",
+    "slug": "nba-2026-07-14-sac-bkn-25396",
+    "title": "Sacramento Kings vs. Brooklyn Nets",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T22:00:00.000Z",
+    "endsAt": "2026-07-15T01:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/7cf8b5a7eb4928342812159ce07fac51-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/sac-bkn",
+    "feeds": [
+      {
+        "id": "42229e48-2cb3-4843-9185-e518caaec5fc",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-14/sac-bkn"
+      }
+    ]
+  },
+  {
     "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
