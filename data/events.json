@@ -252,6 +252,69 @@
     ]
   },
   {
+    "id": "901acd0d-e7a7-4496-9408-e81c66246687",
+    "slug": "afl-2026-07-19-rich-haw-25419",
+    "title": "Richmond vs. Hawthorn",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T03:10:00.000Z",
+    "endsAt": "2026-07-19T06:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/8e5d05fbf8f85a6cfdff51955bcd8789-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/rich-haw",
+    "feeds": [
+      {
+        "id": "460fc715-e03d-4e12-aa0c-20e69ec1157d",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/rich-haw"
+      }
+    ]
+  },
+  {
+    "id": "c3b1d045-8ecf-45e3-a024-5b53c40fc1ca",
+    "slug": "afl-2026-07-19-gcfc-wb-25420",
+    "title": "Gold Coast SUNS vs. Western Bulldogs",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T05:15:00.000Z",
+    "endsAt": "2026-07-19T08:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b62a4f8dd2310e713937c0a2e06d335d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/gcfc-wb",
+    "feeds": [
+      {
+        "id": "b0d42eb5-4e4c-4bc4-a729-203b66c5ee6d",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/gcfc-wb"
+      }
+    ]
+  },
+  {
+    "id": "a117fe3b-b273-4b1a-8f35-2c931a2ae6ab",
+    "slug": "afl-2026-07-19-ess-gws-25421",
+    "title": "Essendon vs. GWS GIANTS",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T06:40:00.000Z",
+    "endsAt": "2026-07-19T09:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/757f7dcc61f9bcfe970ce6aaf4609545-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/ess-gws",
+    "feeds": [
+      {
+        "id": "e26dda78-ee66-435d-8150-a20755d95817",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/ess-gws"
+      }
+    ]
+  },
+  {
     "id": "75e85c10-bb29-4437-bd92-722b15dc1f6c",
     "slug": "afle-2026-07-19-fir-pan-25404",
     "title": "Firenze Red Lions vs. Panthers Wroclaw",
