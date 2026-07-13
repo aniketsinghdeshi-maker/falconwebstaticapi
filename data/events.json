@@ -498,6 +498,27 @@
     ]
   },
   {
+    "id": "446307bc-fa0a-42b3-86c4-1521667beb76",
+    "slug": "nrl-2026-07-16-pen-bri-25422",
+    "title": "Panthers vs. Broncos",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T09:50:00.000Z",
+    "endsAt": "2026-07-16T12:20:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/916420f8895b0881be4ad153915c3042-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-16/pen-bri",
+    "feeds": [
+      {
+        "id": "07a44248-0f97-4607-a87a-04dd850c419a",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-16/pen-bri"
+      }
+    ]
+  },
+  {
     "id": "491f42ce-2147-44c4-b817-4509849905b4",
     "slug": "tour-de-france-stage-12-25364",
     "title": "Tour de France - Stage 12",
@@ -605,6 +626,27 @@
         "sourceId": null,
         "label": "Apple TV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por"
+      }
+    ]
+  },
+  {
+    "id": "50650123-7af6-47d3-bb0d-eeb869de5c4c",
+    "slug": "nrl-2026-07-17-cro-new-25423",
+    "title": "Sharks vs. Knights",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T08:00:00.000Z",
+    "endsAt": "2026-07-17T10:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/04b8e92cea686eaa8bdeac0b4c15dfb6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/cro-new",
+    "feeds": [
+      {
+        "id": "c51c104e-b97c-483b-ad86-0d714303e1f8",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/cro-new"
       }
     ]
   },
