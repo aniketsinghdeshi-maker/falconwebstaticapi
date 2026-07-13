@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "837cf14c-fd7d-4d22-90e5-4933045b6eb9",
+    "slug": "cfl-2026-07-17-bc-edm-25391",
+    "title": "BC Lions vs. Edmonton Elks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T01:00:00.000Z",
+    "endsAt": "2026-07-18T04:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/85bbcc20aaf30d7bd11a024ba09e99f4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm",
+    "feeds": [
+      {
+        "id": "6755c2cc-3868-4ba3-8622-61ecac798ce6",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm"
+      }
+    ]
+  }
+]
