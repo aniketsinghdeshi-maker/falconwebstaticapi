@@ -105,6 +105,27 @@
     ]
   },
   {
+    "id": "c530b1fd-fa38-46a8-b99f-f0834e83461b",
+    "slug": "nba-2026-07-13-mia-cle-25329",
+    "title": "Miami Heat vs. Cleveland Cavaliers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T00:00:00.000Z",
+    "endsAt": "2026-07-14T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/44cd1ef36ec410411d8881198ec8b039-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/mia-cle",
+    "feeds": [
+      {
+        "id": "69911987-b43f-47e7-8257-15faffcb6fee",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/mia-cle"
+      }
+    ]
+  },
+  {
     "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
