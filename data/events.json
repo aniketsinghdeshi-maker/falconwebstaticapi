@@ -168,6 +168,48 @@
     ]
   },
   {
+    "id": "91a31cd1-8274-458f-8f73-f5f0d51f55dc",
+    "slug": "nba-2026-07-13-phx-mil-25331",
+    "title": "Phoenix Suns vs. Milwaukee Bucks",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T02:00:00.000Z",
+    "endsAt": "2026-07-14T05:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3c6ffb3b1c208263181c3a99cf63442d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/phx-mil",
+    "feeds": [
+      {
+        "id": "8ead6a3d-c421-4f47-a355-f63fc6ac0b52",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/phx-mil"
+      }
+    ]
+  },
+  {
+    "id": "ed30b7dc-98d8-4566-a14b-19cac5d3396e",
+    "slug": "nba-2026-07-13-min-por-25332",
+    "title": "Minnesota Timberwolves vs. Portland Trail Blazers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T03:00:00.000Z",
+    "endsAt": "2026-07-14T06:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/08ab4a31856e8bdff7c25f74bdef708f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/min-por",
+    "feeds": [
+      {
+        "id": "2a63cc77-332f-4978-830c-c79f26360674",
+        "sourceId": null,
+        "label": "ESPN2",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-13/min-por"
+      }
+    ]
+  },
+  {
     "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
