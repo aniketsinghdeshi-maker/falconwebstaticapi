@@ -105,6 +105,27 @@
     ]
   },
   {
+    "id": "b237848f-b4a4-4ad4-81ac-19629e3a4d09",
+    "slug": "mensvnl-2026-07-15-ser-t-r-25476",
+    "title": "Serbia vs. Türkiye",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T18:00:00.000Z",
+    "endsAt": "2026-07-15T21:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/446eae24a359a8ffc8ec6fc4e9c53741-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/ser-tür",
+    "feeds": [
+      {
+        "id": "08a74dee-4994-40cb-a7b2-3441420a0731",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/ser-tür"
+      }
+    ]
+  },
+  {
     "id": "f9bbefa0-3980-4ca2-b10d-bd469ba2527a",
     "slug": "wc-2026-07-15-eng-arg-25449",
     "title": "England vs. Argentina",
