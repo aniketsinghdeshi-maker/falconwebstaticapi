@@ -123,6 +123,48 @@
     ]
   },
   {
+    "id": "47472c74-4a2b-43e1-a43d-1d4d3cb13f59",
+    "slug": "nba-2026-07-15-ind-min-25438",
+    "title": "Indiana Pacers vs. Minnesota Timberwolves",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T19:30:00.000Z",
+    "endsAt": "2026-07-15T22:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0fddb0cf243e9820d1a961f8eceea134-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/ind-min",
+    "feeds": [
+      {
+        "id": "617ab124-a105-4dc4-92a5-3fe6ed85af8e",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/ind-min"
+      }
+    ]
+  },
+  {
+    "id": "0f6bd2dc-f8d7-4ba9-9be9-969e3a94529a",
+    "slug": "nba-2026-07-15-orl-phi-25439",
+    "title": "Orlando Magic vs. Philadelphia 76ers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T20:00:00.000Z",
+    "endsAt": "2026-07-15T23:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e84eed45b7a1b19201c75ef21da15221-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/orl-phi",
+    "feeds": [
+      {
+        "id": "4bf6e61c-6444-4849-8fa3-3d51d5839aa1",
+        "sourceId": null,
+        "label": "ESPNU",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/orl-phi"
+      }
+    ]
+  },
+  {
     "id": "cb93931c-380d-4e5a-b36a-96a1ecd5adab",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
