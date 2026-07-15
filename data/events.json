@@ -354,6 +354,48 @@
     ]
   },
   {
+    "id": "794d6233-6d50-4887-a318-cdc1dfccbab1",
+    "slug": "nba-2026-07-16-bkn-hou-25462",
+    "title": "Brooklyn Nets vs. Houston Rockets",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T20:30:00.000Z",
+    "endsAt": "2026-07-16T23:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a9f0b9f308bff69a96b60e8b9472ebf1-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/bkn-hou",
+    "feeds": [
+      {
+        "id": "c1a85106-62af-477a-9cf8-8bfd8a05d335",
+        "sourceId": null,
+        "label": "ESPNU",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/bkn-hou"
+      }
+    ]
+  },
+  {
+    "id": "af6b0f7f-4261-4f3e-8f3a-35c983df7e8b",
+    "slug": "nba-2026-07-16-lal-chi-25463",
+    "title": "Los Angeles Lakers vs. Chicago Bulls",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T22:00:00.000Z",
+    "endsAt": "2026-07-17T01:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/bcf1183e39aa5aed72a952e525f7e632-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/lal-chi",
+    "feeds": [
+      {
+        "id": "2946728c-d532-421c-ab83-0f90d3732ddb",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/lal-chi"
+      }
+    ]
+  },
+  {
     "id": "380c9335-cc8a-4b12-9faa-4efb449aeb8d",
     "slug": "mls-2026-07-16-mtl-tor-25407",
     "title": "CF Montréal vs. Toronto FC",
