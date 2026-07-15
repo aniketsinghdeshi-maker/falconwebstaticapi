@@ -163,5 +163,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por"
       }
     ]
+  },
+  {
+    "id": "ba4b75e3-fcf2-48d2-b0f9-303116590eb1",
+    "slug": "mls-2026-07-17-nsh-atl-25411",
+    "title": "Nashville SC vs. Atlanta United FC",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T00:10:00.000Z",
+    "endsAt": "2026-07-18T03:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/41e62b35f23efff2073a35d87e54a7b8-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl",
+    "feeds": [
+      {
+        "id": "4eb687fd-43bb-42e9-8593-40f1264302db",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl"
+      }
+    ]
   }
 ]
