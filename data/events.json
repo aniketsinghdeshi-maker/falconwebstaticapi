@@ -1014,6 +1014,27 @@
     ]
   },
   {
+    "id": "a4d36a72-5603-4b44-95bf-6e957e8611bc",
+    "slug": "nrl-2026-07-18-can-wes-25427",
+    "title": "Bulldogs vs. Wests Tigers",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T09:35:00.000Z",
+    "endsAt": "2026-07-18T12:05:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2a4ac36bdc11f4efd27b07c1037cb880-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-wes",
+    "feeds": [
+      {
+        "id": "066fc347-ec6d-427e-9a83-9877f858c18c",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-wes"
+      }
+    ]
+  },
+  {
     "id": "7af5db5c-4039-46ad-bd14-c8aa5d007c42",
     "slug": "afl-2026-07-18-wce-bl-25418",
     "title": "West Coast Eagles vs. Brisbane Lions",
