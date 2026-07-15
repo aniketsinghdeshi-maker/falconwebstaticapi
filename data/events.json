@@ -786,6 +786,33 @@
     ]
   },
   {
+    "id": "3402c7a5-8972-4e4a-bcba-a41fa920725a",
+    "slug": "tour-de-france-stage-14-25366",
+    "title": "Tour de France - Stage 14",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T10:45:00.000Z",
+    "endsAt": "2026-07-18T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14",
+    "feeds": [
+      {
+        "id": "0a6b0d63-3247-4782-912b-13f6e5d15b3b",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14"
+      },
+      {
+        "id": "761f988e-596d-4dd6-ba98-aea05f77f302",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14/peacock-en"
+      }
+    ]
+  },
+  {
     "id": "0770d70e-dd3b-408b-9e2b-d6e718dde536",
     "slug": "afle-2026-07-18-lon-par-25398",
     "title": "London Warriors vs. Paris Lights",
@@ -950,6 +977,33 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/ess-gws"
+      }
+    ]
+  },
+  {
+    "id": "58f7d112-6a7f-4ea0-a59c-999c2334630e",
+    "slug": "tour-de-france-stage-15-25367",
+    "title": "Tour de France - Stage 15",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T10:45:00.000Z",
+    "endsAt": "2026-07-19T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-15",
+    "feeds": [
+      {
+        "id": "94269a5a-53d5-4e78-999e-602a3c00894d",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-15"
+      },
+      {
+        "id": "508089be-523e-4082-8ec9-fdaadfa17dbf",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-15/peacock-en"
       }
     ]
   },
