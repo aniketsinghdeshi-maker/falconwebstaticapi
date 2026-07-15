@@ -121,5 +121,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/chi-van"
       }
     ]
+  },
+  {
+    "id": "a8a740bd-6cdd-4684-baa2-9a29c67a769f",
+    "slug": "mls-2026-07-16-stl-skc-25409",
+    "title": "St. Louis CITY SC vs. Sporting Kansas City",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T00:30:00.000Z",
+    "endsAt": "2026-07-17T03:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/1d9482c6be17352a7f5ddc92e403152b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc",
+    "feeds": [
+      {
+        "id": "1315c428-36c8-44df-8934-ebb146da962c",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc"
+      }
+    ]
   }
 ]
