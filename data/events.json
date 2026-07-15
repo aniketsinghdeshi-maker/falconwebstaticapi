@@ -375,6 +375,27 @@
     ]
   },
   {
+    "id": "78d71ffc-6967-4960-aff0-377ea098988d",
+    "slug": "aew-dynamite-2026-07-15-25432",
+    "title": "AEW: Wednesday Night Dynamite",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T00:00:00.000Z",
+    "endsAt": "2026-07-16T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/dynamite/2026-07-15",
+    "feeds": [
+      {
+        "id": "1ebc918c-76f9-4032-9c20-213881405e2a",
+        "sourceId": null,
+        "label": "TBS",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/dynamite/2026-07-15"
+      }
+    ]
+  },
+  {
     "id": "e9140f9c-3fab-442f-b935-176092619364",
     "slug": "mensvnl-2026-07-16-usa-chi-25478",
     "title": "USA vs. China",
@@ -434,6 +455,27 @@
         "sourceId": null,
         "label": "ESPN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/wsh-lac"
+      }
+    ]
+  },
+  {
+    "id": "e076b7cf-78b5-4e85-bad0-5917f4f228a2",
+    "slug": "mensvnl-2026-07-16-bel-ita-25479",
+    "title": "Belgium vs. Italy",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T06:30:00.000Z",
+    "endsAt": "2026-07-16T10:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2529ae5e448385716fef3a57337ac6e7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-16/bel-ita",
+    "feeds": [
+      {
+        "id": "72eac3b4-ce85-48c8-bf7f-6084b6f5b643",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-16/bel-ita"
       }
     ]
   },
