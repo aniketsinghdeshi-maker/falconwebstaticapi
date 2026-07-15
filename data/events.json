@@ -375,6 +375,27 @@
     ]
   },
   {
+    "id": "e9140f9c-3fab-442f-b935-176092619364",
+    "slug": "mensvnl-2026-07-16-usa-chi-25478",
+    "title": "USA vs. China",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T01:00:00.000Z",
+    "endsAt": "2026-07-16T04:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/7df5277c01875dec8c7232d5f9809e4c-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-16/usa-chi",
+    "feeds": [
+      {
+        "id": "c31dbb7d-69a9-4262-9b60-875cb35de41a",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-16/usa-chi"
+      }
+    ]
+  },
+  {
     "id": "284f5947-d6be-4ac3-b970-3d28881181b0",
     "slug": "nba-2026-07-15-utah-sa-25444",
     "title": "Utah Jazz vs. San Antonio Spurs",
