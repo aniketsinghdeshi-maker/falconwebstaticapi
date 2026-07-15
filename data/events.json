@@ -1,595 +1,82 @@
 [
   {
-    "id": "1f731e4a-fbc7-4490-b1ca-8c33b84d7682",
-    "slug": "aew-dynamite-2026-07-15-25432",
-    "title": "AEW: Wednesday Night Dynamite",
-    "category": "Wrestling",
+    "id": "f9bbefa0-3980-4ca2-b10d-bd469ba2527a",
+    "slug": "wc-2026-07-15-eng-arg-25449",
+    "title": "England vs. Argentina",
+    "category": "Football",
     "status": "upcoming",
-    "startsAt": "2026-07-16T00:00:00.000Z",
-    "endsAt": "2026-07-16T03:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg",
+    "startsAt": "2026-07-15T19:00:00.000Z",
+    "endsAt": "2026-07-15T21:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/6020c213211db7e2496ccf8d91ee3e1a-thumbnail.jpg",
     "isPopular": false,
     "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/dynamite/2026-07-15",
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg",
     "feeds": [
       {
-        "id": "b98e0cb5-1bb5-4a95-8654-3e935b5f175e",
+        "id": "3c5d7ef6-ed20-4bfd-bc3f-b00a48b1aa8d",
         "sourceId": null,
-        "label": "TBS",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/dynamite/2026-07-15"
-      }
-    ]
-  },
-  {
-    "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
-    "slug": "afl-2026-07-16-geel-stk-25413",
-    "title": "Geelong Cats vs. St Kilda",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-16T09:30:00.000Z",
-    "endsAt": "2026-07-16T12:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/7d1b587b25869de4a685e435da1d3db0-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-16/geel-stk",
-    "feeds": [
-      {
-        "id": "0b9c4e58-3813-4509-a48d-5c4fd5c4fc19",
-        "sourceId": null,
-        "label": "Fox Footy",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-16/geel-stk"
-      }
-    ]
-  },
-  {
-    "id": "446307bc-fa0a-42b3-86c4-1521667beb76",
-    "slug": "nrl-2026-07-16-pen-bri-25422",
-    "title": "Panthers vs. Broncos",
-    "category": "Rugby",
-    "status": "upcoming",
-    "startsAt": "2026-07-16T09:50:00.000Z",
-    "endsAt": "2026-07-16T12:20:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/916420f8895b0881be4ad153915c3042-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-16/pen-bri",
-    "feeds": [
-      {
-        "id": "07a44248-0f97-4607-a87a-04dd850c419a",
-        "sourceId": null,
-        "label": "Fox League",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-16/pen-bri"
-      }
-    ]
-  },
-  {
-    "id": "491f42ce-2147-44c4-b817-4509849905b4",
-    "slug": "tour-de-france-stage-12-25364",
-    "title": "Tour de France - Stage 12",
-    "category": "Miscellaneous",
-    "status": "upcoming",
-    "startsAt": "2026-07-16T11:00:00.000Z",
-    "endsAt": "2026-07-16T16:15:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12",
-    "feeds": [
-      {
-        "id": "03a680ce-a9a4-4e19-becb-92d31ff71112",
-        "sourceId": null,
-        "label": "TNT Sports 1",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12"
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg"
       },
       {
-        "id": "2cbac6a2-30c2-41f7-9c0a-d608ca8df6b3",
+        "id": "97f50c94-74cd-4c79-90ad-b944fae386f5",
         "sourceId": null,
-        "label": "Peacock",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12/peacock-en"
-      }
-    ]
-  },
-  {
-    "id": "e78a177d-3576-4c2b-ae96-409026b0156b",
-    "slug": "mls-2026-07-16-mtl-tor-25407",
-    "title": "CF Montréal vs. Toronto FC",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-16T23:30:00.000Z",
-    "endsAt": "2026-07-17T02:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/43ee4166de359618c04b293312cc8760-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/mtl-tor",
-    "feeds": [
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/fox-en"
+      },
       {
-        "id": "legacy",
+        "id": "5d347780-f081-4930-95d8-b23dffad4912",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/mtl-tor"
-      }
-    ]
-  },
-  {
-    "id": "88c281e9-bef8-4bfc-bf77-4157b4ee89b8",
-    "slug": "mls-2026-07-16-chi-van-25408",
-    "title": "Chicago Fire FC vs. Vancouver Whitecaps",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T00:30:00.000Z",
-    "endsAt": "2026-07-17T03:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/chi-van",
-    "feeds": [
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/fox-4k-hevc-en"
+      },
       {
-        "id": "legacy",
+        "id": "2dd63b0c-5c02-46ee-b5a2-f4f1f41b93d7",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/chi-van"
-      }
-    ]
-  },
-  {
-    "id": "a1583e50-9896-4db3-9691-ba9b0ffe3851",
-    "slug": "mls-2026-07-16-stl-skc-25409",
-    "title": "St. Louis CITY SC vs. Sporting Kansas City",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T00:30:00.000Z",
-    "endsAt": "2026-07-17T03:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/1d9482c6be17352a7f5ddc92e403152b-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc",
-    "feeds": [
+        "label": "BBC One",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/uk"
+      },
       {
-        "id": "legacy",
+        "id": "eb267d4d-7287-4f3c-81e8-bb0d61bef4dc",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc"
-      }
-    ]
-  },
-  {
-    "id": "ae5f55ba-90f7-469a-8f6c-3cbf849e0e63",
-    "slug": "tna-impact-2026-07-16-25433",
-    "title": "TNA: Impact",
-    "category": "Wrestling",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T01:00:00.000Z",
-    "endsAt": "2026-07-17T04:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-16",
-    "feeds": [
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/dazn-spain-es"
+      },
       {
-        "id": "legacy",
+        "id": "21ea6d5c-8534-4d2b-98e6-6cbec3efcdae",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tna/impact/2026-07-16"
-      }
-    ]
-  },
-  {
-    "id": "f40e1311-41fb-4f98-bfe7-d7d0fc8c2645",
-    "slug": "mls-2026-07-16-sea-por-25410",
-    "title": "Seattle Sounders FC vs. Portland Timbers",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T02:30:00.000Z",
-    "endsAt": "2026-07-17T05:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbae7ce912fdabce80dd189ad9f2fa19-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por",
-    "feeds": [
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/telemundo-es"
+      },
       {
-        "id": "legacy",
+        "id": "aa249ff2-1c98-4c2e-9ab2-984ef069432b",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por"
-      }
-    ]
-  },
-  {
-    "id": "50650123-7af6-47d3-bb0d-eeb869de5c4c",
-    "slug": "nrl-2026-07-17-cro-new-25423",
-    "title": "Sharks vs. Knights",
-    "category": "Rugby",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T08:00:00.000Z",
-    "endsAt": "2026-07-17T10:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/04b8e92cea686eaa8bdeac0b4c15dfb6-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/cro-new",
-    "feeds": [
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/peacock-4k-hevc-es"
+      },
       {
-        "id": "legacy",
+        "id": "2d756b17-31ab-4202-89f0-b0d982d8fc91",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/cro-new"
-      }
-    ]
-  },
-  {
-    "id": "23fd3f5b-2487-4e15-b59d-5e853731425a",
-    "slug": "afl-2026-07-17-syd-adel-25414",
-    "title": "Sydney Swans vs. Adelaide Crows",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T09:40:00.000Z",
-    "endsAt": "2026-07-17T12:40:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/67cb35de4f48dce49ec5b68b3c7c8416-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel",
-    "feeds": [
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/fussballtv-4k-hevc-de"
+      },
       {
-        "id": "legacy",
+        "id": "765fa575-fd45-4619-ab66-6849ada2da1f",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel"
-      }
-    ]
-  },
-  {
-    "id": "69ac26f2-f87f-4175-bb88-70324283effb",
-    "slug": "nrl-2026-07-17-syd-mel-25424",
-    "title": "Roosters vs. Storm",
-    "category": "Rugby",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T10:00:00.000Z",
-    "endsAt": "2026-07-17T12:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c2981515be4a46b9c3e3087982a7ef2e-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/syd-mel",
-    "feeds": [
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/fussballtv-4k-no-commentary-hevc-de"
+      },
       {
-        "id": "legacy",
+        "id": "a9c63f48-e685-48b6-842b-a36b7478b7d9",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/syd-mel"
-      }
-    ]
-  },
-  {
-    "id": "7e776185-ea29-4bf9-ae1f-e4f42d3289a7",
-    "slug": "tour-de-france-stage-13-25365",
-    "title": "Tour de France - Stage 13",
-    "category": "Miscellaneous",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T10:45:00.000Z",
-    "endsAt": "2026-07-17T16:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13",
-    "feeds": [
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/fussballtv-4k-tactical-hevc-de"
+      },
       {
-        "id": "legacy",
+        "id": "461ec076-7ae7-495b-b7b1-8668372ef051",
         "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13"
-      }
-    ]
-  },
-  {
-    "id": "de6a4add-c8c1-4d08-8847-8e9b60d82dac",
-    "slug": "f1-2026-belgium-fp1-25073",
-    "title": "Belgian Grand Prix - Practice 1",
-    "category": "Motorsports",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T11:30:00.000Z",
-    "endsAt": "2026-07-17T13:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/44b784587bb418bc38f42e69acc35b04-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1"
-      }
-    ]
-  },
-  {
-    "id": "ab391506-7708-4034-84cc-7bd714b4c2c2",
-    "slug": "f1-2026-belgium-fp2-25080",
-    "title": "Belgian Grand Prix - Practice 2",
-    "category": "Motorsports",
-    "status": "upcoming",
-    "startsAt": "2026-07-17T15:00:00.000Z",
-    "endsAt": "2026-07-17T17:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2e7a8e4b7552cfe206d49b6f8158b3fb-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2"
-      }
-    ]
-  },
-  {
-    "id": "4a1555cc-bc2e-4048-8652-49d8828917a4",
-    "slug": "wwe-smackdown-2026-07-17-25434",
-    "title": "WWE: Friday Night Smackdown",
-    "category": "Wrestling",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T00:00:00.000Z",
-    "endsAt": "2026-07-18T03:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-17",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/smackdown/2026-07-17"
-      }
-    ]
-  },
-  {
-    "id": "8168a23d-ff98-4993-a721-679280b6077f",
-    "slug": "mls-2026-07-17-nsh-atl-25411",
-    "title": "Nashville SC vs. Atlanta United FC",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T00:10:00.000Z",
-    "endsAt": "2026-07-18T03:10:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/41e62b35f23efff2073a35d87e54a7b8-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl"
-      }
-    ]
-  },
-  {
-    "id": "837cf14c-fd7d-4d22-90e5-4933045b6eb9",
-    "slug": "cfl-2026-07-17-bc-edm-25391",
-    "title": "BC Lions vs. Edmonton Elks",
-    "category": "American Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T01:00:00.000Z",
-    "endsAt": "2026-07-18T04:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/85bbcc20aaf30d7bd11a024ba09e99f4-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm"
-      }
-    ]
-  },
-  {
-    "id": "0da54478-7e00-40fe-be2a-98194a9fd4bd",
-    "slug": "mls-2026-07-17-la-lafc-25412",
-    "title": "LA Galaxy vs. LAFC",
-    "category": "Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T02:25:00.000Z",
-    "endsAt": "2026-07-18T05:25:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e1aa9d8767b7de5849ea8533a20cc418-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/la-lafc",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/la-lafc"
-      }
-    ]
-  },
-  {
-    "id": "f0bd37bc-dc45-4114-950d-42e783c453a5",
-    "slug": "afl-2026-07-18-port-fre-25415",
-    "title": "Port Adelaide vs. Fremantle",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T03:15:00.000Z",
-    "endsAt": "2026-07-18T06:15:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/42155aa4026e119401863a03bb0ea63b-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/port-fre",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/port-fre"
-      }
-    ]
-  },
-  {
-    "id": "47abb773-17d7-4268-a4b6-74fec2d827b4",
-    "slug": "nrl-2026-07-18-can-sou-25425",
-    "title": "Raiders vs. Rabbitohs",
-    "category": "Rugby",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T05:00:00.000Z",
-    "endsAt": "2026-07-18T07:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/847804999935d91a014cec1e4c751315-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-sou",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-sou"
-      }
-    ]
-  },
-  {
-    "id": "ab368629-d7dc-4763-8bea-a5ea3a6324f7",
-    "slug": "afl-2026-07-18-nmfc-melb-25416",
-    "title": "North Melbourne vs. Melbourne",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T06:15:00.000Z",
-    "endsAt": "2026-07-18T09:15:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/532e0307eadcde3cc7494656b0fef47a-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/nmfc-melb",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/nmfc-melb"
-      }
-    ]
-  },
-  {
-    "id": "c7cf5aba-c2f5-424d-bd09-a5051eaa0cd8",
-    "slug": "nrl-2026-07-18-new-st-25426",
-    "title": "Warriors vs. Dragons",
-    "category": "Rugby",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T07:35:00.000Z",
-    "endsAt": "2026-07-18T10:05:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a7fc79cf3567e3ab33aab50ebfc576b6-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/new-st.",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/new-st."
-      }
-    ]
-  },
-  {
-    "id": "d0fd1708-f535-409e-8a31-29762c21c0ca",
-    "slug": "afl-2026-07-18-coll-carl-25417",
-    "title": "Collingwood vs. Carlton",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T09:35:00.000Z",
-    "endsAt": "2026-07-18T12:35:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/f575e41777b20b07b9cdedecb30a7914-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/coll-carl",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/coll-carl"
-      }
-    ]
-  },
-  {
-    "id": "8caa0260-7e12-4c1a-bd46-9cfb6c641851",
-    "slug": "nrl-2026-07-18-can-wes-25427",
-    "title": "Bulldogs vs. Wests Tigers",
-    "category": "Rugby",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T09:35:00.000Z",
-    "endsAt": "2026-07-18T12:05:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2a4ac36bdc11f4efd27b07c1037cb880-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-wes",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-wes"
-      }
-    ]
-  },
-  {
-    "id": "30c83a2b-c06c-42f1-8864-c8676b0bebb5",
-    "slug": "afl-2026-07-18-wce-bl-25418",
-    "title": "West Coast Eagles vs. Brisbane Lions",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T10:10:00.000Z",
-    "endsAt": "2026-07-18T13:10:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/25771ef2e613d1b3c4b744f3b1952b30-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/wce-bl",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/wce-bl"
-      }
-    ]
-  },
-  {
-    "id": "99968554-95e6-4fc5-b6f3-9394e2bcb442",
-    "slug": "f1-2026-belgium-fp3-25087",
-    "title": "Belgian Grand Prix - Practice 3",
-    "category": "Motorsports",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T10:30:00.000Z",
-    "endsAt": "2026-07-18T12:30:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0bc415ec26f68f7b7f9d364ebf4fe8ee-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3"
-      }
-    ]
-  },
-  {
-    "id": "75822aa9-7ea5-4011-9e50-d610412b4262",
-    "slug": "tour-de-france-stage-14-25366",
-    "title": "Tour de France - Stage 14",
-    "category": "Miscellaneous",
-    "status": "upcoming",
-    "startsAt": "2026-07-18T10:45:00.000Z",
-    "endsAt": "2026-07-18T16:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-14"
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-15/eng-arg/fussballtv-4k-tactical-no-commentary-hevc-de"
       }
     ]
   }
