@@ -186,6 +186,27 @@
     ]
   },
   {
+    "id": "1fe93fa4-e229-483e-b1df-b751928105e3",
+    "slug": "afl-2026-07-17-syd-adel-25414",
+    "title": "Sydney Swans vs. Adelaide Crows",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T09:40:00.000Z",
+    "endsAt": "2026-07-17T12:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/67cb35de4f48dce49ec5b68b3c7c8416-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel",
+    "feeds": [
+      {
+        "id": "59114c93-9f03-41e6-a46d-7977aaa4278f",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel"
+      }
+    ]
+  },
+  {
     "id": "ba4b75e3-fcf2-48d2-b0f9-303116590eb1",
     "slug": "mls-2026-07-17-nsh-atl-25411",
     "title": "Nashville SC vs. Atlanta United FC",
