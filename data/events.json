@@ -1155,6 +1155,27 @@
     ]
   },
   {
+    "id": "1edc726b-d600-4326-a31d-288b33275c54",
+    "slug": "nc-2026-07-18-fji-sco-25484",
+    "title": "Fiji vs. Scotland",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T13:10:00.000Z",
+    "endsAt": "2026-07-18T15:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b815a50aaea7f3fec5dec7fe211c0270-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/fji-sco",
+    "feeds": [
+      {
+        "id": "17aae894-ccc5-49d5-aa68-3d94f2af600b",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/fji-sco"
+      }
+    ]
+  },
+  {
     "id": "cc2e94ee-4d54-40e1-a52e-7511b4c1ac18",
     "slug": "f1-2026-belgium-qualifying-25094",
     "title": "Belgian Grand Prix - Qualifying",
