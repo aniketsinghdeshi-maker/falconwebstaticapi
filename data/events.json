@@ -1395,6 +1395,27 @@
     ]
   },
   {
+    "id": "7f302435-eda6-4da3-a986-611b54925d6e",
+    "slug": "nrl-2026-07-19-gol-man-25428",
+    "title": "Titans vs. Sea Eagles",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T04:00:00.000Z",
+    "endsAt": "2026-07-19T06:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/98456bf5192251379c126ff1aaf78bdf-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/gol-man",
+    "feeds": [
+      {
+        "id": "870d9f65-9f3f-493b-8663-710e58429cd2",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/gol-man"
+      }
+    ]
+  },
+  {
     "id": "3f490054-f14e-4b83-9cbd-6e16500a7e7d",
     "slug": "afl-2026-07-19-gcfc-wb-25420",
     "title": "Gold Coast SUNS vs. Western Bulldogs",
@@ -1412,6 +1433,27 @@
         "sourceId": null,
         "label": "Fox Sports 503",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/gcfc-wb"
+      }
+    ]
+  },
+  {
+    "id": "606016cc-4505-4689-860a-971ac87296c5",
+    "slug": "nrl-2026-07-19-dol-nor-25429",
+    "title": "Dolphins vs. Cowboys",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T06:05:00.000Z",
+    "endsAt": "2026-07-19T08:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/81579ac8c27fde2020a7dca36099f135-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/dol-nor",
+    "feeds": [
+      {
+        "id": "709f0172-6ec7-4604-bafd-b615252e1f31",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/dol-nor"
       }
     ]
   },
