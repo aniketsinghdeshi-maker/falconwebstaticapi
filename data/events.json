@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "e2ecd175-7ff3-4fe9-b55b-e2db08db17b6",
+    "slug": "wnba-2026-07-15-la-min-25469",
+    "title": "Los Angeles Sparks vs. Minnesota Lynx",
+    "category": "Basketball",
+    "status": "live",
+    "startsAt": "2026-07-15T17:00:00.000Z",
+    "endsAt": "2026-07-15T20:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/08c8f9a290c316dbfa24b8ffc9597d0b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-15/la-min",
+    "feeds": [
+      {
+        "id": "baeef985-91bc-4d95-aeb1-32b01dfd4136",
+        "sourceId": null,
+        "label": "Victory+ MIN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-15/la-min"
+      }
+    ]
+  },
+  {
     "id": "f9bbefa0-3980-4ca2-b10d-bd469ba2527a",
     "slug": "wc-2026-07-15-eng-arg-25449",
     "title": "England vs. Argentina",
