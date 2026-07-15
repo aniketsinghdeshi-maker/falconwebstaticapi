@@ -1269,6 +1269,48 @@
     ]
   },
   {
+    "id": "f55fec41-4a8a-44de-a2e4-a4bade749ea8",
+    "slug": "nc-2026-07-18-rsa-wal-25485",
+    "title": "South Africa vs. Wales",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T15:40:00.000Z",
+    "endsAt": "2026-07-18T18:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b815a50aaea7f3fec5dec7fe211c0270-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/rsa-wal",
+    "feeds": [
+      {
+        "id": "b459bb9e-ee41-4999-a213-96f905adc3ee",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/rsa-wal"
+      }
+    ]
+  },
+  {
+    "id": "2e0d99b9-60a7-4002-8884-c56e33008280",
+    "slug": "nc-2026-07-18-arg-eng-25486",
+    "title": "Argentina vs. England",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T19:10:00.000Z",
+    "endsAt": "2026-07-18T21:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b815a50aaea7f3fec5dec7fe211c0270-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/arg-eng",
+    "feeds": [
+      {
+        "id": "1b99d48b-ec1f-45a0-8b08-a64ab5886473",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/arg-eng"
+      }
+    ]
+  },
+  {
     "id": "62b8b435-d8ab-429c-9e1a-ac2ac75b14a7",
     "slug": "cfl-2026-07-18-mtl-cgy-25392",
     "title": "Montreal Alouettes vs. Calgary Stampeders",
