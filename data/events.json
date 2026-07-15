@@ -1332,6 +1332,27 @@
     ]
   },
   {
+    "id": "c426bb3c-395e-4ef6-a114-0b692ff746aa",
+    "slug": "nc-2026-07-18-jpn-fra-25487",
+    "title": "Japan vs. France",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T20:40:00.000Z",
+    "endsAt": "2026-07-18T23:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b815a50aaea7f3fec5dec7fe211c0270-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/jpn-fra",
+    "feeds": [
+      {
+        "id": "8952aa4d-8c81-4fa1-8c31-8519ed136c73",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/jpn-fra"
+      }
+    ]
+  },
+  {
     "id": "7c0a8cf1-28a3-464f-af72-1731d928253a",
     "slug": "cfl-2026-07-18-tor-ham-25393",
     "title": "Toronto Argonauts vs. Hamilton Tiger-Cats",
