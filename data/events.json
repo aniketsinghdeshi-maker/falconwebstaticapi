@@ -165,6 +165,27 @@
     ]
   },
   {
+    "id": "6831673f-d711-4cf7-b872-b99dca9ee87f",
+    "slug": "nba-2026-07-15-no-cle-25440",
+    "title": "New Orleans Pelicans vs. Cleveland Cavaliers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T21:30:00.000Z",
+    "endsAt": "2026-07-16T00:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3bcfcc4e45a06d5105a0ab45742f772f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/no-cle",
+    "feeds": [
+      {
+        "id": "8a1fddba-cf8e-42e4-af64-dbdef82dbfca",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/no-cle"
+      }
+    ]
+  },
+  {
     "id": "cb93931c-380d-4e5a-b36a-96a1ecd5adab",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
