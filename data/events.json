@@ -501,6 +501,27 @@
     ]
   },
   {
+    "id": "fb74665a-6880-43e2-8da1-c9f2c489c288",
+    "slug": "nba-2026-07-16-tor-mia-25466",
+    "title": "Toronto Raptors vs. Miami Heat",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T01:00:00.000Z",
+    "endsAt": "2026-07-17T04:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3043567b54dbf00545edb72856b4401a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/tor-mia",
+    "feeds": [
+      {
+        "id": "cb2b9c75-e458-46e4-a0e1-71e011afab3c",
+        "sourceId": null,
+        "label": "ESPN2",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/tor-mia"
+      }
+    ]
+  },
+  {
     "id": "8b399568-5700-4573-941b-f65dd2a47b55",
     "slug": "mls-2026-07-16-sea-por-25410",
     "title": "Seattle Sounders FC vs. Portland Timbers",
