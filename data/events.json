@@ -654,6 +654,27 @@
     ]
   },
   {
+    "id": "d80f17d8-329a-4e3e-bda4-20e280f47a11",
+    "slug": "nrl-2026-07-17-syd-mel-25424",
+    "title": "Roosters vs. Storm",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T10:00:00.000Z",
+    "endsAt": "2026-07-17T12:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c2981515be4a46b9c3e3087982a7ef2e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/syd-mel",
+    "feeds": [
+      {
+        "id": "2745f614-72c3-4c35-96f6-7c50f9d2febe",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-17/syd-mel"
+      }
+    ]
+  },
+  {
     "id": "9de2f0e0-a5f4-49f4-83af-051bc5f800fc",
     "slug": "tour-de-france-stage-13-25365",
     "title": "Tour de France - Stage 13",
