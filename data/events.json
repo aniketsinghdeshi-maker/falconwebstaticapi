@@ -289,5 +289,68 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/alp-ber"
       }
     ]
+  },
+  {
+    "id": "62b8b435-d8ab-429c-9e1a-ac2ac75b14a7",
+    "slug": "cfl-2026-07-18-mtl-cgy-25392",
+    "title": "Montreal Alouettes vs. Calgary Stampeders",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T20:00:00.000Z",
+    "endsAt": "2026-07-18T23:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/4f05b8026f744b1150021b79e688ebd9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/mtl-cgy",
+    "feeds": [
+      {
+        "id": "b022727e-414d-4161-b0f3-eb3674082307",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/mtl-cgy"
+      }
+    ]
+  },
+  {
+    "id": "7c0a8cf1-28a3-464f-af72-1731d928253a",
+    "slug": "cfl-2026-07-18-tor-ham-25393",
+    "title": "Toronto Argonauts vs. Hamilton Tiger-Cats",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T23:30:00.000Z",
+    "endsAt": "2026-07-19T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/99674b1dd4533b6576aebb2fd1dae026-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/tor-ham",
+    "feeds": [
+      {
+        "id": "b09bac22-4be2-495d-9c26-400ed980b77c",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/tor-ham"
+      }
+    ]
+  },
+  {
+    "id": "b8825db0-a50a-4546-8734-e6b5fb97803e",
+    "slug": "afle-2026-07-19-fir-pan-25404",
+    "title": "Firenze Red Lions vs. Panthers Wroclaw",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T13:00:00.000Z",
+    "endsAt": "2026-07-19T16:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/aca54ebb11b43fd739e7ce6457dd03e4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-19/fir-pan",
+    "feeds": [
+      {
+        "id": "43402d91-1d52-4393-931a-d9dd15a33d6e",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-19/fir-pan"
+      }
+    ]
   }
 ]
