@@ -480,6 +480,27 @@
     ]
   },
   {
+    "id": "3f490054-f14e-4b83-9cbd-6e16500a7e7d",
+    "slug": "afl-2026-07-19-gcfc-wb-25420",
+    "title": "Gold Coast SUNS vs. Western Bulldogs",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T05:15:00.000Z",
+    "endsAt": "2026-07-19T08:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b62a4f8dd2310e713937c0a2e06d335d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/gcfc-wb",
+    "feeds": [
+      {
+        "id": "4b9ab31e-4f55-42cf-8139-5ad5bc77af66",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/gcfc-wb"
+      }
+    ]
+  },
+  {
     "id": "b8825db0-a50a-4546-8734-e6b5fb97803e",
     "slug": "afle-2026-07-19-fir-pan-25404",
     "title": "Firenze Red Lions vs. Panthers Wroclaw",
