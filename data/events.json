@@ -207,6 +207,48 @@
     ]
   },
   {
+    "id": "7233efe1-60f8-42da-8572-72acb24f0df6",
+    "slug": "nba-2026-07-15-mil-cha-25442",
+    "title": "Milwaukee Bucks vs. Charlotte Hornets",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T23:30:00.000Z",
+    "endsAt": "2026-07-16T02:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/1bb4add4b97ea1483c1fcb306aedfb98-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/mil-cha",
+    "feeds": [
+      {
+        "id": "9a46412e-e79c-46dd-8365-a61284c3510f",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/mil-cha"
+      }
+    ]
+  },
+  {
+    "id": "b7662fde-8f47-4ca9-b205-e8f4b2444bd5",
+    "slug": "nba-2026-07-15-bos-sac-25443",
+    "title": "Boston Celtics vs. Sacramento Kings",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T00:00:00.000Z",
+    "endsAt": "2026-07-16T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a312fdb947bfcc5fe2428a2825f90fdd-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/bos-sac",
+    "feeds": [
+      {
+        "id": "89b31e8a-dacd-4cf7-aa4b-cc705ea64d1c",
+        "sourceId": null,
+        "label": "ESPN2",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/bos-sac"
+      }
+    ]
+  },
+  {
     "id": "cb93931c-380d-4e5a-b36a-96a1ecd5adab",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
