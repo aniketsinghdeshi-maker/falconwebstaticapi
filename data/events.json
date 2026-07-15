@@ -333,6 +333,33 @@
     ]
   },
   {
+    "id": "031f41e0-3c3b-469e-8f88-dea1167a21a5",
+    "slug": "tour-de-france-stage-12-25364",
+    "title": "Tour de France - Stage 12",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T11:00:00.000Z",
+    "endsAt": "2026-07-16T16:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12",
+    "feeds": [
+      {
+        "id": "f1567194-88f2-4b3e-9bde-a441901aa48e",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12"
+      },
+      {
+        "id": "8184ac1d-9cb9-4f28-9fb8-1e8731e66653",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-12/peacock-en"
+      }
+    ]
+  },
+  {
     "id": "6eb688c1-c330-4b58-bd19-2720d3d1bf0a",
     "slug": "nba-2026-07-16-dal-okc-25461",
     "title": "Dallas Mavericks vs. Oklahoma City Thunder",
