@@ -291,6 +291,27 @@
     ]
   },
   {
+    "id": "243de40a-f45c-49b8-b820-ec8971ef8691",
+    "slug": "nba-2026-07-15-wsh-lac-25445",
+    "title": "Washington Wizards vs. LA Clippers",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T02:30:00.000Z",
+    "endsAt": "2026-07-16T05:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/88fa1102673739e3496713ac2e311c00-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/wsh-lac",
+    "feeds": [
+      {
+        "id": "57ac6a1c-8e74-4f47-8b01-0d09438692ad",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/wsh-lac"
+      }
+    ]
+  },
+  {
     "id": "cb93931c-380d-4e5a-b36a-96a1ecd5adab",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
@@ -308,6 +329,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-16/geel-stk"
+      }
+    ]
+  },
+  {
+    "id": "6eb688c1-c330-4b58-bd19-2720d3d1bf0a",
+    "slug": "nba-2026-07-16-dal-okc-25461",
+    "title": "Dallas Mavericks vs. Oklahoma City Thunder",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T20:00:00.000Z",
+    "endsAt": "2026-07-16T23:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/6b6f60045fef1ea842837fc9e0e04734-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/dal-okc",
+    "feeds": [
+      {
+        "id": "b2a88bc2-08c8-4a85-b4d3-bd0ef8bc44fd",
+        "sourceId": null,
+        "label": "Prime Video",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-16/dal-okc"
       }
     ]
   },
