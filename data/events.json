@@ -142,5 +142,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc"
       }
     ]
+  },
+  {
+    "id": "8b399568-5700-4573-941b-f65dd2a47b55",
+    "slug": "mls-2026-07-16-sea-por-25410",
+    "title": "Seattle Sounders FC vs. Portland Timbers",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T02:30:00.000Z",
+    "endsAt": "2026-07-17T05:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbae7ce912fdabce80dd189ad9f2fa19-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por",
+    "feeds": [
+      {
+        "id": "7ea5962d-cd9e-489d-ac5b-420493e7fb90",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por"
+      }
+    ]
   }
 ]
