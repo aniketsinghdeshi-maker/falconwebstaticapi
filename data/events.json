@@ -249,6 +249,27 @@
     ]
   },
   {
+    "id": "ab30d040-4679-403c-a68f-7aaef1e23566",
+    "slug": "wnba-2026-07-15-gs-ind-25470",
+    "title": "Golden State Valkyries vs. Indiana Fever",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T00:00:00.000Z",
+    "endsAt": "2026-07-16T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/52d1432f1fd930f8f0e6cf26f08a7240-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-15/gs-ind",
+    "feeds": [
+      {
+        "id": "b4ac01d1-1214-4a9a-a03f-d9f180daaa39",
+        "sourceId": null,
+        "label": "USA Net",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-15/gs-ind"
+      }
+    ]
+  },
+  {
     "id": "cb93931c-380d-4e5a-b36a-96a1ecd5adab",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
