@@ -184,5 +184,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl"
       }
     ]
+  },
+  {
+    "id": "a50bd52b-53ff-4778-a6cc-bcf1cfe22781",
+    "slug": "cfl-2026-07-17-bc-edm-25391",
+    "title": "BC Lions vs. Edmonton Elks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T01:00:00.000Z",
+    "endsAt": "2026-07-18T04:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/85bbcc20aaf30d7bd11a024ba09e99f4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm",
+    "feeds": [
+      {
+        "id": "b2f6c19f-fd30-49cc-91b3-3e1d8cb2fd95",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm"
+      }
+    ]
+  },
+  {
+    "id": "0533e259-003f-4cd7-a8a9-a7d23cd82b4c",
+    "slug": "mls-2026-07-17-la-lafc-25412",
+    "title": "LA Galaxy vs. LAFC",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T02:25:00.000Z",
+    "endsAt": "2026-07-18T05:25:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e1aa9d8767b7de5849ea8533a20cc418-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/la-lafc",
+    "feeds": [
+      {
+        "id": "bec29e4f-8456-4cff-b8ed-d901bf8e05bf",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/la-lafc"
+      }
+    ]
   }
 ]
