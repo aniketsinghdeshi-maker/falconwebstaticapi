@@ -888,6 +888,27 @@
     ]
   },
   {
+    "id": "66abaff6-3936-428a-b673-b6b87e26fbe6",
+    "slug": "nrl-2026-07-18-can-sou-25425",
+    "title": "Raiders vs. Rabbitohs",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T05:00:00.000Z",
+    "endsAt": "2026-07-18T07:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/847804999935d91a014cec1e4c751315-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-sou",
+    "feeds": [
+      {
+        "id": "82da40f8-1aa9-4cd3-9c72-0c477bde541c",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/can-sou"
+      }
+    ]
+  },
+  {
     "id": "84023093-3347-49d4-a563-b532188dda97",
     "slug": "afl-2026-07-18-nmfc-melb-25416",
     "title": "North Melbourne vs. Melbourne",
@@ -905,6 +926,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/nmfc-melb"
+      }
+    ]
+  },
+  {
+    "id": "a48945d7-71c4-4fe9-87a0-8e17be62ac13",
+    "slug": "nc-2026-07-18-nzl-irl-25481",
+    "title": "New Zealand vs. Ireland",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T07:10:00.000Z",
+    "endsAt": "2026-07-18T09:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b815a50aaea7f3fec5dec7fe211c0270-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/nzl-irl",
+    "feeds": [
+      {
+        "id": "332af319-b397-431a-b5ae-335b5b905287",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/nzl-irl"
       }
     ]
   },
