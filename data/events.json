@@ -199,5 +199,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-29/tot-syd"
       }
     ]
+  },
+  {
+    "id": "35c2d6d9-9d4e-43bd-8bef-b38dd546f7f1",
+    "slug": "friendly-2026-08-01-che-tot-25610",
+    "title": "Chelsea vs. Tottenham Hotspur",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-08-01T09:45:00.000Z",
+    "endsAt": "2026-08-01T11:45:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fe4747a0b81161d0ad62b8989db2330e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-01/che-tot",
+    "feeds": [
+      {
+        "id": "465f488f-4f1d-41fc-8124-bccec3de0668",
+        "sourceId": null,
+        "label": "SPURSPLAY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-01/che-tot"
+      }
+    ]
   }
 ]
