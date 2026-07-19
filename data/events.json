@@ -369,6 +369,48 @@
     ]
   },
   {
+    "id": "e52a4bba-73ae-45bc-9223-88160fdb2b79",
+    "slug": "mlb-2026-07-19-det-laa-25635",
+    "title": "Detroit Tigers vs. Los Angeles Angels",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T20:07:00.000Z",
+    "endsAt": "2026-07-19T23:37:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/1f848879921ad7a519de06ff7ab28100-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/det-laa",
+    "feeds": [
+      {
+        "id": "cdcbfc61-2e28-4e93-a9c6-3665da139844",
+        "sourceId": null,
+        "label": "Angels.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/det-laa"
+      }
+    ]
+  },
+  {
+    "id": "5165b121-35b2-45b2-9581-8da00e4b72da",
+    "slug": "mlb-2026-07-19-sf-sea-25636",
+    "title": "San Francisco Giants vs. Seattle Mariners",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T20:10:00.000Z",
+    "endsAt": "2026-07-19T23:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/5ec6c3d9194087d1165e1e50e73ba561-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/sf-sea",
+    "feeds": [
+      {
+        "id": "eb5019b1-3a50-4983-9094-9f3945b8c54f",
+        "sourceId": null,
+        "label": "NBC Sports BA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/sf-sea"
+      }
+    ]
+  },
+  {
     "id": "b9cddc68-d8c5-4451-8d85-dd6f5a0bd4d3",
     "slug": "cfl-2026-07-19-wpg-ott-25394",
     "title": "Winnipeg Blue Bombers vs. Ottawa RedBlacks",
