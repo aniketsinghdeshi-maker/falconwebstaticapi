@@ -302,7 +302,7 @@
     "startsAt": "2026-07-19T19:00:00.000Z",
     "endsAt": "2026-07-19T21:30:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/d906b751d276cb8b5583d2e5dba1fb02-thumbnail.jpg",
-    "isPopular": false,
+    "isPopular": true,
     "sortOrder": 0,
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg",
     "feeds": [
@@ -335,6 +335,78 @@
         "sourceId": null,
         "label": "DAZN Spain",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/dazn-spain-es"
+      },
+      {
+        "id": "0eb4edc1-fdb9-49de-982d-54917086af5c",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/telemundo-es"
+      },
+      {
+        "id": "4497e7e8-7e73-4d55-875c-162504eb3190",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/peacock-4k-hevc-es"
+      },
+      {
+        "id": "12d8963d-945d-43a8-8f60-255c59af8877",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/fussballtv-4k-hevc-de"
+      },
+      {
+        "id": "0404ab27-eb44-49ba-b073-53eccda10f5b",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/fussballtv-4k-no-commentary-hevc-de"
+      },
+      {
+        "id": "1d2c4692-8b30-429c-bb7d-0014c7aef321",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/fussballtv-4k-tactical-hevc-de"
+      },
+      {
+        "id": "fcec457e-80ce-434b-9e36-6103bfa33484",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/fussballtv-4k-tactical-no-commentary-hevc-de"
+      },
+      {
+        "id": "7425db72-cb5a-4b12-a9bb-101b2ab73b5c",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/itv1-en-GB"
+      },
+      {
+        "id": "eaff122d-a020-4b20-a910-cf5ad2d9a758",
+        "sourceId": null,
+        "label": "ZDF",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/zdf-de"
+      },
+      {
+        "id": "dfd82348-773c-4821-a6e6-390305f5075f",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/orf-1-de-at"
+      },
+      {
+        "id": "bf1fbb3c-723a-478d-9a72-d2264be6a5f9",
+        "sourceId": null,
+        "label": "TV4",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/tv4-sv"
+      },
+      {
+        "id": "4b9c4170-015d-4f3b-b9a3-e53249e91a4f",
+        "sourceId": null,
+        "label": "ESPN Argentina",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/espn-argentina-es-AR"
+      },
+      {
+        "id": "47dd323e-a95c-4a6f-ade6-82865dd00280",
+        "sourceId": null,
+        "label": "DSPORTS Argentina",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/dsports-argentina-es-AR"
       }
     ]
   },
