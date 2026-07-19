@@ -495,6 +495,27 @@
     ]
   },
   {
+    "id": "7311faec-1cbe-475f-9e9c-ee85f0aea0c5",
+    "slug": "nba-2026-07-19-den-tor-25573",
+    "title": "Denver Nuggets vs. Toronto Raptors",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T22:30:00.000Z",
+    "endsAt": "2026-07-20T01:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/5551e2958ca09c2b3d7aa65620474a34-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-19/den-tor",
+    "feeds": [
+      {
+        "id": "d868e674-827b-4482-bf5f-2fd663e626c1",
+        "sourceId": null,
+        "label": "ESPN2",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-19/den-tor"
+      }
+    ]
+  },
+  {
     "id": "b9cddc68-d8c5-4451-8d85-dd6f5a0bd4d3",
     "slug": "cfl-2026-07-19-wpg-ott-25394",
     "title": "Winnipeg Blue Bombers vs. Ottawa RedBlacks",
@@ -512,6 +533,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-19/wpg-ott"
+      }
+    ]
+  },
+  {
+    "id": "434db12c-3901-4099-b650-2fcc1852ee72",
+    "slug": "wnba-2026-07-19-con-phx-25622",
+    "title": "Connecticut Sun vs. Phoenix Mercury",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T23:00:00.000Z",
+    "endsAt": "2026-07-20T02:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2644a541f8faa7d943d6ff305de3e2a0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-19/con-phx",
+    "feeds": [
+      {
+        "id": "d823ee45-1cbb-48e2-8e96-0404e98a81bf",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-19/con-phx"
       }
     ]
   },
