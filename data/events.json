@@ -1,5 +1,26 @@
 [
   {
+    "id": "94322144-90da-4a4e-b7ed-bdbebe5e1e24",
+    "slug": "odi-2026-07-19-eng-ind-25653",
+    "title": "England vs. India",
+    "category": "Cricket",
+    "status": "live",
+    "startsAt": "2026-07-19T10:00:00.000Z",
+    "endsAt": "2026-07-19T18:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/9e581346298958eaed148682aff7ab0a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/odi/2026-07-19/eng-ind",
+    "feeds": [
+      {
+        "id": "27651ed1-9ac1-4466-b2b4-5e786b02d727",
+        "sourceId": null,
+        "label": "Sky Sport 2 NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/odi/2026-07-19/eng-ind"
+      }
+    ]
+  },
+  {
     "id": "7b5ef6ad-8da1-4927-a637-3bcbfbc13318",
     "slug": "mlb-2026-07-19-chw-tor-25623",
     "title": "Chicago White Sox vs. Toronto Blue Jays",
@@ -575,6 +596,27 @@
         "sourceId": null,
         "label": "NBC",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/lad-nyy/game-2"
+      }
+    ]
+  },
+  {
+    "id": "5d2e10d9-1618-4243-88a4-0fdd98b1d2cd",
+    "slug": "nba-2026-07-19-gs-mem-25619",
+    "title": "Golden State Warriors vs. Memphis Grizzlies",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-20T01:00:00.000Z",
+    "endsAt": "2026-07-20T04:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/31233f923f14ed899d061ed305ec6a4f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-19/gs-mem",
+    "feeds": [
+      {
+        "id": "a3e8f799-d03b-4b4e-8313-55b2b5189fa3",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-19/gs-mem"
       }
     ]
   },
