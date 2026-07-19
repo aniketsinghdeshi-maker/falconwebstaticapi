@@ -147,6 +147,69 @@
     ]
   },
   {
+    "id": "881acae9-0e2b-4dfa-af84-3be5506a4163",
+    "slug": "mlb-2026-07-19-mia-mil-25630",
+    "title": "Miami Marlins vs. Milwaukee Brewers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T18:10:00.000Z",
+    "endsAt": "2026-07-19T21:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/018a14c0513fdf62b2d637794cb99488-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/mia-mil",
+    "feeds": [
+      {
+        "id": "d3397b0a-c1e7-456a-8615-3de039c004bb",
+        "sourceId": null,
+        "label": "Brewers.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/mia-mil"
+      }
+    ]
+  },
+  {
+    "id": "6d8c76f3-1be8-4eb6-ad86-9c70dd90584c",
+    "slug": "mlb-2026-07-19-sd-kc-25631",
+    "title": "San Diego Padres vs. Kansas City Royals",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T18:10:00.000Z",
+    "endsAt": "2026-07-19T21:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/81dbebc7f186ac225f659b784a97d470-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/sd-kc",
+    "feeds": [
+      {
+        "id": "f6301fcf-0927-4b45-b372-a0b0a767de22",
+        "sourceId": null,
+        "label": "Royals.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/sd-kc"
+      }
+    ]
+  },
+  {
+    "id": "62a866ba-cfca-46c0-85d6-59c9bc798384",
+    "slug": "mlb-2026-07-19-min-chc-25632",
+    "title": "Minnesota Twins vs. Chicago Cubs",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T18:20:00.000Z",
+    "endsAt": "2026-07-19T21:50:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/821716a9f8928521bc2ae15f794234d7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/min-chc",
+    "feeds": [
+      {
+        "id": "503c5e7f-e599-4045-a768-c816e88db569",
+        "sourceId": null,
+        "label": "Marquee Sports Net",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/min-chc"
+      }
+    ]
+  },
+  {
     "id": "857428ac-491a-4485-9426-ff6deea782bd",
     "slug": "wc-2026-07-19-esp-arg-25553",
     "title": "Spain vs. Argentina",
