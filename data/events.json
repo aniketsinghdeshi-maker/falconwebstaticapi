@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "85c8f8af-b503-4b13-a6de-68c4b7d708ff",
+    "slug": "wnba-2026-07-19-la-dal-25620",
+    "title": "Los Angeles Sparks vs. Dallas Wings",
+    "category": "Basketball",
+    "status": "live",
+    "startsAt": "2026-07-19T17:00:00.000Z",
+    "endsAt": "2026-07-19T20:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e18261031581a059c683a4be5271e0e9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-19/la-dal",
+    "feeds": [
+      {
+        "id": "d1fb7d81-288f-4fe5-9540-b4936382f8a6",
+        "sourceId": null,
+        "label": "ABC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-19/la-dal"
+      }
+    ]
+  },
+  {
     "id": "7ed52647-f6aa-4ec9-aed4-c7619dd793b1",
     "slug": "mlb-2026-07-19-nym-phi-25625",
     "title": "New York Mets vs. Philadelphia Phillies",
@@ -411,6 +432,27 @@
     ]
   },
   {
+    "id": "7992f375-67e7-43d4-887d-016a3c8d2d0c",
+    "slug": "mlb-2026-07-19-stl-ari-25637",
+    "title": "St. Louis Cardinals vs. Arizona Diamondbacks",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T20:10:00.000Z",
+    "endsAt": "2026-07-19T23:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2238e7a5262b6990446ff34bc82dee89-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/stl-ari",
+    "feeds": [
+      {
+        "id": "c35aa4c8-b5ab-4a02-9074-70347f7d42a0",
+        "sourceId": null,
+        "label": "DBACKS.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/stl-ari"
+      }
+    ]
+  },
+  {
     "id": "b9cddc68-d8c5-4451-8d85-dd6f5a0bd4d3",
     "slug": "cfl-2026-07-19-wpg-ott-25394",
     "title": "Winnipeg Blue Bombers vs. Ottawa RedBlacks",
@@ -428,6 +470,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-19/wpg-ott"
+      }
+    ]
+  },
+  {
+    "id": "83f2bbc8-df05-4d80-b222-c710d10a4511",
+    "slug": "mlb-2026-07-19-lad-nyy-game-2-25638",
+    "title": "Los Angeles Dodgers vs. New York Yankees",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T23:20:00.000Z",
+    "endsAt": "2026-07-20T02:50:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/8b20dfff858652a638b7ba004350928e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/lad-nyy/game-2",
+    "feeds": [
+      {
+        "id": "6fec6e77-184e-4d54-b942-c09303a0fa79",
+        "sourceId": null,
+        "label": "NBC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/lad-nyy/game-2"
       }
     ]
   },
