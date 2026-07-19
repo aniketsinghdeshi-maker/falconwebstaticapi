@@ -63,6 +63,27 @@
     ]
   },
   {
+    "id": "ec6fe1c7-fc65-462b-9b90-61263a9e3a8f",
+    "slug": "mlb-2026-07-19-tb-bos-25626",
+    "title": "Tampa Bay Rays vs. Boston Red Sox",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T17:35:00.000Z",
+    "endsAt": "2026-07-19T21:05:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/ac5dacb24d6c6379eda31fb68f53bfe4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/tb-bos",
+    "feeds": [
+      {
+        "id": "324b6105-5970-41c0-b156-fb791df8f94e",
+        "sourceId": null,
+        "label": "NESN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/tb-bos"
+      }
+    ]
+  },
+  {
     "id": "857428ac-491a-4485-9426-ff6deea782bd",
     "slug": "wc-2026-07-19-esp-arg-25553",
     "title": "Spain vs. Argentina",
