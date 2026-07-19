@@ -115,5 +115,89 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-19/esp-arg/dsports-argentina-es-AR"
       }
     ]
+  },
+  {
+    "id": "b5e6677d-1747-4c88-a3de-30dd02a56106",
+    "slug": "friendly-2026-07-22-tot-mkd-25607",
+    "title": "Tottenham Hotspur vs. MK Dons",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-22T15:00:00.000Z",
+    "endsAt": "2026-07-22T17:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/356107330f9f29eabf478a3c627570e5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-22/tot-mkd",
+    "feeds": [
+      {
+        "id": "3d85a868-cb0c-4154-9b04-6d447f3e4bf5",
+        "sourceId": null,
+        "label": "SPURSPLAY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-22/tot-mkd"
+      }
+    ]
+  },
+  {
+    "id": "e1bbbbc1-2288-47a1-900d-55e11e4beb45",
+    "slug": "friendly-2026-07-25-liv-sun-25659",
+    "title": "Liverpool vs. Sunderland",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-25T22:00:00.000Z",
+    "endsAt": "2026-07-26T00:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/435d2bce27607bd304e5530406e34eba-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-25/liv-sun",
+    "feeds": [
+      {
+        "id": "a1d3e06e-0c28-4ab7-a105-5a8714307dd2",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-25/liv-sun"
+      }
+    ]
+  },
+  {
+    "id": "2a795ddd-aa9c-474f-81c1-725b0ac549a0",
+    "slug": "friendly-2026-07-26-afc-tot-25608",
+    "title": "Auckland FC vs. Tottenham Hotspur",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-26T03:30:00.000Z",
+    "endsAt": "2026-07-26T05:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/10a46d1e16a4e1217c7dbe978630edd5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-26/afc-tot",
+    "feeds": [
+      {
+        "id": "b44b4691-21ff-4b25-b1a5-100fd398cc7f",
+        "sourceId": null,
+        "label": "SPURSPLAY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-26/afc-tot"
+      }
+    ]
+  },
+  {
+    "id": "dd527bac-b6d2-4bbb-b2da-828a66e7a12e",
+    "slug": "friendly-2026-07-29-tot-syd-25609",
+    "title": "Tottenham Hotspur vs. Sydney FC",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-29T09:45:00.000Z",
+    "endsAt": "2026-07-29T11:45:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/15b021a4622508811879f9d06aef2b94-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-29/tot-syd",
+    "feeds": [
+      {
+        "id": "387439d2-dccc-4c4d-8901-8fe62dfe9843",
+        "sourceId": null,
+        "label": "SPURSPLAY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-07-29/tot-syd"
+      }
+    ]
   }
 ]
