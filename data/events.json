@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "b2c471bf-b2e4-4faa-95de-d12d6c286029",
+    "slug": "mensvnl-2026-07-19-ukr-ger-25642",
+    "title": "Ukraine vs. Germany",
+    "category": "Volleyball",
+    "status": "live",
+    "startsAt": "2026-07-19T14:30:00.000Z",
+    "endsAt": "2026-07-19T18:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a226bf40c0499d09f3a51f1bd95b2d21-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/ukr-ger",
+    "feeds": [
+      {
+        "id": "8706b4ac-0c52-45cb-a1a3-0e51b22b4bf3",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/ukr-ger"
+      }
+    ]
+  },
+  {
     "id": "7b5ef6ad-8da1-4927-a637-3bcbfbc13318",
     "slug": "mlb-2026-07-19-chw-tor-25623",
     "title": "Chicago White Sox vs. Toronto Blue Jays",
